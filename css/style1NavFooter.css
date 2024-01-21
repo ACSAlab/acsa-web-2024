@@ -1,0 +1,346 @@
+/* @charset "UTF-8"; */
+
+
+/* 文字字体，字号，颜色 */
+/* 背景色，长宽，其他 */
+
+
+.top-brand-bar{
+    /* 悬浮 */
+    position: fixed; /* 固定导航栏位置 */
+    top: 0; /* 将导航栏固定在页面顶部 */
+
+    height: 20px;  
+    width: 100%;
+    padding: 5px; /* 设置导航栏内边距*/
+
+    z-index: 1000; /* 设置导航栏的层级，确保它在其他元素之上 */
+    background-color: #fff;
+	margin: 0 auto;
+}
+
+.top-brand-column{
+    /* 悬浮 */
+    position: absolute; 
+    left: 20%;
+    right: 20%;
+    display: flex;
+    background-color: #fff;
+    z-index: 1001; /* 设置导航栏的层级，确保它在其他元素之上 */
+}
+
+.top-brand-text{
+    font-family: Stanford,"Source Serif Pro",Georgia,Times,Times New Roman,serif;
+    font-size: 20px;
+    text-decoration: none; /* 去除下划线， 去除装饰*/
+    color: #8c1515;
+
+    -webkit-font-smoothing: antialiased;  /* 启用 Webkit 渲染引擎的抗锯齿效果 */
+    -moz-osx-font-smoothing: auto;        /*启用 Mozilla 渲染引擎的抗锯齿效果 */
+}
+
+.navbar {
+    position: fixed; /* 固定导航栏位置 */
+    top: 30px; /*top-bar height+2*padding */
+    left: 0px;
+
+    height: 30px; 
+    width: 100%; /* 设置导航栏宽度为100% */
+    padding: 10px; /* 设置导航栏内边距*/
+
+    background-color: #172e5c; /* 设置导航栏背景颜色 */
+    color: #fff; /* 设置导航栏文字颜色 */
+    z-index: 1000; /* 设置导航栏的层级，确保它在其他元素之上 */
+}
+
+.navbar-column {
+    position: absolute; 
+    top: 10px;
+    left: 20%;
+    right: 20%;
+
+    display: flex;
+    /* justify-content: flex-end; */
+    align-items: center; /* 垂直居中对齐 */
+}
+
+/* 图片容器样式，将 margin-right 设置为 auto 以推到左边 */
+.navbar-logo{
+    margin-right: auto;
+}
+
+.navbar-text {
+    text-decoration: none;
+    color: #fff; /* 设置链接颜色 */
+    margin: 0 15px; /* 为了添加一些间距，可以根据需要调整 */
+    font-family: Source Sans Pro,Helvetica Neue,Helvetica,Arial,sans-serif;
+    /* font-family: Circular Std,Source Sans Pro,sans-serif; */
+    font-weight: 600;
+    text-shadow: 0 1px 7px rgba(0,0,0,.4);
+
+    transition: color 0.3s;
+}
+
+/* grey new bar  */
+
+.first-layer-navbar{
+    background: linear-gradient(0deg,rgba(0,0,0,.75),#000);
+    /* margin-left: -35px;
+    margin-right: -35px; */
+    height: 2.6666666667em;
+    width: calc(min(100%, 1430px));
+    padding-left: calc(50% - 715px);
+    padding-right: calc(50% - 715px);
+    font-family: Source Sans Pro,Helvetica Neue,Helvetica,Arial,sans-serif;
+    line-height: 1;
+    position: fixed;
+    top: 0;
+    text-align: right;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    z-index: 1000; /* 设置导航栏的层级，确保它在其他元素之上 */
+    display: inline-flex;
+
+}
+
+.first-layer-navbar .navbar-logo{
+    position: relative;
+    /* top: 7px; */
+    margin-right: auto;
+}
+
+.first-layer-navbar .navbar-logo img{
+    position: relative;
+    top: 7px;
+    margin-right: auto;
+}
+
+
+
+.first-layer-navbar .navbar-text{
+    position: relative;
+    top: 0.8333em;
+    /* left: calc(715px - 35px); */
+}
+
+/* 伪元素 ::before 用于创建横线 */
+.first-layer-navbar .navbar-text-first::before {
+    content: "";
+    position: absolute;
+    top: -0.8333em;
+    left: 0;
+    bottom: 0;
+    height: 2px;
+    width: 0;
+    background-color: #fff;
+    transform-origin: 0 50%;
+    transition: transform 0.3s, width 0.3s;
+  }
+
+/* 鼠标悬浮时的样式变化 */
+.first-layer-navbar .navbar-text-first:hover::before {
+    transform: scaleX(2);
+    width: 50%;
+}
+
+.normal-font{
+    font-weight: 400;
+}
+
+.second-layer-navbar{
+    /* background: linear-gradient(0deg,transparent,rgba(0,0,0,.99)),linear-gradient(0deg,transparent 20%,rgba(0,0,0,.6)); */
+    /* padding-left: calc(0% + 30px);
+    padding-right: calc(0% + 30px); */
+    
+    position: fixed;
+    top: 2.6666666667em;
+    bottom: auto;
+    width: 100%;
+    line-height: 1.8;
+    font-family: Source Sans Pro,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-weight: 400;
+    text-align: center;
+    padding-bottom: 0;
+    transition: box-shadow .3s ease;
+    z-index: 1000; /* 设置导航栏的层级，确保它在其他元素之上 */
+
+    display: inline-block;
+
+}
+
+.second-layer-navbar::before{
+    content: "";
+    /* color: red; */
+    background: linear-gradient(0deg,transparent,rgba(0,0,0,.99)),linear-gradient(0deg,transparent 20%,rgba(0,0,0,.6));
+    
+    position: absolute;
+    top: 0;
+    bottom: -2.6em;
+    left: 0;
+    right: 0;
+    opacity: .75;
+    z-index: 999; /* 设置导航栏的层级，确保它在其他元素之上 */
+
+}
+
+.second-layer-navbar a{
+    position: relative;
+    top: -0.4em;
+    z-index: 1001; /* 设置导航栏的层级，确保它在其他元素之上 */
+
+}
+
+.second-layer-navbar .navbar-text{
+    font-size: 1.3em;
+}
+
+/* 伪元素 ::before 用于创建横线 */
+.second-layer-navbar .navbar-text::before {
+    content: "";
+    position: absolute;
+    top:calc(1em + 7px);
+    left: 50%;
+    bottom: 0;
+    height: 2px;
+    width: 0;
+    background-color: #fff;
+    transform-origin: 100% 50%;
+    transition: transform 0.3s, width 0.3s;
+  }
+
+/* 鼠标悬浮时的样式变化 */
+.second-layer-navbar .navbar-text:hover::before {
+    transform: scaleX(2);
+    width: 50%;
+}
+
+
+/* other-white-navbar */
+
+.other-white-navbar .first-layer-navbar{
+    background: #172e5c;
+}
+
+.other-white-navbar .second-layer-navbar{
+    height: 3em;
+    color: #000;
+    background: #fff;
+    box-shadow: 0 0 10px rgba(0,0,0,.15), 0 3px 3px rgba(0,0,0,.15);
+}
+
+.other-white-navbar .second-layer-navbar::before{
+    background: #fff;
+    bottom: 0;
+}
+
+.other-white-navbar .second-layer-navbar .navbar-text{
+    color: #000;
+    text-shadow: none;
+    font-weight: lighter;
+}
+
+.other-white-navbar .second-layer-navbar .hightlightTitle{
+    font-weight: 600;
+}
+
+.other-white-navbar .second-layer-navbar .navbar-text::before {
+    background-color: #000;
+}
+
+
+/* main */
+
+#content{
+    min-height: calc(100vh - 80px); 
+
+}
+.topdown-main{
+    margin-top: 80px;
+}
+
+
+/* footer */
+
+.topdown-footer{
+    position: relative;
+}
+
+.footer-primary{
+    height: 45px;
+    background-color: #172e5c;
+
+}
+.footer-secondary{
+    height: 90px;
+    background-color: #2e2d29;
+    color: #fff;
+}
+
+.footer-secondary-column{
+    position: absolute; 
+    left: 20%;
+    right: 20%;
+    /* display: flex; */
+
+}
+
+.footer-secondary-text{
+    color: rgba(154, 154, 154);
+    text-decoration: none; /* 去除下划线， 去除装饰*/
+}
+
+.footer-secondary-url{
+    color: #fff;
+    text-decoration: none; /* 去除下划线， 去除装饰*/
+}
+
+/* stacked nav bar  */
+
+/* 初始样式，用于大屏幕 */
+/* .menu-list {
+    display: flex;
+    list-style: none;
+} */
+
+.menu-button{
+    color: #172e5c;
+    background-color: #fff;
+    padding: 0px 5px; 
+    height: 20px;
+    width: 30px;
+    border-bottom: 1px dashed #212121;
+    border-radius: 5px; /* 圆角边框 */
+    cursor: pointer;
+    transition: background-color 0.3s ease; /* 添加过渡效果 */
+
+    position: relative;
+    z-index: 2000;
+    display: none;
+    margin-top: 15px;
+    margin-left: 90%; /* 设置左右边距为auto，实现水平居中 */
+}
+
+/* 当屏幕宽度小于某个阈值时，隐藏菜单项 */
+@media screen and (max-width: 850px) {
+
+    .other-white-navbar .second-layer-navbar .navbar-text {
+        background-color: #fff;
+        box-shadow: 0 0 10px rgba(0,0,0,.15), 0 3px 3px rgba(0,0,0,.15);
+    }
+
+    .menu-list {
+        display: none;
+    }
+
+    .menu-list.active {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .menu-button{
+        display: block;
+    }
+}
+
+
+
