@@ -1,0 +1,517 @@
+@charset "UTF-8";
+
+
+/* 文字字体，字号，颜色 */
+/* 背景色，长宽，其他 */
+
+
+.home-fisrt-full-page{
+    position: fixed;
+    top: 80px;
+    bottom: 80px;
+    left: 0px;
+    z-index: -3;
+
+    height: 100%;
+    width: 100%;
+
+    /* background-color: aquamarine; */
+    /* border: 3px solid #73AD21; */
+}
+
+.slogan{
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    /* padding: 150px; */
+    /* transform: translate(-50%, -50%)的作用是将元素自身的50%宽度和50%高度分别向左和向上移动，这样就可以使文本在垂直和水平方向上都与页面中心对齐。 */
+    transform: translate(-50%, -50%);
+    color: #fff; /* 设置链接颜色 */
+    font-family: Stanford,Source Serif Pro,Georgia,Times,Times New Roman,serif!important;
+    font-weight: normal;
+    font-size: 7.4505805969em;
+    text-align: center;
+    text-shadow: 0 0 30px rgba(0,0,0,.7);
+}
+
+.red-bold {
+    color: rgba(177, 4, 14); /* 设置红色 */
+    font-weight: bold; /* 设置加粗 */
+}
+
+
+.home-explore-bar{
+    display: flex;
+    align-items: center; /* 垂直居中 */
+    position: absolute;
+    z-index: -1;
+    bottom: 80px;
+
+    height: 30px; 
+    width: 100%; /* 设置导航栏宽度为100% */
+    padding: 10px; /* 设置导航栏内边距*/
+
+    background-color: #172e5c;
+}
+
+.home-explore-column{
+    /* position: absolute;
+    top: 0px; */
+    width: 100%;
+    margin: 0 auto;
+}
+
+.home-explore-text {
+    /* margin-top: 10px; */
+    color: #fff; /* 设置链接颜色 */
+    /* 为了添加一些间距，可以根据需要调整 */
+    /* margin-left: 30px;  */
+    font-family: Source Sans Pro,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-weight: 600;
+    text-align:center;
+    text-shadow: 0 1px 7px rgba(0,0,0,.4);
+}
+
+.home-explore-arrow {
+    position: relative;
+    top: 5px;
+}
+
+/* reset section */
+
+.panel-white{
+    background-color: #fff;
+    padding: 1em calc(50% - 720px);
+    text-align: center;
+}
+
+.panel-fog{
+    background-color: rgb(247, 247, 247);
+    padding: 1em calc(50% - 720px);
+    text-align: center;
+}
+
+header {
+    padding-left: calc(50% - 402.5px);
+    padding-right: calc(50% - 402.5px);
+    padding-top: 35px;
+    text-align: center;
+    padding-bottom: 26.25px;
+}
+
+.section-title{
+    font-size: 3.0517578125em;
+    letter-spacing: -.85px;
+    font-weight: 800;
+    line-height: 1.25em;
+    color: #000;
+    font-family: Source Sans Pro,Helvetica Neue,Helvetica,Arial,sans-serif;
+    margin-top: 0;
+    margin-bottom: 0;
+    transform: scaleY(1.1);
+}
+
+.section-subtitle{
+    font-size: 1.56em;
+    line-height: 1.59em;
+    color: #000;
+    font-family: Source Sans Pro,Helvetica Neue,Helvetica,Arial,sans-serif;
+
+    margin-top: 0.33em;
+    margin-bottom: 35px;
+}
+
+.section-body{
+    text-align: center;
+    line-height: 1.59375;
+    font-weight: 300;
+    font-size: 1.9em;
+
+    margin-top: 0;
+    padding-top: 0;
+}
+
+.more-button{
+    /* width: 387px; */
+    display: inline-block;
+    text-align: center;
+    padding: 0.4444444444em 1em 0.5555555556em;
+
+    line-height: 1.5;
+    font-weight: 600;
+    font-size: 1.25em;
+
+    color: #fff;
+    background-color: #25427b; /*#b1040e;*/
+    text-decoration: none;
+    box-shadow: 0 0 10px rgba(0,0,0,.1),0 0 5px rgba(0,0,0,.1);
+}
+
+.image-container {
+    position: relative;
+    width: 100%;
+    height: 40vh;
+    overflow: hidden;
+}
+
+.big-pic{
+    width: 100%;
+    height: 100%;
+
+    /* position: absolute;
+    top: 20vh;
+    bottom: 0%; */
+    object-fit: cover;  
+    /* opacity: .7;  */
+
+}
+
+.home-rest-pages{
+    margin-top: 100vh;
+    z-index: 0;
+
+    background-color: rgb(247, 247, 247);
+}
+
+/* grid */
+
+.six-grids{
+    display: flex; /*横向排开 */
+    flex-wrap: wrap; /* 允许自动换行 */
+}
+
+.four-grids{
+    display: flex; /*横向排开 */
+    flex-wrap: wrap; /* 允许自动换行 */
+}
+
+.three-grids{
+    display: flex; /*横向排开 */
+    flex-wrap: wrap; /* 允许自动换行 */
+}
+
+.big-grid{
+    position: relative;
+    /* border: 1px solid #ad214b; */
+    width: calc(25% + 315px);
+    height: 350px;
+    box-shadow: 0 0 10px rgba(0,0,0,.15), 0 3px 3px rgba(0,0,0,.15);
+    margin-left: 35px;
+    margin-bottom: 35px;
+    overflow: hidden; /* 隐藏超出容器的部分 */
+    background-color: #fff;
+}
+
+.small-grid{
+    position: relative;
+    /* border: 1px solid #22ca76; */
+    width: calc(12.5% + 140px); /*127px*/
+    height: 350px;
+    box-shadow: 0 0 10px rgba(0,0,0,.15), 0 3px 3px rgba(0,0,0,.15);
+    margin-left: 35px;
+    margin-bottom: 35px;
+    overflow: hidden; /* 隐藏超出容器的部分 */
+    background-color: #fff;
+}
+
+.one-grid{
+    position: relative;
+    /* border: 1px solid #22ca76; */
+    width: 30.5%; /*127px*/
+    height: 550px;
+    /* box-shadow: 0 0 10px rgba(0,0,0,.15), 0 3px 3px rgba(0,0,0,.15); */
+    margin: 19px;
+
+    overflow: hidden; /* 隐藏超出容器的部分 */
+    background-color: #fff;
+}
+
+.quarter-grid{
+    position: relative;
+    /* border: 1px solid #22ca76; */
+    width: calc(12.5% + 140px); /*127px*/
+    height: 550px;
+    box-shadow: 0 0 10px rgba(0,0,0,.15), 0 3px 3px rgba(0,0,0,.15);
+    margin-left: 35px;
+    margin-bottom: 35px;
+
+    overflow: hidden; /* 隐藏超出容器的部分 */
+    background-color: #fff;
+}
+
+.small-grid-pic{
+    box-shadow: 0 0 1px rgba(0,0,0,.15), 0 1px 1px rgba(0,0,0,.15);
+    height: 200px;
+}
+
+.one-grid-pic{
+    box-shadow: 0 0 10px rgba(0,0,0,.15), 0 3px 3px rgba(0,0,0,.15);
+    height: 290px;
+}
+
+.quarter-grid-pic{
+    box-shadow: 0 0 10px rgba(0,0,0,.15), 0 3px 3px rgba(0,0,0,.15);
+    height: 290px;
+}
+
+.start-time{
+    text-transform: uppercase;
+    text-align: left;
+    color: #2E2D29;
+}
+
+.quarter-grid .small-grid-content{
+    top: 350px;
+}
+
+.event-short-date {
+    margin-left: 28px;
+    background-color: #2f2424;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.15), 0 3px 3px rgba(0, 0, 0, 0.15);
+    margin-bottom: -2.7em;
+    top: -2.5em;
+    position: relative;
+    background: #2f2424;
+    width: 5em;
+    height: 5em;
+    padding: 0;
+
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    color: #fff;
+    font-family: "Source Sans Pro", Helvetica, Arial, sans-serif;
+    font-weight: 800;
+    line-height: 1.1;
+    text-align: center;
+    text-transform: uppercase;
+    z-index: 1;
+}
+
+.month {
+    display: block;
+    font-weight: 400;
+    line-height: 1.1;
+    border: 0 none;
+    text-decoration: none;
+}
+
+.day{
+    font-size: 1.375em;
+    font-weight: 800;
+}
+
+.landscape {
+    object-fit: cover; /* 填充整个容器，保持纵横比，可能裁剪部分内容 */
+    width: 100%;
+    height: 100%;
+}
+
+.grid-content{
+    position: absolute;
+    top: 200px;
+    width: calc(100% - 56px);
+    height: 150px;
+    padding: 28px;
+    background: linear-gradient(180deg,transparent,rgba(0,0,0,.85) 80%);
+}
+
+.post-meta{
+    position: absolute;
+    top: 0px;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 1em;
+    line-height: 1.2;
+    color: rgb(252, 230, 225);
+    text-shadow: rgba(0,0,0,.6) 0 0 2px;
+    text-align: left;
+}
+
+.grid-content h3 a{
+    position: absolute;
+    top: 40px;
+    width: 90%;
+    font-size: 1.3888888889em;
+    text-decoration: none;
+    letter-spacing: .03em;
+    font-weight: 600;
+    line-height: 1.2;
+    display: block;
+    text-shadow: rgba(0,0,0,.6) 0 0 4px;
+    color: rgb(255, 255, 255);
+    text-align: left;
+}
+
+.small-grid-content .post-meta{
+    color: #820000;
+}
+
+.small-grid-content{
+    position: absolute;
+    top: 200px;
+    padding: 28px;
+}
+
+.small-grid-content h3 a{
+    font-size: 1em;
+    text-decoration: none;
+    letter-spacing: .03em;
+    font-weight: 700;
+    line-height: 1.25em;
+    display: block;
+    color: rgb(0, 0, 0);
+    text-align: left;
+}
+
+.one-grid-content{
+    text-align: left;
+}
+
+.one-grid-content h3{
+    font-size: 1.25em;
+    font-weight: 700;
+    line-height: 1.25em;
+    margin-bottom: 0.4096em;
+}
+
+.one-grid-content p{
+    font-weight: 400;
+    /* font-size: 1.9em;
+    line-height: 1.59375; */
+}
+
+.jump-link{
+    color: #006cb8;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.jump-link-arrow {
+    position: relative;
+    top: 7px;
+    right: 6px;
+}
+
+/* research */
+
+.grid-container{
+    display: flex; /*横向排开 */
+    flex-wrap: wrap; /* 允许自动换行 */
+}
+
+.grid-container figure{
+    width: calc(33% - 80px);
+}
+
+.grid-container strong{
+    font-size: 1.5625em;
+    font-weight: 900;
+    line-height: 1.25em;
+}
+
+.more-margin{
+    margin-bottom: 50px;
+}
+
+
+/* mobile */
+
+/* 在小屏幕上调整字体大小 */
+
+@media only screen and (max-width: 1400px) {
+    .one-grid {
+        width: 70%;
+        margin: 0 auto; /* 设置左右边距为auto，实现水平居中 */
+    }
+}
+
+@media only screen and (max-width: 800px) {
+    .big-grid {
+        width: 70%;
+        margin: 10px auto; /* 设置左右边距为auto，实现水平居中 */
+    }
+    .small-grid {
+        width: 70%;
+        margin: 10px auto; /* 设置左右边距为auto，实现水平居中 */
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    .slogan {
+    font-size: 5em;
+    }
+    .section-title {
+        font-size: 2em;
+    }
+    .section-subtitle {
+        font-size: 1em;
+    }
+    .section-body {
+        font-size: 1.2em;
+    }
+    .small-grid-content h3 a {
+        font-size: 0.7em;
+    }
+    .grid-content h3 a{
+        font-size: 1em;
+    }
+    .one-grid {
+        width: 90%;
+        margin: 0 auto; /* 设置左右边距为auto，实现水平居中 */
+    }
+    .big-grid {
+        width: 90%;
+    }
+    .small-grid {
+        width: 90%;
+    }
+
+    .quarter-grid {
+        width: 90%;
+        margin: 10px auto; /* 设置左右边距为auto，实现水平居中 */
+    }
+}
+  
+/* 在更小的屏幕上进一步调整字体大小 */
+@media only screen and (max-width: 400px) {
+    .slogan {
+        font-size: 3em;
+    }
+}
+
+/* 在大屏幕上调整字体大小 */
+@media only screen and (min-width: 600px) {
+    .more-button {
+        width: 387px;
+    }
+}
+
+/* max slogan */
+
+@media only screen and (min-resolution: 2dppx)  {
+    .slogan {
+        font-size: 4em;
+    }
+    .first-layer-navbar .navbar-text{
+        font-size: 0.7em;
+    }
+    .second-layer-navbar .navbar-text{
+        font-size: 0.7em;
+    }
+    .home-explore-text{
+        font-size: 0.5em;
+    }
+}
+
+@media only screen and (min-resolution: 3dppx)  {
+    .slogan {
+        font-size: 2em;
+    }
+    .second-layer-navbar .navbar-text{
+        font-size: 0.2em;
+    }
+    .home-explore-text{
+        font-size: 0.2em;
+    }
+}

@@ -1,0 +1,53 @@
+@charset "UTF-8";
+
+
+/* 文字字体，字号，颜色 */
+/* 背景色，长宽，其他 */
+
+.event-grid{
+    height: auto;
+}
+
+.event-grid .small-grid-content{
+    position: relative;
+    top: 0;
+}
+
+.event-grid .small-grid-content h3 a{
+    font-size: 1.5em;
+    font-weight: 900;
+}
+
+.event-grid .small-grid-content .start-time{
+    font-weight: 600;
+    color: rgb(95, 87, 79);
+    text-decoration: none;
+}
+
+.event-grid .small-grid-content .start-time a{
+    
+    font-weight: 600;
+    color: rgb(95, 87, 79);
+    /* text-decoration: none; */
+}
+
+.event-grid .small-grid-content .post-abstract{
+    font-size: 1em;
+    font-weight: 400;
+}
+
+.event-icon{
+    position: relative;
+    top:3px;
+}
+
+.sidebar{
+    padding-top: 0.1em;
+    position: sticky;
+    top: 5.6em;
+    background-color: #9dbeff;
+}
+
+.sidebar .accordion a{
+    text-decoration: none;
+}

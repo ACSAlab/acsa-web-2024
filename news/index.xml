@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News on ACSA Lab</title>
+    <link>http://acsalab.com/news/</link>
+    <description>Recent content in News on ACSA Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 27 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://acsalab.com/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Professor An Hong was elected as a high-contributing scholar in Chinese computer field in 2023.</title>
+      <link>http://acsalab.com/news/award/231227-highcontribution/</link>
+      <pubDate>Wed, 27 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://acsalab.com/news/award/231227-highcontribution/</guid>
+      <description>祝贺！！！</description>
+    </item>
+    <item>
+      <title>ASC23: USTC secured the Silver Prize and e Prize</title>
+      <link>http://acsalab.com/news/education/230530-asc/</link>
+      <pubDate>Tue, 30 May 2023 09:09:15 +0800</pubDate>
+      <guid>http://acsalab.com/news/education/230530-asc/</guid>
+      <description>祝贺！！！</description>
+    </item>
+    <item>
+      <title>An Hong&#39;s Team Wins CCF HPC Committee&#39;s 2022 Award for Best Application in China</title>
+      <link>http://acsalab.com/news/hpc/221226-annualhpcapp/</link>
+      <pubDate>Mon, 26 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://acsalab.com/news/hpc/221226-annualhpcapp/</guid>
+      <description>祝贺！！！</description>
+    </item>
+    <item>
+      <title>ACSA Team Earns Nomination for Gordon Bell Prize with Groundbreaking Fusion Plasma Simulation</title>
+      <link>http://acsalab.com/news/hpc/211203-gordonbell/</link>
+      <pubDate>Sun, 26 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://acsalab.com/news/hpc/211203-gordonbell/</guid>
+      <description>祝贺！！！</description>
+    </item>
+    <item>
+      <title>Intel AI Global Impact Festival: ACSA Team Wins Top Honors with &#39;AI Radiotherapy Assistant&#39; Project</title>
+      <link>http://acsalab.com/news/ai/211109-intelfest/</link>
+      <pubDate>Tue, 09 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://acsalab.com/news/ai/211109-intelfest/</guid>
+      <description>祝贺！！！</description>
+    </item>
+    <item>
+      <title>USTC ACSA Team Achieves Global Kilometer-Scale Atmospheric Simulation on Sunway Supercomputer</title>
+      <link>http://acsalab.com/news/hpc/210130-dgdft/</link>
+      <pubDate>Sat, 30 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://acsalab.com/news/hpc/210130-dgdft/</guid>
+      <description>祝贺！！！</description>
+    </item>
+    <item>
+      <title>Alumnus Lin Han Selected as one of HUAWEI&#39;s Inaugural Young Talents</title>
+      <link>http://acsalab.com/news/alumnus/200920-linhan/</link>
+      <pubDate>Sun, 20 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>http://acsalab.com/news/alumnus/200920-linhan/</guid>
+      <description>祝贺！！！</description>
+    </item>
+  </channel>
+</rss>
