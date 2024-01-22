@@ -43,6 +43,27 @@
       <description></description>
     </item>
     <item>
+      <title>Establishing a Modeling System in 3-km Horizontal Resolution for Global Atmospheric Circulation triggered by Submarine Volcanic Eruptions with 400 Billion Smoothed Particle Hydrodynamics</title>
+      <link>https://acsalab.github.io/acsa-web-2024/publications/2023/sc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://acsalab.github.io/acsa-web-2024/publications/2023/sc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>FcTC-UNet: Fine-grained Combination of Transformer and CNN for Thoracic Organs Segmentation</title>
+      <link>https://acsalab.github.io/acsa-web-2024/publications/2022/embc-fctc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://acsalab.github.io/acsa-web-2024/publications/2022/embc-fctc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>FRNET: An Effective Hybrid Structure for Automatic Segmentation of Head and Neck Primary Tumors from Multimodal Images</title>
+      <link>https://acsalab.github.io/acsa-web-2024/publications/2023/isbi-frnet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://acsalab.github.io/acsa-web-2024/publications/2023/isbi-frnet/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>H-DenseFormer: An Efficient Hybrid Densely Connected Transformer for Multimodal Tumor Segmentation</title>
       <link>https://acsalab.github.io/acsa-web-2024/publications/2023/miccai-hdenseformer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -57,6 +78,13 @@
       <description>The performance of high-performance computing (HPC) and other real-world applications is becoming unpre-dictable as the micro-architecture of the modern central processing unit (CPU) turns to be more and more complex. As a consequence, predicting the execution time of a code snippet is notoriously difficult. Basic block throughput predictor, also known as static code analyzer, provides a ubiquitous way to predict the execution time of a basic block, which includes assembly code segments without jump-related instructions.</description>
     </item>
     <item>
+      <title>RDMA-Based Apache Storm for High-Performance Stream Data Processing</title>
+      <link>https://acsalab.github.io/acsa-web-2024/publications/2021/ijpp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://acsalab.github.io/acsa-web-2024/publications/2021/ijpp/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Rethinking Automatic Segmentation of Gross Target Volume from a Decoupling Perspective</title>
       <link>https://acsalab.github.io/acsa-web-2024/publications/2023/cmig-autoseg/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -68,6 +96,13 @@
       <link>https://acsalab.github.io/acsa-web-2024/publications/2021/embc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://acsalab.github.io/acsa-web-2024/publications/2021/embc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SWSPH: A Massively Parallel SPH Implementation for Hundred-Billion-Particle Simulation on New Sunway Supercomputer</title>
+      <link>https://acsalab.github.io/acsa-web-2024/publications/2023/euro-par/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://acsalab.github.io/acsa-web-2024/publications/2023/euro-par/</guid>
       <description></description>
     </item>
     <item>
