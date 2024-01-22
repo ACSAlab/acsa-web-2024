@@ -44,6 +44,9 @@
     <loc>https://acsalab.github.io/acsa-web-2024/news/hpc/221226-annualhpcapp/</loc>
     <lastmod>2022-12-26T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://acsalab.github.io/acsa-web-2024/people/hanwenting/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://acsalab.github.io/acsa-web-2024/news/hpc/211203-gordonbell/</loc>
     <lastmod>2021-12-26T00:00:00+00:00</lastmod>
   </url><url>
@@ -77,15 +80,27 @@
   </url><url>
     <loc>https://acsalab.github.io/acsa-web-2024/people/liuqiang/</loc>
   </url><url>
+    <loc>https://acsalab.github.io/acsa-web-2024/people/qiaoliang/</loc>
+  </url><url>
     <loc>https://acsalab.github.io/acsa-web-2024/people/shenpeiqi/</loc>
   </url><url>
     <loc>https://acsalab.github.io/acsa-web-2024/people/shijun/</loc>
   </url><url>
+    <loc>https://acsalab.github.io/acsa-web-2024/people/songlongsheng/</loc>
+  </url><url>
     <loc>https://acsalab.github.io/acsa-web-2024/people/tanshaojie/</loc>
+  </url><url>
+    <loc>https://acsalab.github.io/acsa-web-2024/people/tubuxin/</loc>
+  </url><url>
+    <loc>https://acsalab.github.io/acsa-web-2024/people/wangchao/</loc>
+  </url><url>
+    <loc>https://acsalab.github.io/acsa-web-2024/people/wangtiantong/</loc>
   </url><url>
     <loc>https://acsalab.github.io/acsa-web-2024/people/wangzhaohui/</loc>
   </url><url>
     <loc>https://acsalab.github.io/acsa-web-2024/people/wuruohan/</loc>
+  </url><url>
+    <loc>https://acsalab.github.io/acsa-web-2024/people/yeyanwei/</loc>
   </url><url>
     <loc>https://acsalab.github.io/acsa-web-2024/people/yuanfuyan/</loc>
   </url><url>
@@ -93,11 +108,17 @@
   </url><url>
     <loc>https://acsalab.github.io/acsa-web-2024/people/zhangziyu/</loc>
   </url><url>
+    <loc>https://acsalab.github.io/acsa-web-2024/people/zhaominfan/</loc>
+  </url><url>
     <loc>https://acsalab.github.io/acsa-web-2024/people/zhaoyang/</loc>
   </url><url>
     <loc>https://acsalab.github.io/acsa-web-2024/people/zhengzhong/</loc>
   </url><url>
     <loc>https://acsalab.github.io/acsa-web-2024/people/zhuxianyu/</loc>
+  </url><url>
+    <loc>https://acsalab.github.io/acsa-web-2024/people/zhuziqi/</loc>
+  </url><url>
+    <loc>https://acsalab.github.io/acsa-web-2024/publications/2022/sc22-million-atom/</loc>
   </url><url>
     <loc>https://acsalab.github.io/acsa-web-2024/publications/2020/isbi/</loc>
   </url><url>
@@ -108,6 +129,8 @@
     <loc>https://acsalab.github.io/acsa-web-2024/publications/2022/embc-autoseg/</loc>
   </url><url>
     <loc>https://acsalab.github.io/acsa-web-2024/categories/</loc>
+  </url><url>
+    <loc>https://acsalab.github.io/acsa-web-2024/publications/2023/miccai-cmmca/</loc>
   </url><url>
     <loc>https://acsalab.github.io/acsa-web-2024/publications/2021/bibm-darnet/</loc>
   </url><url>
@@ -138,5 +161,7 @@
     <loc>https://acsalab.github.io/acsa-web-2024/tags/</loc>
   </url><url>
     <loc>https://acsalab.github.io/acsa-web-2024/publications/2023/thpc-sca/</loc>
+  </url><url>
+    <loc>https://acsalab.github.io/acsa-web-2024/publications/2022/embc-whole/</loc>
   </url>
 </urlset>

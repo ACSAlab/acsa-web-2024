@@ -8,6 +8,13 @@
     <language>en-us</language>
     <atom:link href="https://acsalab.github.io/acsa-web-2024/publications/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>2.5 Million-Atom Ab Initio Electronic-Structure Simulation of Complex Metallic Heterostructures with DGDFT</title>
+      <link>https://acsalab.github.io/acsa-web-2024/publications/2022/sc22-million-atom/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://acsalab.github.io/acsa-web-2024/publications/2022/sc22-million-atom/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>A Novel U-Like Network for the Segmentation of Thoracic Organs</title>
       <link>https://acsalab.github.io/acsa-web-2024/publications/2020/isbi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -33,6 +40,13 @@
       <link>https://acsalab.github.io/acsa-web-2024/publications/2022/embc-autoseg/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://acsalab.github.io/acsa-web-2024/publications/2022/embc-autoseg/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Contrast Learning Based Robust Framework for Weakly Supervised Medical Image Segmentation with Coarse Bounding Box Annotations</title>
+      <link>https://acsalab.github.io/acsa-web-2024/publications/2023/miccai-cmmca/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://acsalab.github.io/acsa-web-2024/publications/2023/miccai-cmmca/</guid>
       <description></description>
     </item>
     <item>
@@ -111,6 +125,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://acsalab.github.io/acsa-web-2024/publications/2023/thpc-sca/</guid>
       <description>The performance gap between memory and proces- sor has grown rapidly. Consequently, the energy and wall-clock time costs associated with moving data between the CPU and main memory predominate the overall computational cost. The Processing-in-Memory (PIM) paradigm emerges as a promising architecture that mitigates the need for extensive data movements by strategically positioning computing units proximate to the memory. Despite the abundant efforts devoted to building a robust and highly-available PIM system, identifying PIM-friendly segments of applications poses significant challenges due to the lack of a comprehensive tool to evaluate the intrinsic memory access pattern of the segment.</description>
+    </item>
+    <item>
+      <title>Whole Slide Image Multi-Classification of Cervical Epithelial Lesions Based on Unsupervised Pre-training</title>
+      <link>https://acsalab.github.io/acsa-web-2024/publications/2022/embc-whole/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://acsalab.github.io/acsa-web-2024/publications/2022/embc-whole/</guid>
+      <description></description>
     </item>
   </channel>
 </rss>
