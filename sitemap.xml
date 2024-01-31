@@ -3,10 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://acsa.ustc.edu.cn/</loc>
-    <lastmod>2024-01-30T15:00:00+08:00</lastmod>
+    <lastmod>2024-01-30T17:00:00+08:00</lastmod>
   </url><url>
     <loc>https://acsa.ustc.edu.cn/events/</loc>
-    <lastmod>2024-01-30T15:00:00+08:00</lastmod>
+    <lastmod>2024-01-30T17:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://acsa.ustc.edu.cn/events/party/240130-party/</loc>
+    <lastmod>2024-01-30T17:00:00+08:00</lastmod>
   </url><url>
     <loc>https://acsa.ustc.edu.cn/events/notice/240109-chinesenewyear/</loc>
     <lastmod>2024-01-30T15:00:00+08:00</lastmod>
@@ -25,6 +28,9 @@
   </url><url>
     <loc>https://acsa.ustc.edu.cn/events/seminar/231222-seminar/</loc>
     <lastmod>2023-12-22T19:30:00+08:00</lastmod>
+  </url><url>
+    <loc>https://acsa.ustc.edu.cn/news/education/231221_xiapeisu/</loc>
+    <lastmod>2023-12-20T10:00:00+08:00</lastmod>
   </url><url>
     <loc>https://acsa.ustc.edu.cn/events/seminar/231215-seminar/</loc>
     <lastmod>2023-12-15T19:30:00+08:00</lastmod>
@@ -115,6 +121,8 @@
     <loc>https://acsa.ustc.edu.cn/people/shijun/</loc>
   </url><url>
     <loc>https://acsa.ustc.edu.cn/people/songlongsheng/</loc>
+  </url><url>
+    <loc>https://acsa.ustc.edu.cn/people/tangxulong/</loc>
   </url><url>
     <loc>https://acsa.ustc.edu.cn/people/tanshaojie/</loc>
   </url><url>

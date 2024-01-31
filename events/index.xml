@@ -6,8 +6,15 @@
     <description>Recent content in Events on ACSA Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 30 Jan 2024 15:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jan 2024 17:00:00 +0800</lastBuildDate>
     <atom:link href="https://acsa.ustc.edu.cn/events/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>抽奖、聚餐🍽别墅轰趴</title>
+      <link>https://acsa.ustc.edu.cn/events/party/240130-party/</link>
+      <pubDate>Tue, 30 Jan 2024 17:00:00 +0800</pubDate>
+      <guid>https://acsa.ustc.edu.cn/events/party/240130-party/</guid>
+      <description>好多还带了家属，单身狗羡慕了。</description>
+    </item>
     <item>
       <title>放假通知</title>
       <link>https://acsa.ustc.edu.cn/events/notice/240109-chinesenewyear/</link>
@@ -16,14 +23,14 @@
       <description>实验室放假通知：&#xA;今年年会和年终总结预计在1月30号或31号进行（年会活动形式暂定，大家可以积极献言献策）。 正式放假(一般春节前一周)从2.1号开始，返校时间参考校历开学时间（准备SC和GB的同学会另行安排），请大家自行留意时间提前购票。 大家注意下 今年的实验室年会定在30号，主要日程：&#xA;年终总结📝 （下午三点到五点） 实验室聚餐🍽 （暂定乐富强，晚上六点到七点半） 年终抽奖（神秘㊙️ 大奖等你来拿） 别墅轰趴🏯 （唱K🎤 ，桌游🎱 🎯 ，电游🎮 ，棋牌🎲 等等） </description>
     </item>
     <item>
-      <title>顶会论文分享会2(蔚来)</title>
+      <title>顶会分享会2(蔚来)</title>
       <link>https://acsa.ustc.edu.cn/events/seminar/240109-seminarwithweilai/</link>
       <pubDate>Tue, 09 Jan 2024 19:00:00 +0800</pubDate>
       <guid>https://acsa.ustc.edu.cn/events/seminar/240109-seminarwithweilai/</guid>
       <description>大家好，今晚七点线上召开我们实验室和蔚来的讨论班，内容为顶会论文分享，请有兴趣的同学参加。会议在飞书上开，请提前安装会议软件。 会议 ID：417 225 752 会议链接：https://vc.feishu.cn/j/417225752&#xA;谭邵杰： 受限的地址翻译 赵阳：Beyond Static Parallel Loops: Supporting Dynamic Task Parallelism on Manycore Architectures with Software-Managed Scratchpad Memories </description>
     </item>
     <item>
-      <title>论文研讨会(蔚来)</title>
+      <title>顶会研讨会(蔚来)</title>
       <link>https://acsa.ustc.edu.cn/events/seminar/231226-seminarwithweilai/</link>
       <pubDate>Tue, 26 Dec 2023 19:00:00 +0800</pubDate>
       <guid>https://acsa.ustc.edu.cn/events/seminar/231226-seminarwithweilai/</guid>
