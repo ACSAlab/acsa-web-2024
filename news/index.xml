@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>News on ACSA Lab</title>
+    <title>Lab News on ACSA Lab</title>
     <link>https://acsa.ustc.edu.cn/news/</link>
-    <description>Recent content in News on ACSA Lab</description>
+    <description>Recent content in Lab News on ACSA Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 27 Dec 2023 00:00:00 +0000</lastBuildDate>

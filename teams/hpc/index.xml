@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HPC方向 on ACSA Lab</title>
+    <link>https://acsa.ustc.edu.cn/teams/hpc/</link>
+    <description>Recent content in HPC方向 on ACSA Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://acsa.ustc.edu.cn/teams/hpc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DW DFT方向</title>
+      <link>https://acsa.ustc.edu.cn/teams/hpc/dwdft/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://acsa.ustc.edu.cn/teams/hpc/dwdft/</guid>
+      <description>欢迎来到DFT小组的主页&#xA;所属项目</description>
+    </item>
+    <item>
+      <title>PIM存内计算方向</title>
+      <link>https://acsa.ustc.edu.cn/teams/hpc/pim/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://acsa.ustc.edu.cn/teams/hpc/pim/</guid>
+      <description>欢迎来到PIM小组的主页&#xA;目标与宗旨 初衷 L3 L4 L5 目标 实现路径 </description>
+    </item>
+    <item>
+      <title>数据流编程方向</title>
+      <link>https://acsa.ustc.edu.cn/teams/hpc/dataflow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://acsa.ustc.edu.cn/teams/hpc/dataflow/</guid>
+      <description>先导B课题立项 - 《适配国产异构系统的数据流编程和运行时系统框架》</description>
+    </item>
+    <item>
+      <title>蔚来合作 - 自动驾驶芯片架构探索方向</title>
+      <link>https://acsa.ustc.edu.cn/teams/hpc/autonomousdrivingchip/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://acsa.ustc.edu.cn/teams/hpc/autonomousdrivingchip/</guid>
+      <description>蔚来合作项目结题 -《自动驾驶芯片架构探索及算法部署方案》&#xA;郝晓宇、袁福炎、张森</description>
+    </item>
+  </channel>
+</rss>
