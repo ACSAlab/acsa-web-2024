@@ -192,6 +192,8 @@
   </url><url>
     <loc>https://acsalab.github.io/acsa-web-2024/publications/2021/bibm-darnet/</loc>
   </url><url>
+    <loc>https://acsalab.github.io/acsa-web-2024/teams/hpc/dwdft/</loc>
+  </url><url>
     <loc>https://acsalab.github.io/acsa-web-2024/publications/2023/sc/</loc>
   </url><url>
     <loc>https://acsalab.github.io/acsa-web-2024/publications/2022/embc-fctc/</loc>
@@ -200,9 +202,15 @@
   </url><url>
     <loc>https://acsalab.github.io/acsa-web-2024/publications/2023/miccai-hdenseformer/</loc>
   </url><url>
+    <loc>https://acsalab.github.io/acsa-web-2024/teams/ai/</loc>
+  </url><url>
     <loc>https://acsalab.github.io/acsa-web-2024/tags/hpc/</loc>
   </url><url>
+    <loc>https://acsalab.github.io/acsa-web-2024/teams/hpc/</loc>
+  </url><url>
     <loc>https://acsalab.github.io/acsa-web-2024/tags/pim/</loc>
+  </url><url>
+    <loc>https://acsalab.github.io/acsa-web-2024/teams/hpc/pim/</loc>
   </url><url>
     <loc>https://acsalab.github.io/acsa-web-2024/publications/</loc>
   </url><url>
@@ -214,12 +222,30 @@
   </url><url>
     <loc>https://acsalab.github.io/acsa-web-2024/publications/2021/embc/</loc>
   </url><url>
+    <loc>https://acsalab.github.io/acsa-web-2024/teams/ai/swimed/</loc>
+  </url><url>
     <loc>https://acsalab.github.io/acsa-web-2024/publications/2023/euro-par/</loc>
   </url><url>
+    <loc>https://acsalab.github.io/acsa-web-2024/teams/ai/swvon/</loc>
+  </url><url>
     <loc>https://acsalab.github.io/acsa-web-2024/tags/</loc>
+  </url><url>
+    <loc>https://acsalab.github.io/acsa-web-2024/teams/</loc>
+  </url><url>
+    <loc>https://acsalab.github.io/acsa-web-2024/teams/ai/tvm/</loc>
   </url><url>
     <loc>https://acsalab.github.io/acsa-web-2024/publications/2023/thpc-sca/</loc>
   </url><url>
     <loc>https://acsalab.github.io/acsa-web-2024/publications/2022/embc-whole/</loc>
+  </url><url>
+    <loc>https://acsalab.github.io/acsa-web-2024/teams/ai/echocardiography/</loc>
+  </url><url>
+    <loc>https://acsalab.github.io/acsa-web-2024/teams/ai/radiographic/</loc>
+  </url><url>
+    <loc>https://acsalab.github.io/acsa-web-2024/teams/ai/digitalpathology/</loc>
+  </url><url>
+    <loc>https://acsalab.github.io/acsa-web-2024/teams/hpc/dataflow/</loc>
+  </url><url>
+    <loc>https://acsalab.github.io/acsa-web-2024/teams/hpc/autonomousdrivingchip/</loc>
   </url>
 </urlset>

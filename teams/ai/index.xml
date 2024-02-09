@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HDPA方向 on ACSA Lab</title>
+    <link>https://acsalab.github.io/acsa-web-2024/teams/ai/</link>
+    <description>Recent content in HDPA方向 on ACSA Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://acsalab.github.io/acsa-web-2024/teams/ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>swiMED</title>
+      <link>https://acsalab.github.io/acsa-web-2024/teams/ai/swimed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://acsalab.github.io/acsa-web-2024/teams/ai/swimed/</guid>
+      <description>Task 1: swiMED 医疗视觉大模型通用平台预研&#xA;目标：基于prompt learning方式，开发医疗视觉大模型 进度：  可行性验证、方法调研、数据准备 □ CT、MRI数据集上针对分割任务的方案开发（进行 中，已迭代多个版本） □ 初始版本拟投MICCAI24&#xA;人员：赵敏帆、朱子琦</description>
+    </item>
+    <item>
+      <title>swVoN</title>
+      <link>https://acsalab.github.io/acsa-web-2024/teams/ai/swvon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://acsalab.github.io/acsa-web-2024/teams/ai/swvon/</guid>
+      <description>Task 1: 国产超算平台(神威)上大模型训练优化&#xA;目标：在SW超算系统上构建大模型基础技术栈，支持各类大模型的高效训练，完成swVoN大模型的开发。&#xA;进度：  大模型训练框架适配和移植（SW-Megatron） LLAMA-7B有监督微调（SFT）流程正确性验证 针对神威平台大模型训练流程给出完整Profiling 面向神威平台实现了高效并行训练策略 面向神威平台开发了支持混精训练的BF16算子库 在8K节点上采样250Btoken，完成LLAMA-7B的预训练流程正确性验证，与通用平台对齐。 在最高四分之一机(32K)节点上，完成了LLAMA-65B的混精预训练调试和性能分析。 单节点计算效率从0.32TFLOPS提升到3.4TFLOPS。&#xA;人员： 石军、刘波、朱子琦、田永劭、吴若晗、李奇 </description>
+    </item>
+    <item>
+      <title>TVM</title>
+      <link>https://acsalab.github.io/acsa-web-2024/teams/ai/tvm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://acsalab.github.io/acsa-web-2024/teams/ai/tvm/</guid>
+      <description>Task 1:面向自动驾驶芯片的算子自动融合优化&#xA;目标：面向自动驾驶应用场景，针对蔚来自研的SoC芯片实现高性能的算子自动融合、生成技术。 进度：  参数化静态分析器设计 模式感知的代价模型设计  跨平台动量迁移学习策略设计  已完成论文初稿，拟投ICML2024 人员：乔良、石军、方禧</description>
+    </item>
+    <item>
+      <title>心脏超声</title>
+      <link>https://acsalab.github.io/acsa-web-2024/teams/ai/echocardiography/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://acsalab.github.io/acsa-web-2024/teams/ai/echocardiography/</guid>
+      <description>Task 1: 基于点云配准的心脏重建算法&#xA;目标：在KBR框架下实现关键点点云的三维重建算法 进度：□ 实现基于点云配准的心脏三维重建算法 □ 在算法框架下引入gcn和点云提取模块，优化算法 □ volume_error: 9.325%, distance: 3.321(mm)&#xA;人员：王朝晖，李易达&#xA;Task 2: 基于稀疏非平行界面的右心室三维重建算法&#xA;目标：实现基于右心室超声心动图的深度学习三维重建算法 进度：□ 复现基于OReX的右心室三维重建算法 □ 实现基于凸包提取+3D-Unet的重建算法(dics: 0.96) □ 设计实验，形成论文（进行中）&#xA;人员：李易达，王朝晖</description>
+    </item>
+    <item>
+      <title>放射影像</title>
+      <link>https://acsalab.github.io/acsa-web-2024/teams/ai/radiographic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://acsalab.github.io/acsa-web-2024/teams/ai/radiographic/</guid>
+      <description>Task1: 数据高效的医学图像自动分割算法设计&#xA;目标：设计弱/半监督等策略提高数据效率，降低算法成本 进度： 引入弱监督技术,已中MICCAI23 workshop  小样本、多模态场景下的肿瘤分割, 已中MICCAI23&#xA; 面向稀疏分布的GTV分割，已中CMIG23, Q1  引入主动学习技术，已投IJCAI24  引入半监督学习技术，拟投MICCAI24  引入提示学习技术，拟投MICCAI24&#xA;人员：石军、朱子琦、赵敏帆&#xA;Task2: 基于深度学习的3D医学图像分割算法基准设计&#xA;目标：构建一个统一的Benchmark对现有3D医学分割算法进行全面评估，获得一些启发性的认识，拟投TMI24 进度： 完成了开源3D医学图像分割数据集的调研和处理  完成了现有3D医学图像分割算法的调研和分析  构建了Benchmark的评估数据集（七项全能，MSH）  构建了Benchmark的对比方法集合（24种）  初步完成了Benchmark整体框架的构建&#xA;人员：石军、王天同、王炳勋</description>
+    </item>
+    <item>
+      <title>数字病理</title>
+      <link>https://acsalab.github.io/acsa-web-2024/teams/ai/digitalpathology/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://acsalab.github.io/acsa-web-2024/teams/ai/digitalpathology/</guid>
+      <description>Task 1: 郑大合作：食管癌病理切片分析&#xA;目标：基于食管癌病理切片，实现淋巴结转移预测 进度：  近年相关论文分析和复现对比 补充对比实验和消融实验 整理前期结果形成阶段性论文（拟投期刊） 关键区域和典型目标分割 EOS细胞计数任务 □ 后续进度和任务安排沟通中&#xA;人员：赵敏帆、戴悦、汪涵楠&#xA;Task 2: 交互式病理分割&#xA;目标：基于交互式方法，开发病理分割方案 进度：  前期论文调研 数据集收集，实现多种已有方案作为baseline RITM等方案复现 以用户点击为中心的分割优化方案 硕士开题（汪） EMBC论文在投（汪）&#xA;人员：汪涵楠、赵敏帆</description>
+    </item>
+  </channel>
+</rss>
