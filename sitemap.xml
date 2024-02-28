@@ -2,8 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://acsa.ustc.edu.cn/notice/240228-newseminar/</loc>
+    <lastmod>2024-02-28T15:00:00+08:00</lastmod>
+  </url><url>
     <loc>https://acsa.ustc.edu.cn/</loc>
-    <lastmod>2024-02-27T19:30:00+08:00</lastmod>
+    <lastmod>2024-02-28T15:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://acsa.ustc.edu.cn/notice/</loc>
+    <lastmod>2024-02-28T15:00:00+08:00</lastmod>
   </url><url>
     <loc>https://acsa.ustc.edu.cn/events/</loc>
     <lastmod>2024-02-27T19:30:00+08:00</lastmod>
@@ -14,7 +20,7 @@
     <loc>https://acsa.ustc.edu.cn/events/party/240130-party/</loc>
     <lastmod>2024-01-30T17:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://acsa.ustc.edu.cn/events/notice/240109-chinesenewyear/</loc>
+    <loc>https://acsa.ustc.edu.cn/notice/240109-chinesenewyear/</loc>
     <lastmod>2024-01-30T15:00:00+08:00</lastmod>
   </url><url>
     <loc>https://acsa.ustc.edu.cn/events/seminar/240109-seminarwithweilai/</loc>
