@@ -2,8 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://acsa.ustc.edu.cn/events/seminar/240228-newseminar/</loc>
+    <lastmod>2024-05-24T15:00:00+08:00</lastmod>
+  </url><url>
     <loc>https://acsa.ustc.edu.cn/</loc>
-    <lastmod>2024-05-22T15:00:00+08:00</lastmod>
+    <lastmod>2024-05-24T15:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://acsa.ustc.edu.cn/events/</loc>
+    <lastmod>2024-05-24T15:00:00+08:00</lastmod>
   </url><url>
     <loc>https://acsa.ustc.edu.cn/notice/</loc>
     <lastmod>2024-05-22T15:00:00+08:00</lastmod>
@@ -16,12 +22,6 @@
   </url><url>
     <loc>https://acsa.ustc.edu.cn/news/award/240318-shijun/</loc>
     <lastmod>2024-03-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://acsa.ustc.edu.cn/notice/240228-newseminar/</loc>
-    <lastmod>2024-02-28T15:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://acsa.ustc.edu.cn/events/</loc>
-    <lastmod>2024-02-27T19:30:00+08:00</lastmod>
   </url><url>
     <loc>https://acsa.ustc.edu.cn/events/seminar/240227-newsemester/</loc>
     <lastmod>2024-02-27T19:30:00+08:00</lastmod>
