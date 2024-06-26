@@ -3,7 +3,10 @@
 
 /* 文字字体，字号，颜色 */
 /* 背景色，长宽，其他 */
-
+a{
+    text-decoration: none;
+}
+  
 
 .home-fisrt-full-page{
     position: fixed;
@@ -305,6 +308,12 @@ header {
     object-fit: cover; /* 填充整个容器，保持纵横比，可能裁剪部分内容 */
     width: 100%;
     height: 100%;
+}
+
+.highlightPic {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1), /* basic shadow */
+    0 6px 20px rgba(0, 0, 0, 0.1); /* additional shadow for depth */
+    border-radius: 10px; /* Optional: adds rounded corners */
 }
 
 .grid-content{
