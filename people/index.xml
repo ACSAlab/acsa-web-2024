@@ -13,119 +13,140 @@
       <link>https://acsalab.github.io/acsa-web-2024/people/anhong/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://acsalab.github.io/acsa-web-2024/people/anhong/</guid>
-      <description>安虹，博士，教授，博导，省教学名师。&#xA;2000年获中国科学技术大学计算机专业工学博士学位，&#xA;现任中国科大计算机学院先进计算机系统结构实验室主任、院教学委员会和学术委员会委员、计算机系统结构专业学位点负责人、本科生计算机体系结构类课程组组长、时珍书院院长。&#xA;ACM SIGHPC China 副主任、国际高性能计算咨询委员会委员、中国计算机学会体系结构专委会常务委员和高性能计算专委会常务委员、教育部高等学校计算机专业类教学指导委员会计算机系统专家委员会委员、中国计算机学会高级会员、中国软件行业协会数学软件分会会员、IEEE/ACM会员、CCF出版工作委员会执行委员、《计算机研究与发展》、《集成技术》编委、《中国图象图形学报》专栏主编；&#xA;担任过30余个国际国内学术会议程序委员会主席或委员。&#xA;1992-1993年为浙江大学CAD&amp;amp;CG国家重点实验室客座研究人员，从事图形图像并行算法和体系结构方面的研究工作。&#xA;1995-1996年为中国科学院计算技术研究所国家智能计算机研究开发中心客座研究人员，从事并行计算机体系结构和并行程序设计环境方面的研究工作。&#xA;2001-2004年为中国科学院计算技术研究所计算机系统结构专业博士后，从事高性能微处理器体系结构方面的研究工作。&#xA;2008-2010年受英特尔公司资助参与由美国加州大学伯克利分校牵头，斯坦福、MIT等大学和英特尔、微软、IBM等大公司参加的RAMP国际合作项目，从事片上多处理器体系结构的研究工作。&#xA;2015年为美国能源部劳伦斯伯克利国家实验室联合基因组研究所访问科学家，从事基因分析并行算法、软件和系统方面的研究工作。&#xA;作为负责人承担了国家973课题、国家863、国家自然科学基金、国家科技重大专项、国家重点研发计划等项目，以及省部级和横向课题30余项，在国内外重要的计算机学术会议和期刊ICS、SC、PPoPP、IPDPS、HPCA、ICPP、HPCC、IJPC、IJPP、TPDS、FGCS、Information Sciences、JCST，Journal of Software等上，以及Science Bulletin、PHYSICAL REVIEW B、FRONTIERS IN ONCOLOGY等科学和医学期刊上发表学术论文160余篇，获得技术发明专利授权和软件登记20余项，出版教材1部，译著1部。&#xA;主要研究方向： 高性能计算芯片和系统结构，并行程序设计环境与工具，大数据并行存储与处理系统，高性能计算，医学影像认知计算。&#xA;招生信息：　要求学生对计算机系统结构和系统软件设计有浓厚的兴趣和做出一流工作的愿望；诚实守信、性格开朗、勤奋自律；良好的沟通交流能力和团队协作精神；计算机系统结构相关基础知识扎实，编程能力、英语交流能力较强。&#xA;科研工作： 长期从事计算机系统结构和并行处理相关研究工作。作为最早的核心人员，参与筹备和建设了我国第一家高性能计算中心——国家高性能计算中心（合肥）。&#xA;（1）在微处理器芯片方面，作为骨干研究人员参加了龙芯1号和龙芯2号的体系结构设计和性能分析工作；提出了多核微处理器芯片体系结构SPoTM/LogSPoTM设计思想及其关键技术，通过硬件支持实现串行程序自动推测并行化和隐式同步执行；提出了众核微处理芯片体系结构DISC/PAS-TPA设计思想及其关键技术，以及基于FPGA实现的大规模片上并行结构硬件模拟与性能评估技术。获得首届中国科学院杰出科技成就奖。&#xA;（2）在并行编程环境与工具方面，主持过神威、曙光、华为和龙芯等国产高性能计算芯片和系统上的并行程序设计环境和工具的开发工作，相关研究成果已应用于神威、曙光、华为和龙芯设计的国产高性能芯片和系统；支持多核众核平台的上的并行应用软件开发; 在国产超算系统上首次实现了基于数据流计算模型的大规模深度学习编程环境和运行时系统swFLOW，支持HPC+AI+BigData融合计算。获得国家科技进步二等奖和中国科学院科技进步二等奖。&#xA;（3）在高性能计算方面，在国产E级超算系统上提出了一系列的计算、访存、通信和I/O优化关键技术以突破E级超算系统上的关键技术瓶颈，产生多项填补世界空白的重大超算应用成果，两次获得超算领域最高奖戈登·贝尔奖提名，两次获得“中国超算年度最佳应用”奖，获得中国科大杰出研究校长奖。&#xA;（4）在高性能数据分析方面，开发了医学视觉大模型及其应用软件iMED，在心脏超声认知计算、肿瘤影像组学分析、数字病理分析等应用领域取得了一系列临床应用成果。“医学影像阅片机器人”入选 CCTV-1《机智过人》重点拍摄节目；“心脏超声量化分析”拍成安徽省广电局建国70周年献礼专题片-《我们的奋斗——最好的我们》，并被CCTV-3经济半小时栏目专题报道。在AI算法、软件和系统相关赛事中获得20余个奖项。&#xA;教学工作： 长期工作在计算机系统结构和高性能计算学科交叉教育、教学、教练一线，在计算机教育教学改革、拔尖人才培养等方面做出了多项创新性和示范性教育成果。&#xA;（1）2009年提出创办了中国科大“华夏计算机科技英才班”，组织了第一届华夏班计算机系统结构教学体系和核心课程改革工作，完成了“拔尖学生本科阶段交叉学科领域科研兴趣和科研能力培养研究”等多项教学研究工作。&#xA;（2）新开设《计算机系统概论H》（本科生英才班）、《计算系统概论A》（本科生）、《计算机系统原型设计》（本科生）、《计算之美与乐趣》（本科生）、《高性能处理器体系结构》（本硕）、《计算机系统性能评价与预测》（博士生）等一系列计算机系统结构相关课程，主持过10余项省部级教育研究项目。&#xA;（3）2012年组建了中国科大超算鸿雁队，并担任主教练，先后组织了50支队伍280余人次参加了国内外高性能计算和智能计算相关赛事SC-SCC，ISC-SCC，ASC，RMDA，PAC，CPC，HPC-AI，其中曾获得一等奖或第一名30次，二等奖或第二名18次，三等奖或第三名26次，特别奖8次。在SC16大会上举办的大学生超算竞赛中，中国科学技术大学代表队包揽了总分和最高LINPACK性能两项冠军，成为SC大学生超算竞赛自2007年举办十年以来首个双料冠军队。&#xA;（4）已指导毕业博士生20名，毕业硕士生84名，指导本科生科研实践（国创、大研等）和毕业论文数百余人次众多学生获得国家奖学金等各类奖学金，其中王元戎（2013届）、兰武伟（2014届）、贺松涛（2015届）、张智帅（2016届）、阮震元（2017届）获得了中国科大优秀毕业生最高荣誉奖郭沫若奖学金，博士生林晗入选华为“天才少年”（首批8位）。&#xA;获奖情况： 2000年，中科院科技进步二等奖 2000年，中国科大教学成果一等奖 2001年，国家科技进步二等奖 2001年，国家级教学成果二等奖 2001年，安徽省教学成果一等奖 2004年，中国科学院杰出科技成就奖 2008年，中国科学院朱李月华优秀教师奖 2008年，宝钢优秀教师奖 2009年，国家级“并行计算”教学团队 2012年，中国科大学位与研究生教育先进个人 2013年，中国科大平凡基金教育奖 2013年，中国科大“全院办校、所系结合”优秀个人 2015年，宝钢优秀教师奖 2016年，中国科大西区精神教学成就奖 2017年，中国科学院教育教学成果一等奖 2018年，安徽省教学名师 2019年，安徽省模范教师 2020年，安徽省教书育人楷模 2020年，国家级一流线下课程《计算机系统概论》 2020年，教育部全国高校计算机专业优秀教师 2021年，教育部基础学科拔尖人才培养计划优秀教师奖 2021年，中国科大李佩奖 2021年，ACM 超算“戈登•贝尔奖”提名 2021年，CCF “中国超算年度最佳应用奖” 2022年，ACM 超算“戈登•贝尔奖”提名 2022年，CCF “中国超算年度最佳应用奖” 2022年，中国科大杰出研究校长奖 教材著作： [1]陈国良，安虹，陈崚，郑启龙，单久龙，并行算法实践，高等教育出版社，2004。</description>
+      <description>&lt;p&gt;安虹，博士，教授，博导，省教学名师。&lt;/p&gt;&#xA;&lt;p&gt;2000年获中国科学技术大学计算机专业工学博士学位，&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;现任中国科大计算机学院先进计算机系统结构实验室主任、院教学委员会和学术委员会委员、计算机系统结构专业学位点负责人、本科生计算机体系结构类课程组组长、时珍书院院长。&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;ACM SIGHPC China 副主任、国际高性能计算咨询委员会委员、中国计算机学会体系结构专委会常务委员和高性能计算专委会常务委员、教育部高等学校计算机专业类教学指导委员会计算机系统专家委员会委员、中国计算机学会高级会员、中国软件行业协会数学软件分会会员、IEEE/ACM会员、CCF出版工作委员会执行委员、《计算机研究与发展》、《集成技术》编委、《中国图象图形学报》专栏主编；&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;担任过30余个国际国内学术会议程序委员会主席或委员。&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;1992-1993年为浙江大学CAD&amp;amp;CG国家重点实验室客座研究人员，从事图形图像并行算法和体系结构方面的研究工作。&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;1995-1996年为中国科学院计算技术研究所国家智能计算机研究开发中心客座研究人员，从事并行计算机体系结构和并行程序设计环境方面的研究工作。&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;2001-2004年为中国科学院计算技术研究所计算机系统结构专业博士后，从事高性能微处理器体系结构方面的研究工作。&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;2008-2010年受英特尔公司资助参与由美国加州大学伯克利分校牵头，斯坦福、MIT等大学和英特尔、微软、IBM等大公司参加的RAMP国际合作项目，从事片上多处理器体系结构的研究工作。&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;2015年为美国能源部劳伦斯伯克利国家实验室联合基因组研究所访问科学家，从事基因分析并行算法、软件和系统方面的研究工作。&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;作为负责人承担了国家973课题、国家863、国家自然科学基金、国家科技重大专项、国家重点研发计划等项目，以及省部级和横向课题30余项，在国内外重要的计算机学术会议和期刊ICS、SC、PPoPP、IPDPS、HPCA、ICPP、HPCC、IJPC、IJPP、TPDS、FGCS、Information Sciences、JCST，Journal of Software等上，以及Science Bulletin、PHYSICAL REVIEW B、FRONTIERS IN ONCOLOGY等科学和医学期刊上发表学术论文160余篇，获得技术发明专利授权和软件登记20余项，出版教材1部，译著1部。&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;主要研究方向&#34;&gt;主要研究方向：&lt;/h1&gt;&#xA;&lt;p&gt;高性能计算芯片和系统结构，并行程序设计环境与工具，大数据并行存储与处理系统，高性能计算，医学影像认知计算。&lt;/p&gt;&#xA;&lt;h1 id=&#34;招生信息&#34;&gt;招生信息：　　&lt;/h1&gt;&#xA;&lt;p&gt;要求学生对计算机系统结构和系统软件设计有浓厚的兴趣和做出一流工作的愿望；诚实守信、性格开朗、勤奋自律；良好的沟通交流能力和团队协作精神；计算机系统结构相关基础知识扎实，编程能力、英语交流能力较强。&lt;/p&gt;&#xA;&lt;h1 id=&#34;科研工作&#34;&gt;科研工作：&lt;/h1&gt;&#xA;&lt;p&gt;长期从事计算机系统结构和并行处理相关研究工作。作为最早的核心人员，参与筹备和建设了我国第一家高性能计算中心——国家高性能计算中心（合肥）。&lt;/p&gt;&#xA;&lt;p&gt;（1）在微处理器芯片方面，作为骨干研究人员参加了龙芯1号和龙芯2号的体系结构设计和性能分析工作；提出了多核微处理器芯片体系结构SPoTM/LogSPoTM设计思想及其关键技术，通过硬件支持实现串行程序自动推测并行化和隐式同步执行；提出了众核微处理芯片体系结构DISC/PAS-TPA设计思想及其关键技术，以及基于FPGA实现的大规模片上并行结构硬件模拟与性能评估技术。获得首届中国科学院杰出科技成就奖。&lt;/p&gt;&#xA;&lt;p&gt;（2）在并行编程环境与工具方面，主持过神威、曙光、华为和龙芯等国产高性能计算芯片和系统上的并行程序设计环境和工具的开发工作，相关研究成果已应用于神威、曙光、华为和龙芯设计的国产高性能芯片和系统；支持多核众核平台的上的并行应用软件开发; 在国产超算系统上首次实现了基于数据流计算模型的大规模深度学习编程环境和运行时系统swFLOW，支持HPC+AI+BigData融合计算。获得国家科技进步二等奖和中国科学院科技进步二等奖。&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
       <link>https://acsalab.github.io/acsa-web-2024/people/hanwenting/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://acsalab.github.io/acsa-web-2024/people/hanwenting/</guid>
-      <description>韩文廷，男，1965年生，安徽潜山人，副教授。&#xA;1988年中国科学技术大学数学系本科毕业，获理学学士学位； 分别于1991年和2003年在中国科学技术大学数学系获应用数学专业理学硕士和博士学位。 1995年赴日本东京大学访问进修，从事人工神经网络的研究。 2007-2008年赴德国乌尔姆大学访问进修，从事神经信息学方面的研究。 作为骨干研究人员先后参与了10多项国家自然科学面上和重点基金项目、国家973计划项目、国家863面上和重大项目、国家教委博士点基金、攀登计划项目，国家科技重大专项项目。获得过安徽省科技进步二等奖。&#xA;主要研究方向： 并行算法与软件，深度学习算法与编程框架、大数据并行存储与处理、高性能计算、计算机系统性能评价。&#xA;科研工作： 数值并行算法与软件方面，主要研究多核和众核平台上的数值并行算法设计方法与技术，开发高性能并行应用软件和基准测试程序。深度学习算法与编程框架方面，主要研究面向智能语音分析、医学影像分析和基因分析的深度学习算法和编程框架。计算机系统性能评价方面，主要研究高性能计算机系统的建模方法和分析技术，获得各种系统性能、效率和成本的定量评测指标值，用以指导新型并行计算机系统的设计。神经信息学方面，主要基于STDP（Spike-Timing-Dependent synaptic Plasticity）规则的神经元网络模型方面，研究若干个特定神经元输入和输出之间的关系。近年来主持和参与的相关科研项目包括：&#xA;国家863项目子课题“面向流应用的并行编程模型及其支撑软件”； 国家863重大项目子课题“高效能千万亿次级系统上软硬件协同支持的程序并行化方法”； 国家863项目“软硬件协同支持的可扩展多核事务存储体系结构” ； 国家973项目子课题“可重构片上并行体系结构”； 国家973项目子课题“面向高通量应用的高效能片上资源配置和管理机制”； 国家自然科学基金面上项目“众核处理器结构上的并行程序执行模型”； 国家科技重大专项项目子课题“龙芯多核平台上的可视化并行程序性能调优技术与工具； 国家气象局局校合作项目“基于图形处理器的回波快速聚类算法”； 国家超级计算无锡中心，“100P系统计算生物学重点软件移植与并行优化”； 华为技术有限公司“HPC应用软件调优技术”； 国家重点研发计划子课题“高性能教育实践服务内容开发”。 教学工作： 主讲本科生《代数结构》、《图论》、《高等数学》；研究生《计算数论》；博士生《计算机数学》等课程。&#xA;获奖情况： 安徽省科技进步二等奖 十篇代表性论著： Gu Liu，Hong An，Wenting Han Xiaoqiang Li，Tao Sun，Wei Zhou，XuechaoWei，Xulong Tang, FlexBFS: A Parallelism-aware Implementation of Breadth-First Search on GPU, Poster in the proceedings of the 17th ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming(PPoPP&#39;12), February 25-29, 2012, New Orleans, USA,pp279 Xiaoqiang Li, Hong An, Gu Liu, Wenting Han, Mu Xu, Wei Zhou, Qi Li，A Non-blocking Programming Framework for Pipeline Application on Multi-core Platform，In: Proceedings of the 9th IEEE International Symposium on Parallel and Distributed Processing with Applications (ISPA 2011), IEEE Computer Society Press, Busan, Korea, 26-28 May 2011 Ping Yao, Hong An, Mu Xu, Gu Liu, Xiaoqiang Li, Yaobin Wang，Wengting Han, CuHMMer: A Load-Balanced CPU-GPU Cooperative Bioinformatics Application，In：Proceedings of the 2010 IEEE International Conference on High Performance Computing &amp;amp; Simulation (HPCS 2010)，IEEE Computer Society Press, Caen, France, June 28 - July 2, 2010 Qian Zhang , Hong An, Gu Liu, Wenting Han , Ping Yao, Mu Xu, Xiaoqiang Li, The Optimization of Parallel Smith-Waterman Sequence Alignment Using On-chip Memory of GPGPU, In：Proceedings of the IEEE Fifth International Conference on Bio-Inspired Computing: Theories and Applications (BIC-TA 2010)，IEEE Computer Society Press, Changsha，China，September23-26，2010 Ruiling Dou, Hong An, Rui Guo, Wenting Han, Ming Cong, Yongqing Ren, Localizing Loads Execution in a Data Cache Distributed Processor Architecture, In：Proceedings of the 2009 IACSIT Spring Conference(IACSIT SC2009),IEEE Computer Society Press, Singapore, April 17-20, 2009.</description>
+      <description>&lt;p&gt;韩文廷，男，1965年生，安徽潜山人，副教授。&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;1988年中国科学技术大学数学系本科毕业，获理学学士学位；&lt;/li&gt;&#xA;&lt;li&gt;分别于1991年和2003年在中国科学技术大学数学系获应用数学专业理学硕士和博士学位。&lt;/li&gt;&#xA;&lt;li&gt;1995年赴日本东京大学访问进修，从事人工神经网络的研究。&lt;/li&gt;&#xA;&lt;li&gt;2007-2008年赴德国乌尔姆大学访问进修，从事神经信息学方面的研究。&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;作为骨干研究人员先后参与了10多项国家自然科学面上和重点基金项目、国家973计划项目、国家863面上和重大项目、国家教委博士点基金、攀登计划项目，国家科技重大专项项目。获得过安徽省科技进步二等奖。&lt;/p&gt;&#xA;&lt;h1 id=&#34;主要研究方向&#34;&gt;主要研究方向：&lt;/h1&gt;&#xA;&lt;p&gt;并行算法与软件，深度学习算法与编程框架、大数据并行存储与处理、高性能计算、计算机系统性能评价。&lt;/p&gt;&#xA;&lt;h1 id=&#34;科研工作&#34;&gt;科研工作：&lt;/h1&gt;&#xA;&lt;p&gt;数值并行算法与软件方面，主要研究多核和众核平台上的数值并行算法设计方法与技术，开发高性能并行应用软件和基准测试程序。深度学习算法与编程框架方面，主要研究面向智能语音分析、医学影像分析和基因分析的深度学习算法和编程框架。计算机系统性能评价方面，主要研究高性能计算机系统的建模方法和分析技术，获得各种系统性能、效率和成本的定量评测指标值，用以指导新型并行计算机系统的设计。神经信息学方面，主要基于STDP（Spike-Timing-Dependent synaptic Plasticity）规则的神经元网络模型方面，研究若干个特定神经元输入和输出之间的关系。近年来主持和参与的相关科研项目包括：&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;国家863项目子课题“面向流应用的并行编程模型及其支撑软件”；&lt;/li&gt;&#xA;&lt;li&gt;国家863重大项目子课题“高效能千万亿次级系统上软硬件协同支持的程序并行化方法”；&lt;/li&gt;&#xA;&lt;li&gt;国家863项目“软硬件协同支持的可扩展多核事务存储体系结构” ；&lt;/li&gt;&#xA;&lt;li&gt;国家973项目子课题“可重构片上并行体系结构”；&lt;/li&gt;&#xA;&lt;li&gt;国家973项目子课题“面向高通量应用的高效能片上资源配置和管理机制”；&lt;/li&gt;&#xA;&lt;li&gt;国家自然科学基金面上项目“众核处理器结构上的并行程序执行模型”；&lt;/li&gt;&#xA;&lt;li&gt;国家科技重大专项项目子课题“龙芯多核平台上的可视化并行程序性能调优技术与工具；&lt;/li&gt;&#xA;&lt;li&gt;国家气象局局校合作项目“基于图形处理器的回波快速聚类算法”；&lt;/li&gt;&#xA;&lt;li&gt;国家超级计算无锡中心，“100P系统计算生物学重点软件移植与并行优化”；&lt;/li&gt;&#xA;&lt;li&gt;华为技术有限公司“HPC应用软件调优技术”；&lt;/li&gt;&#xA;&lt;li&gt;国家重点研发计划子课题“高性能教育实践服务内容开发”。&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;教学工作&#34;&gt;教学工作：&lt;/h1&gt;&#xA;&lt;p&gt;主讲本科生《代数结构》、《图论》、《高等数学》；研究生《计算数论》；博士生《计算机数学》等课程。&lt;/p&gt;&#xA;&lt;h1 id=&#34;获奖情况&#34;&gt;获奖情况：&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;安徽省科技进步二等奖&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;十篇代表性论著&#34;&gt;十篇代表性论著：&lt;/h1&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Gu Liu，Hong An，Wenting Han Xiaoqiang Li，Tao Sun，Wei Zhou，XuechaoWei，Xulong Tang, FlexBFS: A Parallelism-aware Implementation of Breadth-First Search on GPU, Poster in the proceedings of the 17th ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming(PPoPP&#39;12), February 25-29, 2012, New Orleans, USA,pp279&lt;/li&gt;&#xA;&lt;li&gt;Xiaoqiang Li, Hong An, Gu Liu, Wenting Han, Mu Xu, Wei Zhou, Qi Li，A Non-blocking Programming Framework for Pipeline Application on Multi-core Platform，In: Proceedings of the 9th IEEE International Symposium on Parallel and Distributed Processing with Applications (ISPA 2011), IEEE Computer Society Press, Busan, Korea, 26-28 May 2011&lt;/li&gt;&#xA;&lt;li&gt;Ping Yao, Hong An, Mu Xu, Gu Liu, Xiaoqiang Li, Yaobin Wang，Wengting Han, CuHMMer: A Load-Balanced CPU-GPU Cooperative Bioinformatics Application，In：Proceedings of the 2010 IEEE International Conference on High Performance Computing &amp;amp; Simulation (HPCS 2010)，IEEE Computer Society Press, Caen, France, June 28 - July 2, 2010&lt;/li&gt;&#xA;&lt;li&gt;Qian Zhang , Hong An, Gu Liu, Wenting Han , Ping Yao, Mu Xu, Xiaoqiang Li, The Optimization of Parallel Smith-Waterman Sequence Alignment Using On-chip Memory of GPGPU, In：Proceedings of the IEEE Fifth International Conference on Bio-Inspired Computing: Theories and Applications (BIC-TA 2010)，IEEE Computer Society Press, Changsha，China，September23-26，2010&lt;/li&gt;&#xA;&lt;li&gt;Ruiling Dou, Hong An, Rui Guo, Wenting Han, Ming Cong, Yongqing Ren, Localizing Loads Execution in a Data Cache Distributed Processor Architecture, In：Proceedings of the 2009 IACSIT Spring Conference(IACSIT SC2009),IEEE Computer Society Press, Singapore, April 17-20, 2009.&lt;/li&gt;&#xA;&lt;li&gt;Ping Yao, Mu Xu, Gu Liu, Guang Xu, Hong An, Wenting Han, The implementation and analysis of important symmetric ciphers on Stream Processor, In：Proceedings of the 2009 IEEE International Conference on Computer Engineering and Applications (ICCEA 2009),IEEE Computer Society Press, Manila Philippine, June 6-8, 2009.&lt;/li&gt;&#xA;&lt;li&gt;Guang Xu, Hong An, Gu Liu, Ping Yao, Mu Xu, Wenting Han, Xiaoqiang Li, Xiurui Hao，Performance and Power Efficiency Analysis of the Symmetric Cryptograph on Two Stream Processor Architectures，In：Proceedings of The Fifth IEEE International Conference on Intelligent Information Hiding and Multimedia Signal Processing, IEEE Computer Society Press, Kyoto, Japan, September 12 - 14, 2009&lt;/li&gt;&#xA;&lt;li&gt;Mu Xu, Hong An, Gu Liu, Yaobin Wang, Guang Xu, Ping Yao, Xiurui Hao, Wenting Han, The Mapping Framework and Optimizing Strategies for Block Cryptography Algorithms on Cell Broadband Engine，In：Proceedings of  the Tenth IEEE International Conference on Parallel and Distributed Computing, Applications and Technologies（PDCAT’09）, IEEE Computer Society Press, Hiroshima, Japan, December 8-11, 2009&lt;/li&gt;&#xA;&lt;li&gt;Yaobin Wang, Hong An, Jie Yan, Qi Li, Wenting Han, Li Wang, Investigation of Factors Impacting Thread-level Parallelism from Desktop, Multimedia and HPC Applications, In：Proceedings of the 4th IEEE  International Conference on Frontier of Computer Science and Technology(FCST 2009)，Shanghai,China，December 17-19,2009&lt;/li&gt;&#xA;&lt;li&gt;Gu Liu, Hong An, Wenting Han, Guang Xu, Ping Yao, Mu Xu, Xiurui Hao，A Program Behavior Study of Block Cryptography Algorithms on GPGPU，In：Proceedings of the 4th IEEE International Conference on Frontier of Computer Science and Technology(FCST 2009)，Shanghai,China，December 17-19,2009&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
     </item>
     <item>
       <title>test</title>
       <link>https://acsalab.github.io/acsa-web-2024/people/text/</link>
       <pubDate>Sun, 02 Dec 1923 00:00:00 +0000</pubDate>
       <guid>https://acsalab.github.io/acsa-web-2024/people/text/</guid>
-      <description>个人简介 丁保荣，硕士一年级，上海交通大学并行与分布式系统研究所。在陈榕教授的指导下，当前主要研究方向为图计算与基于RDMA的分布式数据结构。&#xA;学术经历 2017.09 - 2021.6，南京大学计算机科学与技术系(拔尖计划)，本科生 2019.02 香港大学，香港科技大学，香港中文大学等，短期交流 2021.09 - 至今，上海交通大学软件学院，研究生，导师：陈榕 实习经历 2020.06 - 2020.09， 腾讯，后台开发实习生 2020.09 - 2021.02，字节跳动，基础架构实习生 2021.08 字节跳动夏令营，计算机体系结构方向 研究方向 分布式图计算与基于RDMA的分布式数据结构。&#xA;研究项目 2017.09 - 2021.6，基于RDMA的分布式数据结构 2021.09 - 至今，面向统一共享内存架构的图计算系统 获奖情况 2020 卓越助教奖 2017 国家奖学金 教育部 助教课程 2019-2020 Introduction to Computer Systems 发表论文 [ATC ‘20] Harmonizing Performance and Isolation in Microkernels with Efficient Intra-kernel Isolation and Communication. Jinyu Gu, Xinyue Wu, Wentai Li, Nian Liu, Zeyu Mi, Yubin Xia and Haibo Chen.</description>
+      <description>&lt;h1 id=&#34;个人简介&#34;&gt;个人简介&lt;/h1&gt;&#xA;&lt;p&gt;丁保荣，硕士一年级，上海交通大学并行与分布式系统研究所。在陈榕教授的指导下，当前主要研究方向为图计算与基于RDMA的分布式数据结构。&lt;/p&gt;&#xA;&lt;h1 id=&#34;学术经历&#34;&gt;学术经历&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2017.09 - 2021.6，南京大学计算机科学与技术系(拔尖计划)，本科生&lt;/li&gt;&#xA;&lt;li&gt;2019.02 香港大学，香港科技大学，香港中文大学等，短期交流&lt;/li&gt;&#xA;&lt;li&gt;2021.09 - 至今，上海交通大学软件学院，研究生，导师：陈榕&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;实习经历&#34;&gt;实习经历&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2020.06 - 2020.09， 腾讯，后台开发实习生&lt;/li&gt;&#xA;&lt;li&gt;2020.09 - 2021.02，字节跳动，基础架构实习生&lt;/li&gt;&#xA;&lt;li&gt;2021.08 字节跳动夏令营，计算机体系结构方向&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;研究方向&#34;&gt;研究方向&lt;/h1&gt;&#xA;&lt;p&gt;分布式图计算与基于RDMA的分布式数据结构。&lt;/p&gt;&#xA;&lt;h1 id=&#34;研究项目&#34;&gt;研究项目&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2017.09 - 2021.6，基于RDMA的分布式数据结构&lt;/li&gt;&#xA;&lt;li&gt;2021.09 - 至今，面向统一共享内存架构的图计算系统&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;获奖情况&#34;&gt;获奖情况&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2020 卓越助教奖&lt;/li&gt;&#xA;&lt;li&gt;2017 国家奖学金 教育部&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;助教课程&#34;&gt;助教课程&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2019-2020 Introduction to Computer Systems&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;发表论文&#34;&gt;发表论文&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;[ATC ‘20] Harmonizing Performance and Isolation in Microkernels with Efficient Intra-kernel Isolation and Communication. Jinyu Gu, Xinyue Wu, Wentai Li, Nian Liu, Zeyu Mi, Yubin Xia and Haibo Chen.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://acsalab.github.io/acsa-web-2024/people/caoshiheng/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://acsalab.github.io/acsa-web-2024/people/caoshiheng/</guid>
+      <description>&lt;h1 id=&#34;个人简介&#34;&gt;个人简介&lt;/h1&gt;&#xA;&lt;p&gt;曹士衡，2024级博士生。&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
       <link>https://acsalab.github.io/acsa-web-2024/people/caozhenwei/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://acsalab.github.io/acsa-web-2024/people/caozhenwei/</guid>
-      <description>个人简介 曹振伟，2021级硕士生，ACSA实验室HPC方向&#xA;学术经历 2021.09 - 至今 中国科学技术大学计算机学院，硕士生，导师：安虹 2016.09 - 2021.06 武汉大学 弘毅学堂 获奖情况 2021.11 英特尔杯全国并行应用挑战赛最佳应用全国三等奖 2022.11 ACM 中国-国际并行计算挑战赛(IPCC2022)全国三等奖 </description>
+      <description>&lt;h1 id=&#34;个人简介&#34;&gt;个人简介&lt;/h1&gt;&#xA;&lt;p&gt;曹振伟，2021级硕士生，ACSA实验室HPC方向&lt;/p&gt;&#xA;&lt;h1 id=&#34;学术经历&#34;&gt;学术经历&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2021.09 - 至今 中国科学技术大学计算机学院，硕士生，导师：安虹&lt;/li&gt;&#xA;&lt;li&gt;2016.09 - 2021.06 武汉大学 弘毅学堂&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;获奖情况&#34;&gt;获奖情况&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2021.11 英特尔杯全国并行应用挑战赛最佳应用全国三等奖&lt;/li&gt;&#xA;&lt;li&gt;2022.11 ACM 中国-国际并行计算挑战赛(IPCC2022)全国三等奖&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://acsalab.github.io/acsa-web-2024/people/chengjiajun/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://acsalab.github.io/acsa-web-2024/people/chengjiajun/</guid>
+      <description>&lt;h1 id=&#34;个人简介&#34;&gt;个人简介&lt;/h1&gt;&#xA;&lt;p&gt;程家骏，2024级硕士生，ACSA实验室HPC方向&lt;/p&gt;&#xA;&lt;h1 id=&#34;学术经历&#34;&gt;学术经历&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2024.9 - 至今， 中国科学技术大学计算机学院，硕士生，导师：安虹&lt;/li&gt;&#xA;&lt;li&gt;2020.9 - 2024.9，华中科技大学计算机学院，本科生&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;获奖情况&#34;&gt;获奖情况&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;“龙芯杯”全国大学生计算机系统能力培养大赛 全国二等奖&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title></title>
       <link>https://acsalab.github.io/acsa-web-2024/people/chenjunshi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://acsalab.github.io/acsa-web-2024/people/chenjunshi/</guid>
-      <description>个人简介 大师兄，中国科学技术大学博士后</description>
+      <description>&lt;h1 id=&#34;个人简介&#34;&gt;个人简介&lt;/h1&gt;&#xA;&lt;p&gt;大师兄，中国科学技术大学博士后&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
       <link>https://acsalab.github.io/acsa-web-2024/people/daiyue/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://acsalab.github.io/acsa-web-2024/people/daiyue/</guid>
-      <description>个人简介 戴悦，2023级硕士生，ACSA实验室AI方向，在安虹老师指导下参与计算机视觉方向的研究&#xA;学术经历 2019.09-2023.06 中国科学技术大学数学学院，本科生 2023.09-至今 中国科学技术大学大数据学院，硕士，导师：安虹 研究方向 计算机视觉方向 研究项目 郑州大学cv合作项目 助教课程 2022 中国科学技术大学数学科学学院 数学学院B3 获奖情况 2023 RDMA Programming Competition 三等奖 </description>
+      <description>&lt;h1 id=&#34;个人简介&#34;&gt;个人简介&lt;/h1&gt;&#xA;&lt;p&gt;戴悦，2023级硕士生，ACSA实验室AI方向，在安虹老师指导下参与计算机视觉方向的研究&lt;/p&gt;&#xA;&lt;h1 id=&#34;学术经历&#34;&gt;学术经历&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2019.09-2023.06 中国科学技术大学数学学院，本科生&lt;/li&gt;&#xA;&lt;li&gt;2023.09-至今 中国科学技术大学大数据学院，硕士，导师：安虹&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;研究方向&#34;&gt;研究方向&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;计算机视觉方向&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;研究项目&#34;&gt;研究项目&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;郑州大学cv合作项目&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;助教课程&#34;&gt;助教课程&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2022 中国科学技术大学数学科学学院 数学学院B3&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;获奖情况&#34;&gt;获奖情况&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2023 RDMA Programming Competition 三等奖&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title></title>
       <link>https://acsalab.github.io/acsa-web-2024/people/dengjingheng/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://acsalab.github.io/acsa-web-2024/people/dengjingheng/</guid>
-      <description>个人简介 邓静恒, 硕士毕业生</description>
+      <description>&lt;h1 id=&#34;个人简介&#34;&gt;个人简介&lt;/h1&gt;&#xA;&lt;p&gt;邓静恒, 硕士毕业生&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
       <link>https://acsalab.github.io/acsa-web-2024/people/fangtao/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://acsalab.github.io/acsa-web-2024/people/fangtao/</guid>
-      <description>个人简介 方涛</description>
+      <description>&lt;h1 id=&#34;个人简介&#34;&gt;个人简介&lt;/h1&gt;&#xA;&lt;p&gt;方涛&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
       <link>https://acsalab.github.io/acsa-web-2024/people/fangxi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://acsalab.github.io/acsa-web-2024/people/fangxi/</guid>
-      <description>个人简介 方禧，2022级硕士生，在安老师和乔良师兄指导下参与深度学习编译的研究&#xA;学术经历 2022.09 - 至今 中国科学技术大学计算机学院，硕士生，导师：安虹 2023.04 - 2023.06 合肥-科大讯飞-实习生 2019.09 - 2022.06 山东大学机电与信息工程学院，本科生 2018.09 - 2019.06 山东大学海洋学院，本科生 研究方向 深度学习编译器</description>
+      <description>&lt;h1 id=&#34;个人简介&#34;&gt;个人简介&lt;/h1&gt;&#xA;&lt;p&gt;方禧，2022级硕士生，在安老师和乔良师兄指导下参与深度学习编译的研究&lt;/p&gt;&#xA;&lt;h1 id=&#34;学术经历&#34;&gt;学术经历&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2022.09 - 至今 中国科学技术大学计算机学院，硕士生，导师：安虹&lt;/li&gt;&#xA;&lt;li&gt;2023.04 - 2023.06 合肥-科大讯飞-实习生&lt;/li&gt;&#xA;&lt;li&gt;2019.09 - 2022.06 山东大学机电与信息工程学院，本科生&lt;/li&gt;&#xA;&lt;li&gt;2018.09 - 2019.06 山东大学海洋学院，本科生&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;研究方向&#34;&gt;研究方向&lt;/h1&gt;&#xA;&lt;p&gt;深度学习编译器&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
       <link>https://acsalab.github.io/acsa-web-2024/people/fujiawei/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://acsalab.github.io/acsa-web-2024/people/fujiawei/</guid>
-      <description>个人简介 付佳伟，2021级硕士生，ACSA实验室HPC方向。在安虹老师的指导下参与 数据流编程模型 方向的研究。&#xA;学术经历 2021.09 - 至今，中国科学技术大学计算机学院，硕士生，导师：安虹 2020.09 - 2021.07，微软亚洲研究院，实习生 2017.09 - 2021.06，中国科学技术大学计算机学院，本科生 研究方向 数据流编程模型 研究项目 数据流模型运行时环境 数据流编程框架 数据流模型编译器 </description>
+      <description>&lt;h1 id=&#34;个人简介&#34;&gt;个人简介&lt;/h1&gt;&#xA;&lt;p&gt;付佳伟，2021级硕士生，ACSA实验室HPC方向。在安虹老师的指导下参与 数据流编程模型 方向的研究。&lt;/p&gt;&#xA;&lt;h1 id=&#34;学术经历&#34;&gt;学术经历&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2021.09 - 至今，中国科学技术大学计算机学院，硕士生，导师：安虹&lt;/li&gt;&#xA;&lt;li&gt;2020.09 - 2021.07，微软亚洲研究院，实习生&lt;/li&gt;&#xA;&lt;li&gt;2017.09 - 2021.06，中国科学技术大学计算机学院，本科生&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;研究方向&#34;&gt;研究方向&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;数据流编程模型&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;研究项目&#34;&gt;研究项目&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;数据流模型运行时环境&lt;/li&gt;&#xA;&lt;li&gt;数据流编程框架&lt;/li&gt;&#xA;&lt;li&gt;数据流模型编译器&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title></title>
       <link>https://acsalab.github.io/acsa-web-2024/people/haoxiaoyu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://acsalab.github.io/acsa-web-2024/people/haoxiaoyu/</guid>
-      <description>个人简介 郝晓宇， 2021级博士生，ACSA实验室HCA方向</description>
+      <description>&lt;h1 id=&#34;个人简介&#34;&gt;个人简介&lt;/h1&gt;&#xA;&lt;p&gt;郝晓宇， 2021级博士生，ACSA实验室HCA方向&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
       <link>https://acsalab.github.io/acsa-web-2024/people/huangyeqi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://acsalab.github.io/acsa-web-2024/people/huangyeqi/</guid>
-      <description>个人简介 黄业琦, 2021级硕士生&#xA;CV https://blog.chivier.site/about/CV.pdf</description>
+      <description>&lt;h1 id=&#34;个人简介&#34;&gt;个人简介&lt;/h1&gt;&#xA;&lt;p&gt;黄业琦, 2021级硕士生&lt;/p&gt;&#xA;&lt;h1 id=&#34;cv&#34;&gt;CV&lt;/h1&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://blog.chivier.site/about/CV.pdf&#34;&gt;https://blog.chivier.site/about/CV.pdf&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
       <link>https://acsalab.github.io/acsa-web-2024/people/jiangqingcai/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://acsalab.github.io/acsa-web-2024/people/jiangqingcai/</guid>
-      <description>个人简介 姜庆彩， 2021级博士生，ACSA实验室HPC方向，主要研究方向为计算机体系结构、高性能计算和负载建模。&#xA;邮箱: jqc@mail.ustc.edu.cn, jqc9707@gmail.com&#xA;教育经历 2023年10月 - 现在 联合培养 苏黎世联邦理工学院 导师： Onur Mutlu 2019年9月 - 现在 硕博连读 中国科学技术大学 计算机科学与技术学院 导师：安虹 2015年9月 - 2019年7月本科 中国科学技术大学 计算机科学与技术学院 导师：安虹 工业界经历 2023年6月 - 2023年10月 研究实习生 华为2012实验室 基础软件创新实验室 导师：林晗 2018年10月 - 2019年3月 软件开发实习生 华为2012实验室 并行与分布式实验室 导师：于璠 研究方向 计算机体系结构（近存计算相关）， 并行计算（异构系统上大规模密度泛函计算软件的优化） 系统建模（在AArch64系统上改进静态代码分析工具） 教学工作 中国科学技术大学&#xA;助教 计算机系统概论A（CS1002A）2021年秋季学期 助教 程序设计II （011175）2020年春季学期 助教 计算机系统概论H（011704） 2019年秋季学期 助教 人工智能导论（011119）2019年春季学期 获奖情况 2019年第七届亚太地区RDMA编程挑战赛一等奖 2020年第八届亚太地区RDMA编程挑战赛一等奖 2020年第八届全国并行应用挑战赛 应用组一等奖 2020年ASML计算光刻及超算软件奖学金 2022年环球数码奖学金 2022年ACM Gordon Bell Prize提名 </description>
+      <description>&lt;h1 id=&#34;个人简介&#34;&gt;个人简介&lt;/h1&gt;&#xA;&lt;p&gt;姜庆彩， 2021级博士生，ACSA实验室HPC方向，主要研究方向为计算机体系结构、高性能计算和负载建模。&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;邮箱:&lt;/strong&gt; &lt;a href=&#34;mailto:jqc@mail.ustc.edu.cn&#34;&gt;jqc@mail.ustc.edu.cn&lt;/a&gt;, &lt;a href=&#34;mailto:jqc9707@gmail.com&#34;&gt;jqc9707@gmail.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;教育经历&#34;&gt;教育经历&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2023年10月 - 现在 联合培养 苏黎世联邦理工学院 导师： &lt;!-- raw HTML omitted --&gt;Onur Mutlu&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;&#xA;&lt;li&gt;2019年9月  - 现在 硕博连读 中国科学技术大学 计算机科学与技术学院  导师：&lt;!-- raw HTML omitted --&gt;安虹&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;&#xA;&lt;li&gt;2015年9月  - 2019年7月本科 中国科学技术大学 计算机科学与技术学院 导师：&lt;!-- raw HTML omitted --&gt;安虹&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;工业界经历&#34;&gt;工业界经历&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2023年6月  - 2023年10月 研究实习生 华为2012实验室 基础软件创新实验室 导师：林晗&lt;/li&gt;&#xA;&lt;li&gt;2018年10月 - 2019年3月 软件开发实习生 华为2012实验室 并行与分布式实验室 导师：于璠&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;研究方向&#34;&gt;研究方向&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;计算机体系结构（近存计算相关），&lt;/li&gt;&#xA;&lt;li&gt;并行计算（异构系统上大规模密度泛函计算软件的优化）&lt;/li&gt;&#xA;&lt;li&gt;系统建模（在AArch64系统上改进静态代码分析工具）&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;教学工作&#34;&gt;教学工作&lt;/h1&gt;&#xA;&lt;p&gt;中国科学技术大学&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
       <link>https://acsalab.github.io/acsa-web-2024/people/kanhongyu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://acsalab.github.io/acsa-web-2024/people/kanhongyu/</guid>
-      <description>个人简介 阚鸿宇, 2020级硕士毕业生, HPDA方向。</description>
+      <description>&lt;h1 id=&#34;个人简介&#34;&gt;个人简介&lt;/h1&gt;&#xA;&lt;p&gt;阚鸿宇, 2020级硕士毕业生, HPDA方向。&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
       <link>https://acsalab.github.io/acsa-web-2024/people/liangweihao/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://acsalab.github.io/acsa-web-2024/people/liangweihao/</guid>
-      <description>个人简介 梁伟浩</description>
+      <description>&lt;h1 id=&#34;个人简介&#34;&gt;个人简介&lt;/h1&gt;&#xA;&lt;p&gt;梁伟浩&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
       <link>https://acsalab.github.io/acsa-web-2024/people/lihanxi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://acsalab.github.io/acsa-web-2024/people/lihanxi/</guid>
-      <description>个人简介 李涵西, 23年硕毕业</description>
+      <description>&lt;h1 id=&#34;个人简介&#34;&gt;个人简介&lt;/h1&gt;&#xA;&lt;p&gt;李涵西, 23年硕毕业&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://acsalab.github.io/acsa-web-2024/people/lihaoqing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://acsalab.github.io/acsa-web-2024/people/lihaoqing/</guid>
+      <description>&lt;h1 id=&#34;个人简介&#34;&gt;个人简介&lt;/h1&gt;&#xA;&lt;p&gt;李昊青，2024级博士生，ACSA实验室HPDA方向。&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
       <link>https://acsalab.github.io/acsa-web-2024/people/limingfan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://acsalab.github.io/acsa-web-2024/people/limingfan/</guid>
-      <description>个人简介 李名凡, 博士毕业生</description>
+      <description>&lt;h1 id=&#34;个人简介&#34;&gt;个人简介&lt;/h1&gt;&#xA;&lt;p&gt;李名凡, 博士毕业生&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
@@ -139,105 +160,119 @@
       <link>https://acsalab.github.io/acsa-web-2024/people/lingmin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://acsalab.github.io/acsa-web-2024/people/lingmin/</guid>
-      <description>个人简介 凌敏, 22年硕毕业</description>
+      <description>&lt;h1 id=&#34;个人简介&#34;&gt;个人简介&lt;/h1&gt;&#xA;&lt;p&gt;凌敏, 22年硕毕业&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
       <link>https://acsalab.github.io/acsa-web-2024/people/linhan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://acsalab.github.io/acsa-web-2024/people/linhan/</guid>
-      <description>个人简介 林晗，博士生。华为2019年天才少年。</description>
+      <description>&lt;h1 id=&#34;个人简介&#34;&gt;个人简介&lt;/h1&gt;&#xA;&lt;p&gt;林晗，博士生。华为2019年天才少年。&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
       <link>https://acsalab.github.io/acsa-web-2024/people/liubo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://acsalab.github.io/acsa-web-2024/people/liubo/</guid>
-      <description>个人简介 刘波，2022级硕士生，ACSA实验室HPDA方向。在安虹老师是指导下参与国产超算平台-智能计算方向的研究。&#xA;学术经历 2022.09- 至今，中国科学技术大学计算机学院，硕士生，导师：安虹 2023.04- 2023.06，合肥-科大讯飞-实习生 2018.09- 2022.06，兰州大学 信息科学与工程学院，本科生 2017.09-2018.06，兰州大学 资源与环境学院，本科生 研究方向 国产超算平台 智能计算&#xA;研究项目 国产超算平台的大模型训练优化技术 </description>
+      <description>&lt;h1 id=&#34;个人简介&#34;&gt;个人简介&lt;/h1&gt;&#xA;&lt;p&gt;刘波，2022级硕士生，ACSA实验室HPDA方向。在安虹老师是指导下参与国产超算平台-智能计算方向的研究。&lt;/p&gt;&#xA;&lt;h1 id=&#34;学术经历&#34;&gt;学术经历&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2022.09- 至今，中国科学技术大学计算机学院，硕士生，导师：安虹&lt;/li&gt;&#xA;&lt;li&gt;2023.04- 2023.06，合肥-科大讯飞-实习生&lt;/li&gt;&#xA;&lt;li&gt;2018.09- 2022.06，兰州大学 信息科学与工程学院，本科生&lt;/li&gt;&#xA;&lt;li&gt;2017.09-2018.06，兰州大学 资源与环境学院，本科生&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;研究方向&#34;&gt;研究方向&lt;/h1&gt;&#xA;&lt;p&gt;国产超算平台 智能计算&lt;/p&gt;&#xA;&lt;h1 id=&#34;研究项目&#34;&gt;研究项目&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;国产超算平台的大模型训练优化技术&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title></title>
       <link>https://acsalab.github.io/acsa-web-2024/people/liuqiang/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://acsalab.github.io/acsa-web-2024/people/liuqiang/</guid>
-      <description>个人简介 刘强，2020级硕士生，ACSA实验室HPDA方向。在安虹老师和石军师兄指导下参与医学影像分割相关工作。&#xA;学习经历： 2020.09 - 2023.06，中国科学技术大学大数据学院，硕士生 2015.09 - 2019.06，合肥工业大学计算机学院电子信息工程，本科生 研究方向 医学影像分割&#xA;研究项目 华为昇腾处理器系统仿真 头颈部肿瘤区域分割 获奖情况 2021科大讯飞-智能硬件语音控制的时频图分类挑战赛第一名 2021阿里天池-以数据为中心的鲁棒机器学习竞赛第六名 2023中国科学技术大学优秀毕业生 </description>
+      <description>&lt;h1 id=&#34;个人简介&#34;&gt;个人简介&lt;/h1&gt;&#xA;&lt;p&gt;刘强，2020级硕士生，ACSA实验室HPDA方向。在安虹老师和石军师兄指导下参与医学影像分割相关工作。&lt;/p&gt;&#xA;&lt;h1 id=&#34;学习经历&#34;&gt;学习经历：&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2020.09 - 2023.06，中国科学技术大学大数据学院，硕士生&lt;/li&gt;&#xA;&lt;li&gt;2015.09 - 2019.06，合肥工业大学计算机学院电子信息工程，本科生&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;研究方向&#34;&gt;研究方向&lt;/h1&gt;&#xA;&lt;p&gt;医学影像分割&lt;/p&gt;&#xA;&lt;h1 id=&#34;研究项目&#34;&gt;研究项目&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;华为昇腾处理器系统仿真&lt;/li&gt;&#xA;&lt;li&gt;头颈部肿瘤区域分割&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;获奖情况&#34;&gt;获奖情况&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2021科大讯飞-智能硬件语音控制的时频图分类挑战赛第一名&lt;/li&gt;&#xA;&lt;li&gt;2021阿里天池-以数据为中心的鲁棒机器学习竞赛第六名&lt;/li&gt;&#xA;&lt;li&gt;2023中国科学技术大学优秀毕业生&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title></title>
       <link>https://acsalab.github.io/acsa-web-2024/people/liyida/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://acsalab.github.io/acsa-web-2024/people/liyida/</guid>
-      <description>个人简介 李易达，2022级硕士生，ACSA实验室HPDA方向。在安虹老师指导下参与：三位超声心脏重建等方向的研究。&#xA;学术经历 2022年9月至今，中国科学技术大学，大数据学院硕士生，导师：安虹 </description>
+      <description>&lt;h1 id=&#34;个人简介&#34;&gt;个人简介&lt;/h1&gt;&#xA;&lt;p&gt;李易达，2022级硕士生，ACSA实验室HPDA方向。在安虹老师指导下参与：三位超声心脏重建等方向的研究。&lt;/p&gt;&#xA;&lt;h1 id=&#34;学术经历&#34;&gt;学术经历&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2022年9月至今，中国科学技术大学，大数据学院硕士生，导师：安虹&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://acsalab.github.io/acsa-web-2024/people/liyuanhang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://acsalab.github.io/acsa-web-2024/people/liyuanhang/</guid>
+      <description>&lt;h1 id=&#34;个人简介&#34;&gt;个人简介&lt;/h1&gt;&#xA;&lt;p&gt;李远航，24级硕士生，喜欢睡觉（💤）。&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
       <link>https://acsalab.github.io/acsa-web-2024/people/lufan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://acsalab.github.io/acsa-web-2024/people/lufan/</guid>
-      <description>个人简介 卢帆</description>
+      <description>&lt;h1 id=&#34;个人简介&#34;&gt;个人简介&lt;/h1&gt;&#xA;&lt;p&gt;卢帆&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
       <link>https://acsalab.github.io/acsa-web-2024/people/qiaoliang/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://acsalab.github.io/acsa-web-2024/people/qiaoliang/</guid>
-      <description>个人介绍 乔良，2023级博士生，ACSA实验室AI方向。在安虹老师指导下参与深度学习编译器方向的研究。&#xA;学术经历 2023.09-至今，中国科学技术大学计算机学院，博士生，导师：安虹 2022.05-2020.8，阿里云神龙计算平台，实习生 2020.09-2023.06，中国科学技术大学计算机学院，硕士生，导师：安虹 2016.09-2020.06，南开大学商学院，本科生 研究方向 深度学习编译器</description>
+      <description>&lt;h1 id=&#34;个人介绍&#34;&gt;个人介绍&lt;/h1&gt;&#xA;&lt;p&gt;乔良，2023级博士生，ACSA实验室AI方向。在安虹老师指导下参与深度学习编译器方向的研究。&lt;/p&gt;&#xA;&lt;h1 id=&#34;学术经历&#34;&gt;学术经历&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2023.09-至今，中国科学技术大学计算机学院，博士生，导师：安虹&lt;/li&gt;&#xA;&lt;li&gt;2022.05-2020.8，阿里云神龙计算平台，实习生&lt;/li&gt;&#xA;&lt;li&gt;2020.09-2023.06，中国科学技术大学计算机学院，硕士生，导师：安虹&lt;/li&gt;&#xA;&lt;li&gt;2016.09-2020.06，南开大学商学院，本科生&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;研究方向&#34;&gt;研究方向&lt;/h1&gt;&#xA;&lt;p&gt;深度学习编译器&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
       <link>https://acsalab.github.io/acsa-web-2024/people/shenpeiqi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://acsalab.github.io/acsa-web-2024/people/shenpeiqi/</guid>
-      <description>个人简介 沈沛祺，2021级硕士生，ACSA实验室HPC方向。在安虹老师指导下参与申威数据流编程框架方向的研究。&#xA;学术经历 2021.09 - 至今，中国科学技术大学计算机学院，硕士生，导师：安虹教授 2017.09 - 2021.06，中国科学技术大学少年班学院，本科生 研究方向 申威众核平台数据流编程框架 研究项目 华为数据流运行时并行编程框架项目 申威众核处理器上以数据为中心的并行编程框架后端设计 助教课程 2021 春季学期 计算之美与乐趣 2022 秋季学期 计算机系统概论 获奖情况 2021.05 世界大学生超算比赛 (ASC20-21) 决赛一等奖 2021.06 国际大学生超算比赛 (ISC21) 决赛一等奖 2022.08 第十届亚太区大学生 RDMA 编程挑战赛 决赛二等奖 </description>
+      <description>&lt;h1 id=&#34;个人简介&#34;&gt;个人简介&lt;/h1&gt;&#xA;&lt;p&gt;沈沛祺，2021级硕士生，ACSA实验室HPC方向。在安虹老师指导下参与申威数据流编程框架方向的研究。&lt;/p&gt;&#xA;&lt;h1 id=&#34;学术经历&#34;&gt;学术经历&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2021.09 - 至今，中国科学技术大学计算机学院，硕士生，导师：安虹教授&lt;/li&gt;&#xA;&lt;li&gt;2017.09 - 2021.06，中国科学技术大学少年班学院，本科生&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;研究方向&#34;&gt;研究方向&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;申威众核平台数据流编程框架&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;研究项目&#34;&gt;研究项目&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;华为数据流运行时并行编程框架项目&lt;/li&gt;&#xA;&lt;li&gt;申威众核处理器上以数据为中心的并行编程框架后端设计&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;助教课程&#34;&gt;助教课程&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2021 春季学期 计算之美与乐趣&lt;/li&gt;&#xA;&lt;li&gt;2022 秋季学期 计算机系统概论&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;获奖情况&#34;&gt;获奖情况&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2021.05 世界大学生超算比赛 (ASC20-21) 决赛一等奖&lt;/li&gt;&#xA;&lt;li&gt;2021.06 国际大学生超算比赛 (ISC21) 决赛一等奖&lt;/li&gt;&#xA;&lt;li&gt;2022.08 第十届亚太区大学生 RDMA 编程挑战赛 决赛二等奖&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title></title>
       <link>https://acsalab.github.io/acsa-web-2024/people/shijun/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://acsalab.github.io/acsa-web-2024/people/shijun/</guid>
-      <description>个人简介 石军， 2020级博士生，ACSA实验室HPDA方向，主要研究方向为医学影像分析、多模态大模型以及大模型训练与推理框架&#xA;学生工作 2021年中国科大时珍书院院长助理 2022年计算机学院机器智能党支部书记 助教课程 2021 中国科学技术大学 计算机学院 计算之美 研究项目 科大新医学项目—多源影像融合系统 KBR横向课题—基于超声的3D心脏重建 崂山实验室项目—面向新一代国产超算的大模型训练优化框架 华为横向课题—NPU系统仿真与建模：AI Benchmark设计 蔚来横向课题—面向车载设备的AI算子自动融合方法研究 获奖情况 2022.12. 安徽省研究生党员标兵 2023.03. 中国科大研究生党员标兵 2022.12. 中国科大-英特尔奖学金 2023.10. 中国科大-英特尔奖学金 2021.10. 第四届世界声博会十大人工智能新锐团队 2021.10. Inte全球AI影响力嘉年华创造者赛道最高奖 2020-2022. 科大讯飞1024 AI开发者大赛冠军（10项） 2021.10. 科大讯飞1024 AI开发者大赛十佳算法团队 2018-2019年全国并行应用挑战赛铜奖 2020.06. ISC世界大学生超算竞赛冠军（教练） 2023.05. ASC世界大学生超算竞赛亚军（教练） 已发表论文 发表论文20篇，其中一作（英文）：</description>
+      <description>&lt;h1 id=&#34;个人简介&#34;&gt;个人简介&lt;/h1&gt;&#xA;&lt;p&gt;石军， 2020级博士生，ACSA实验室HPDA方向，主要研究方向为医学影像分析、多模态大模型以及大模型训练与推理框架&lt;/p&gt;&#xA;&lt;h1 id=&#34;学生工作&#34;&gt;学生工作&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2021年中国科大时珍书院院长助理&lt;/li&gt;&#xA;&lt;li&gt;2022年计算机学院机器智能党支部书记&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;助教课程&#34;&gt;助教课程&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2021 中国科学技术大学 计算机学院 计算之美&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;研究项目&#34;&gt;研究项目&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;科大新医学项目—多源影像融合系统&lt;/li&gt;&#xA;&lt;li&gt;KBR横向课题—基于超声的3D心脏重建&lt;/li&gt;&#xA;&lt;li&gt;崂山实验室项目—面向新一代国产超算的大模型训练优化框架&lt;/li&gt;&#xA;&lt;li&gt;华为横向课题—NPU系统仿真与建模：AI Benchmark设计&lt;/li&gt;&#xA;&lt;li&gt;蔚来横向课题—面向车载设备的AI算子自动融合方法研究&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;获奖情况&#34;&gt;获奖情况&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2022.12. 安徽省研究生党员标兵&lt;/li&gt;&#xA;&lt;li&gt;2023.03. 中国科大研究生党员标兵&lt;/li&gt;&#xA;&lt;li&gt;2022.12. 中国科大-英特尔奖学金&lt;/li&gt;&#xA;&lt;li&gt;2023.10. 中国科大-英特尔奖学金&lt;/li&gt;&#xA;&lt;li&gt;2021.10. 第四届世界声博会十大人工智能新锐团队&lt;/li&gt;&#xA;&lt;li&gt;2021.10. Inte全球AI影响力嘉年华创造者赛道最高奖&lt;/li&gt;&#xA;&lt;li&gt;2020-2022. 科大讯飞1024 AI开发者大赛冠军（10项）&lt;/li&gt;&#xA;&lt;li&gt;2021.10. 科大讯飞1024 AI开发者大赛十佳算法团队&lt;/li&gt;&#xA;&lt;li&gt;2018-2019年全国并行应用挑战赛铜奖&lt;/li&gt;&#xA;&lt;li&gt;2020.06. ISC世界大学生超算竞赛冠军（教练）&lt;/li&gt;&#xA;&lt;li&gt;2023.05. ASC世界大学生超算竞赛亚军（教练）&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;已发表论文&#34;&gt;已发表论文&lt;/h1&gt;&#xA;&lt;p&gt;发表论文20篇，其中一作（英文）：&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
     </item>
     <item>
       <title></title>
       <link>https://acsalab.github.io/acsa-web-2024/people/songlongsheng/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://acsalab.github.io/acsa-web-2024/people/songlongsheng/</guid>
-      <description>个人简介 宋龙盛, 2023硕士生</description>
+      <description>&lt;h1 id=&#34;个人简介&#34;&gt;个人简介&lt;/h1&gt;&#xA;&lt;p&gt;宋龙盛, 2023硕士生&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
       <link>https://acsalab.github.io/acsa-web-2024/people/tangxulong/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://acsalab.github.io/acsa-web-2024/people/tangxulong/</guid>
-      <description>个人简介 汤旭龙, 大牛师兄&#xA;实验室论文 Xulong Tang, Hong An, Gongjin Sun, Dongrui Fan A Video Coding Benchmark Suite for Evaluation of Processor Capability, In proceedings of the 14th IEEE/ACIS International Conference on Software Engineering, Artificial Intelligence, Networking and Parallel/Distributed Computing (SNPD13)&#xA;Gu Liu, Hong An, Xiaoqiang Li, Wei Zhou, Xuechao Wei, Xulong Tang FlexBFS: A Parallelism-aware Implementation of Breadth-First Search on GPU, Accepted as a poster by 17th ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming (PPoPP12)</description>
+      <description>&lt;h1 id=&#34;个人简介&#34;&gt;个人简介&lt;/h1&gt;&#xA;&lt;p&gt;汤旭龙, 大牛师兄&lt;/p&gt;&#xA;&lt;h1 id=&#34;实验室论文&#34;&gt;实验室论文&lt;/h1&gt;&#xA;&lt;p&gt;Xulong Tang, Hong An, Gongjin Sun, Dongrui Fan&#xA;A Video Coding Benchmark Suite for Evaluation of Processor Capability,&#xA;In proceedings of the 14th IEEE/ACIS International Conference on Software Engineering, Artificial Intelligence, Networking and Parallel/Distributed Computing&#xA;(SNPD13)&lt;/p&gt;&#xA;&lt;p&gt;Gu Liu, Hong An, Xiaoqiang Li, Wei Zhou, Xuechao Wei, Xulong Tang&#xA;FlexBFS: A Parallelism-aware Implementation of Breadth-First Search on GPU,&#xA;Accepted as a poster by 17th ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming&#xA;(PPoPP12)&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
       <link>https://acsalab.github.io/acsa-web-2024/people/tanshaojie/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://acsalab.github.io/acsa-web-2024/people/tanshaojie/</guid>
-      <description>宇宙のなかで、星々は煌めき、それはまるで造物主の詩のようです。大地には多様な命が息づき、花は咲き誇り、まるで造物主の絵筆が躍動しているかのようです。一枚の葉っぱや一片の雲、それぞれが神秘の美を語っています。そよ風が吹くとき、感じるのは終わりのない平和と神秘。太陽が昇る瞬間、その光は大地に注がれ、まるで造物主の慈愛の光です。この壮大で不思議な創造の中で、私たちが見るのは造物主の深い、果てしない知恵です。この宇宙の傑作に対する賛美は、感謝と畏敬の念を心の底から表します。&#xA;个人简介 谭邵杰，2021级硕士生，ACSA实验室HPC方向。在安虹老师是指导下参与 处理器负载建模 和 PIM存内计算调度 方向的研究。&#xA;学术经历 2021.09 - 至今，中国科学技术大学计算机学院，硕士生，导师：安虹 2023.07 - 2023.09， 上海华为2012实验室，实习生 2018.09 - 2021.06，中国科学技术大学计算机学院，本科生 2017.09 - 2018.06，中国科学技术大学管理学院，本科生 研究方向 处理器负载建模 和 PIM存内计算调度 研究项目 鲲鹏负载建模 面向PIM架构的任务调度框架 助教课程 2021 中国科学技术大学 计算机学院 计算之美 获奖情况 2021.05 世界大学生超算比赛(ASC20-21)决赛一等奖 2021.06 国际大学生超算比赛(ISC21)决赛一等奖 2022.11 ACM 中国-国际并行计算挑战赛(IPCC2022)全国三等奖 </description>
+      <description>&lt;p&gt;宇宙のなかで、星々は煌めき、それはまるで造物主の詩のようです。大地には多様な命が息づき、花は咲き誇り、まるで造物主の絵筆が躍動しているかのようです。一枚の葉っぱや一片の雲、それぞれが神秘の美を語っています。そよ風が吹くとき、感じるのは終わりのない平和と神秘。太陽が昇る瞬間、その光は大地に注がれ、まるで造物主の慈愛の光です。この壮大で不思議な創造の中で、私たちが見るのは造物主の深い、果てしない知恵です。この宇宙の傑作に対する賛美は、感謝と畏敬の念を心の底から表します。&lt;/p&gt;&#xA;&lt;h1 id=&#34;个人简介&#34;&gt;个人简介&lt;/h1&gt;&#xA;&lt;p&gt;谭邵杰，2021级硕士生，ACSA实验室HPC方向。在安虹老师是指导下参与 处理器负载建模 和 PIM存内计算调度 方向的研究。&lt;/p&gt;&#xA;&lt;h1 id=&#34;学术经历&#34;&gt;学术经历&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2021.09 - 至今，中国科学技术大学计算机学院，硕士生，导师：安虹&lt;/li&gt;&#xA;&lt;li&gt;2023.07 - 2023.09， 上海华为2012实验室，实习生&lt;/li&gt;&#xA;&lt;li&gt;2018.09 - 2021.06，中国科学技术大学计算机学院，本科生&lt;/li&gt;&#xA;&lt;li&gt;2017.09 - 2018.06，中国科学技术大学管理学院，本科生&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;研究方向&#34;&gt;研究方向&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;处理器负载建模 和 PIM存内计算调度&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;研究项目&#34;&gt;研究项目&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;鲲鹏负载建模&lt;/li&gt;&#xA;&lt;li&gt;面向PIM架构的任务调度框架&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;助教课程&#34;&gt;助教课程&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2021     中国科学技术大学 计算机学院 计算之美&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;获奖情况&#34;&gt;获奖情况&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2021.05    世界大学生超算比赛(ASC20-21)决赛一等奖&lt;/li&gt;&#xA;&lt;li&gt;2021.06    国际大学生超算比赛(ISC21)决赛一等奖&lt;/li&gt;&#xA;&lt;li&gt;2022.11    ACM 中国-国际并行计算挑战赛(IPCC2022)全国三等奖&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title></title>
       <link>https://acsalab.github.io/acsa-web-2024/people/tianyongshao/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://acsalab.github.io/acsa-web-2024/people/tianyongshao/</guid>
-      <description>个人简介 田永劭，22级硕士生，ACSA实验室HPDA方向。&#xA;学术经历 2022.09 - 现在，中国科学技术大学计算机学院，硕士生，导师：安虹 2018.09 - 2022.06，合肥工业大学化学与化工学院，本科生 研究方向 大模型推理加速 研究项目 新一代神威异构众核平台上的大模型推理加速 </description>
+      <description>&lt;h1 id=&#34;个人简介&#34;&gt;个人简介&lt;/h1&gt;&#xA;&lt;p&gt;田永劭，22级硕士生，ACSA实验室HPDA方向。&lt;/p&gt;&#xA;&lt;h1 id=&#34;学术经历&#34;&gt;学术经历&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2022.09 - 现在，中国科学技术大学计算机学院，硕士生，导师：安虹&lt;/li&gt;&#xA;&lt;li&gt;2018.09 - 2022.06，合肥工业大学化学与化工学院，本科生&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;研究方向&#34;&gt;研究方向&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;大模型推理加速&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;研究项目&#34;&gt;研究项目&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;新一代神威异构众核平台上的大模型推理加速&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title></title>
       <link>https://acsalab.github.io/acsa-web-2024/people/tubuxin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://acsalab.github.io/acsa-web-2024/people/tubuxin/</guid>
-      <description>个人简介 涂布新，2023级硕士生，ACSA实验室HPC方向，在安虹老师指导下参与PIM近存计算调度方向的研究。&#xA;学术经历 2023.09 - 至今 中国科学技术大学计算机科学与技术学院 硕士生，导师：安虹 研究方向 PIM近存计算调度&#xA;获奖情况 2023.8 学生 RDMA 编程竞赛(RDMA2023)全国三等奖 </description>
+      <description>&lt;h1 id=&#34;个人简介&#34;&gt;个人简介&lt;/h1&gt;&#xA;&lt;p&gt;涂布新，2023级硕士生，ACSA实验室HPC方向，在安虹老师指导下参与PIM近存计算调度方向的研究。&lt;/p&gt;&#xA;&lt;h1 id=&#34;学术经历&#34;&gt;学术经历&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2023.09 - 至今 中国科学技术大学计算机科学与技术学院 硕士生，导师：安虹&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;研究方向&#34;&gt;研究方向&lt;/h1&gt;&#xA;&lt;p&gt;PIM近存计算调度&lt;/p&gt;&#xA;&lt;h1 id=&#34;获奖情况&#34;&gt;获奖情况&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2023.8 学生 RDMA 编程竞赛(RDMA2023)全国三等奖&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://acsalab.github.io/acsa-web-2024/people/wangbingxun/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://acsalab.github.io/acsa-web-2024/people/wangbingxun/</guid>
+      <description>&lt;h1 id=&#34;个人简介&#34;&gt;个人简介&lt;/h1&gt;&#xA;&lt;p&gt;王炳勋，2024级硕士生，ACSA实验室AI方向。&lt;/p&gt;&#xA;&lt;h1 id=&#34;学术经历&#34;&gt;学术经历&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;2020.09 - 2024.06，中国科学技术大学计算机学院，本科生&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;2021.09 -至今，中国科学技术大学计算机学院，硕士生，导师：安虹&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;研究方向&#34;&gt;研究方向&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;计算机视觉方向&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;获奖情况&#34;&gt;获奖情况&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2024.04 世界大学生超算比赛(ASC24)决赛一等奖&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title></title>
       <link>https://acsalab.github.io/acsa-web-2024/people/wangchao/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://acsalab.github.io/acsa-web-2024/people/wangchao/</guid>
-      <description>个人简介 王超，2023级硕士生，ACSA实验室HPC方向，在陈俊仕老师的指导下参与 HPC优化、可视化，taichi并行编程框架 方向的研究。&#xA;学术经历 2017.9 - 2021.6 南京理工大学，计算机科学与工程学院，本科 2023.9 - 至今，中国科学技术大学，计算机学院，硕士 研究项目 HPC优化、可视化，taichi并行编程框架&#xA;获奖情况 2023.8 神威国实杯第七届国产CPU并行应用挑战赛（CPC）全国二等奖 </description>
+      <description>&lt;h1 id=&#34;个人简介&#34;&gt;个人简介&lt;/h1&gt;&#xA;&lt;p&gt;王超，2023级硕士生，ACSA实验室HPC方向，在陈俊仕老师的指导下参与 HPC优化、可视化，taichi并行编程框架 方向的研究。&lt;/p&gt;&#xA;&lt;h1 id=&#34;学术经历&#34;&gt;学术经历&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2017.9 - 2021.6 南京理工大学，计算机科学与工程学院，本科&lt;/li&gt;&#xA;&lt;li&gt;2023.9 - 至今，中国科学技术大学，计算机学院，硕士&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;研究项目&#34;&gt;研究项目&lt;/h1&gt;&#xA;&lt;p&gt;HPC优化、可视化，taichi并行编程框架&lt;/p&gt;&#xA;&lt;h1 id=&#34;获奖情况&#34;&gt;获奖情况&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2023.8 神威国实杯第七届国产CPU并行应用挑战赛（CPC）全国二等奖&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title></title>
@@ -248,136 +283,157 @@
     </item>
     <item>
       <title></title>
+      <link>https://acsalab.github.io/acsa-web-2024/people/wangqifan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://acsalab.github.io/acsa-web-2024/people/wangqifan/</guid>
+      <description>&lt;h1 id=&#34;个人简介&#34;&gt;个人简介&lt;/h1&gt;&#xA;&lt;p&gt;王启凡，2024级博士生，ACSA实验室AI+HPC方向。在吴俊敏老师、陈俊仕老师、安虹老师、李京老师等指导下参与材料大模型的相关研究。&lt;/p&gt;&#xA;&lt;h1 id=&#34;学习经历&#34;&gt;学习经历&lt;/h1&gt;&#xA;&lt;p&gt;2021.09-2024.06，中国科学技术大学软件学院，硕士生，导师：吴俊敏&lt;/p&gt;&#xA;&lt;p&gt;2024.06-至今，中国科学技术大学软件学院，博士生，导师：李京&lt;/p&gt;&#xA;&lt;h1 id=&#34;研究方向&#34;&gt;研究方向&lt;/h1&gt;&#xA;&lt;p&gt;材料大模型及其在国产高性能计算平台上的优化&lt;/p&gt;&#xA;&lt;h1 id=&#34;助教课程&#34;&gt;助教课程&lt;/h1&gt;&#xA;&lt;p&gt;2024 中国科学技术大学 计算机学院 高级计算机体系结构&lt;/p&gt;&#xA;&lt;p&gt;2024 中国科学技术大学 软件学院 程序设计与计算机系统&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
       <link>https://acsalab.github.io/acsa-web-2024/people/wangtiantong/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://acsalab.github.io/acsa-web-2024/people/wangtiantong/</guid>
-      <description>个人简介 王天同，2023级硕士生，ACSA实验室AI方向。&#xA;学术经历 2023年9月-至今，中国科学技术大学计算机学院，硕士生导师：安虹 研究方向 医学影像领域的计算机视觉 获奖情况 2023年RDMA三等奖 </description>
+      <description>&lt;h1 id=&#34;个人简介&#34;&gt;个人简介&lt;/h1&gt;&#xA;&lt;p&gt;王天同，2023级硕士生，ACSA实验室AI方向。&lt;/p&gt;&#xA;&lt;h1 id=&#34;学术经历&#34;&gt;学术经历&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2023年9月-至今，中国科学技术大学计算机学院，硕士生导师：安虹&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;研究方向&#34;&gt;研究方向&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;医学影像领域的计算机视觉&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;获奖情况&#34;&gt;获奖情况&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2023年RDMA三等奖&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title></title>
       <link>https://acsalab.github.io/acsa-web-2024/people/wangzhaohui/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://acsalab.github.io/acsa-web-2024/people/wangzhaohui/</guid>
-      <description>个人简介 王朝晖，2018级硕士，2021级博士，ACSA实验室HPDA方向。&#xA;学术经历 2018.9 - 至今 中国科学技术大学计算机学院，硕博，导师：安虹 2014.9-2018-6 中南大学计算机学院 研究方向 医疗影像认知计算 智能心脏超声 </description>
+      <description>&lt;h1 id=&#34;个人简介&#34;&gt;个人简介&lt;/h1&gt;&#xA;&lt;p&gt;王朝晖，2018级硕士，2021级博士，ACSA实验室HPDA方向。&lt;/p&gt;&#xA;&lt;h1 id=&#34;学术经历&#34;&gt;学术经历&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2018.9 - 至今 中国科学技术大学计算机学院，硕博，导师：安虹&lt;/li&gt;&#xA;&lt;li&gt;2014.9-2018-6 中南大学计算机学院&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;研究方向&#34;&gt;研究方向&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;医疗影像认知计算&lt;/li&gt;&#xA;&lt;li&gt;智能心脏超声&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title></title>
       <link>https://acsalab.github.io/acsa-web-2024/people/wuruohan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://acsalab.github.io/acsa-web-2024/people/wuruohan/</guid>
-      <description>个人简介 吴若晗，2023级博士生，ACSA实验室HPC方向。</description>
+      <description>&lt;h1 id=&#34;个人简介&#34;&gt;个人简介&lt;/h1&gt;&#xA;&lt;p&gt;吴若晗，2023级博士生，ACSA实验室HPC方向。&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
       <link>https://acsalab.github.io/acsa-web-2024/people/xule/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://acsalab.github.io/acsa-web-2024/people/xule/</guid>
-      <description>个人简介 许乐, 2019级硕士毕业生</description>
+      <description>&lt;h1 id=&#34;个人简介&#34;&gt;个人简介&lt;/h1&gt;&#xA;&lt;p&gt;许乐, 2019级硕士毕业生&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://acsalab.github.io/acsa-web-2024/people/yangpengyu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://acsalab.github.io/acsa-web-2024/people/yangpengyu/</guid>
+      <description>&lt;h1 id=&#34;个人简介&#34;&gt;个人简介&lt;/h1&gt;&#xA;&lt;p&gt;杨鹏宇，2024级硕士生，ACSA实验室HPC方向。&lt;/p&gt;&#xA;&lt;h1 id=&#34;学术经历&#34;&gt;学术经历&lt;/h1&gt;&#xA;&lt;p&gt;2024.09 - 至今，中国科学技术大学计算机学院，硕士生&lt;/p&gt;&#xA;&lt;p&gt;2021.09 - 2024.06，湖南大学信息科学与通信工程学院，本科生&lt;/p&gt;&#xA;&lt;p&gt;2020.09 - 2021.06，湖南大学机械与运载工程学院，本科生&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
       <link>https://acsalab.github.io/acsa-web-2024/people/yaowenjun/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://acsalab.github.io/acsa-web-2024/people/yaowenjun/</guid>
-      <description>个人简介 姚文军</description>
+      <description>&lt;h1 id=&#34;个人简介&#34;&gt;个人简介&lt;/h1&gt;&#xA;&lt;p&gt;姚文军&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
       <link>https://acsalab.github.io/acsa-web-2024/people/yeyanwei/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://acsalab.github.io/acsa-web-2024/people/yeyanwei/</guid>
-      <description>个人简介 叶言威，2022级硕士生，ACSA实验室HPC方向。在安虹老师的指导下参与数据并行编程框架反向的研究。&#xA;学术经历 2022.09 - 至今， 中国科学技术大学计算机学院，硕士生，导师：安虹 2018.09-2022.06，合肥工业大学计算机学院， 本科生 研究方向 数据并行编程框架在国产超算上的应用 助教课程 2023 中国科学技术大学 计算机学院 计算机系统概论 </description>
+      <description>&lt;h1 id=&#34;个人简介&#34;&gt;个人简介&lt;/h1&gt;&#xA;&lt;p&gt;叶言威，2022级硕士生，ACSA实验室HPC方向。在安虹老师的指导下参与数据并行编程框架反向的研究。&lt;/p&gt;&#xA;&lt;h1 id=&#34;学术经历&#34;&gt;学术经历&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2022.09 - 至今， 中国科学技术大学计算机学院，硕士生，导师：安虹&lt;/li&gt;&#xA;&lt;li&gt;2018.09-2022.06，合肥工业大学计算机学院， 本科生&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;研究方向&#34;&gt;研究方向&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;数据并行编程框架在国产超算上的应用&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;助教课程&#34;&gt;助教课程&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2023 中国科学技术大学 计算机学院 计算机系统概论&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title></title>
       <link>https://acsalab.github.io/acsa-web-2024/people/yihuite/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://acsalab.github.io/acsa-web-2024/people/yihuite/</guid>
-      <description>个人简介 易会特, 硕士毕业生</description>
+      <description>&lt;h1 id=&#34;个人简介&#34;&gt;个人简介&lt;/h1&gt;&#xA;&lt;p&gt;易会特, 硕士毕业生&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
       <link>https://acsalab.github.io/acsa-web-2024/people/yuanfuyan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://acsalab.github.io/acsa-web-2024/people/yuanfuyan/</guid>
-      <description>个人简介 袁福焱，2021级硕士生，ACSA实验室HPC方向&#xA;学术经历 2021.09 - 至今 中国科学技术大学计算机学院，硕士生，导师：韩文廷 2017.09 - 2021.06 重庆大学 计算机科学与技术 获奖情况 2022.11 ACM 中国-国际并行计算挑战赛(IPCC2022)全国三等奖 2021.10 “英特尔”杯全国并行应用挑战赛 应用组 全国三等奖 </description>
+      <description>&lt;h1 id=&#34;个人简介&#34;&gt;个人简介&lt;/h1&gt;&#xA;&lt;p&gt;袁福焱，2021级硕士生，ACSA实验室HPC方向&lt;/p&gt;&#xA;&lt;h1 id=&#34;学术经历&#34;&gt;学术经历&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2021.09 - 至今 中国科学技术大学计算机学院，硕士生，导师：韩文廷&lt;/li&gt;&#xA;&lt;li&gt;2017.09 - 2021.06 重庆大学 计算机科学与技术&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;获奖情况&#34;&gt;获奖情况&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2022.11 ACM 中国-国际并行计算挑战赛(IPCC2022)全国三等奖&lt;/li&gt;&#xA;&lt;li&gt;2021.10 “英特尔”杯全国并行应用挑战赛 应用组 全国三等奖&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://acsalab.github.io/acsa-web-2024/people/zengzhenhang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://acsalab.github.io/acsa-web-2024/people/zengzhenhang/</guid>
+      <description>&lt;h1 id=&#34;个人简介&#34;&gt;个人简介&lt;/h1&gt;&#xA;&lt;p&gt;曾振航，2024级硕士生，ACSA实验室HPC方向。&lt;/p&gt;&#xA;&lt;h1 id=&#34;学术经历&#34;&gt;学术经历&lt;/h1&gt;&#xA;&lt;p&gt;*2024.09-至今，中国科学技术大学计算机学院，硕士生&lt;/p&gt;&#xA;&lt;p&gt;*2020.09-2024.06,电子科技大学计算机科学与工程学院，本科生&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
       <link>https://acsalab.github.io/acsa-web-2024/people/zhangpengfei/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://acsalab.github.io/acsa-web-2024/people/zhangpengfei/</guid>
-      <description>个人简介 张鹏飞, 2020级硕士毕业生</description>
+      <description>&lt;h1 id=&#34;个人简介&#34;&gt;个人简介&lt;/h1&gt;&#xA;&lt;p&gt;张鹏飞, 2020级硕士毕业生&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
       <link>https://acsalab.github.io/acsa-web-2024/people/zhangsen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://acsalab.github.io/acsa-web-2024/people/zhangsen/</guid>
-      <description>个人简介 张森，2023级硕士生。</description>
+      <description>&lt;h1 id=&#34;个人简介&#34;&gt;个人简介&lt;/h1&gt;&#xA;&lt;p&gt;张森，2023级硕士生。&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
       <link>https://acsalab.github.io/acsa-web-2024/people/zhangyi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://acsalab.github.io/acsa-web-2024/people/zhangyi/</guid>
-      <description>个人简介 张毅，2023 级硕士生，ACSA 实验室 HPC 方向。在安虹老师的指导下参与光滑粒子流体动力学(SPH) 和编译优化方向的研究。&#xA;学术经历 2023.09 - 至今，中国科学技术大学计算机学院，硕士生，导师：安虹 2019.09 - 2023.06，西安电子科技大学，本科生 研究方向 光滑粒子流体动力学(SPH) 和编译优化 研究项目 神威上 SPH 的负载均衡算法 stencil 模式的并行编译优化 获奖情况 2023.08 神威·国实杯”第七届国产CPU并行应用挑战赛全国二等奖 </description>
+      <description>&lt;h1 id=&#34;个人简介&#34;&gt;个人简介&lt;/h1&gt;&#xA;&lt;p&gt;张毅，2023 级硕士生，ACSA 实验室 HPC 方向。在安虹老师的指导下参与光滑粒子流体动力学(SPH) 和编译优化方向的研究。&lt;/p&gt;&#xA;&lt;h1 id=&#34;学术经历&#34;&gt;学术经历&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2023.09 - 至今，中国科学技术大学计算机学院，硕士生，导师：安虹&lt;/li&gt;&#xA;&lt;li&gt;2019.09 - 2023.06，西安电子科技大学，本科生&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;研究方向&#34;&gt;研究方向&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;光滑粒子流体动力学(SPH) 和编译优化&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;研究项目&#34;&gt;研究项目&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;神威上 SPH 的负载均衡算法&lt;/li&gt;&#xA;&lt;li&gt;stencil 模式的并行编译优化&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;获奖情况&#34;&gt;获奖情况&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2023.08 神威·国实杯”第七届国产CPU并行应用挑战赛全国二等奖&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title></title>
       <link>https://acsalab.github.io/acsa-web-2024/people/zhangziyu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://acsalab.github.io/acsa-web-2024/people/zhangziyu/</guid>
-      <description>个人简介 张子豫，新疆哈密人，2018级研究生，2020级博士研究生， ACSA实验室HPC方向。 导师：安虹教授。&#xA;学术经历 2014.09-2018.05 USTC 中国科学技术大学 信息科学技术 本科 2018.09-2020.06 USTC 中国科学技术大学 计算机系统结构 硕士 2020.09-至今 USTC 中国科学技术大学 计算机系统结构 博士(在读) 研究方向 高性能计算 粒子模拟类应用 SPH并行计算框架 负载均衡算法 神威异构众核上的数据流运行时系统 研究项目 神威超算平台上的大规模流体力学计算框架 基于异构众核上的数据流运行时系统 助教课程 2018,2019 中国科学技术大学 计算机系统概论 获奖情况 2017.09 中国科学技术大学国家奖学金(本科) 2019.03 RDMA 并行编程挑战赛冠军(担任队长) 2021.08 中国高性能计算(HPCChina)SWPIC 年度最佳应用 2021.12 PAC 并行编程挑战赛三等奖(担任队长) 2021.12 SWPIC应用入围戈登贝尔奖 2022.12 中国高性能计算(HPCChina)SWSPH 年度最佳应用(一作) 2023.06 苏州工业园区奖学金 2023.06 “SWSPH”高性能计算应用获得戈登贝尔奖提名(一作) </description>
+      <description>&lt;h1 id=&#34;个人简介&#34;&gt;个人简介&lt;/h1&gt;&#xA;&lt;p&gt;张子豫，新疆哈密人，2018级研究生，2020级博士研究生， ACSA实验室HPC方向。 导师：安虹教授。&lt;/p&gt;&#xA;&lt;h1 id=&#34;学术经历&#34;&gt;学术经历&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2014.09-2018.05 USTC 中国科学技术大学 信息科学技术 本科&lt;/li&gt;&#xA;&lt;li&gt;2018.09-2020.06 USTC 中国科学技术大学 计算机系统结构 硕士&lt;/li&gt;&#xA;&lt;li&gt;2020.09-至今 USTC 中国科学技术大学 计算机系统结构 博士(在读)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;研究方向&#34;&gt;研究方向&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;高性能计算&lt;/li&gt;&#xA;&lt;li&gt;粒子模拟类应用&lt;/li&gt;&#xA;&lt;li&gt;SPH并行计算框架&lt;/li&gt;&#xA;&lt;li&gt;负载均衡算法&lt;/li&gt;&#xA;&lt;li&gt;神威异构众核上的数据流运行时系统&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;研究项目&#34;&gt;研究项目&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;神威超算平台上的大规模流体力学计算框架&lt;/li&gt;&#xA;&lt;li&gt;基于异构众核上的数据流运行时系统&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;助教课程&#34;&gt;助教课程&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2018,2019 中国科学技术大学 计算机系统概论&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;获奖情况&#34;&gt;获奖情况&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2017.09 中国科学技术大学国家奖学金(本科)&lt;/li&gt;&#xA;&lt;li&gt;2019.03 RDMA 并行编程挑战赛冠军(担任队长)&lt;/li&gt;&#xA;&lt;li&gt;2021.08 中国高性能计算(HPCChina)SWPIC 年度最佳应用&lt;/li&gt;&#xA;&lt;li&gt;2021.12 PAC 并行编程挑战赛三等奖(担任队长)&lt;/li&gt;&#xA;&lt;li&gt;2021.12 SWPIC应用入围戈登贝尔奖&lt;/li&gt;&#xA;&lt;li&gt;2022.12 中国高性能计算(HPCChina)SWSPH 年度最佳应用(一作)&lt;/li&gt;&#xA;&lt;li&gt;2023.06 苏州工业园区奖学金&lt;/li&gt;&#xA;&lt;li&gt;2023.06 “SWSPH”高性能计算应用获得戈登贝尔奖提名(一作)&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title></title>
       <link>https://acsalab.github.io/acsa-web-2024/people/zhaominfan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://acsalab.github.io/acsa-web-2024/people/zhaominfan/</guid>
-      <description>个人简介 赵敏帆， 2022级博士生，ACSA实验室HPDA方向，主要研究方向为医学影像分析、多模态大模型以及大模型训练与推理框架&#xA;教育经历 2020年9月-现在 硕博连读 中国科学技术大学 计算机科学与技术学院 导师：安虹 2016年9月-2020年7月本科 中国科学技术大学 计算机科学与技术学院 研究项目 面向临床重大疾病诊疗的放射影像智能分析软件和系统（科大新医学） E级超级计算机上万亿参数多模态医疗视觉大模型研发 助教课程 2021～2023 中国科学技术大学 计算机学院 计算机系统概论 获奖情况 2018 苏州育才奖学金 2019 元庆奖学金 2020 国际大学生超算竞赛（ISC-SCC）第一名 2021年Intel全球AI影响力嘉年华Creator赛道最高奖、2021年世界声博会人工智能十大新锐团队 2021年科大讯飞AI开发者大赛冠军 2020全国并行应用挑战赛金奖 2022年世界声博会人工智能十大新锐团队 </description>
+      <description>&lt;h1 id=&#34;个人简介&#34;&gt;个人简介&lt;/h1&gt;&#xA;&lt;p&gt;赵敏帆， 2022级博士生，ACSA实验室HPDA方向，主要研究方向为医学影像分析、多模态大模型以及大模型训练与推理框架&lt;/p&gt;&#xA;&lt;h1 id=&#34;教育经历&#34;&gt;教育经历&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2020年9月-现在 硕博连读 中国科学技术大学 计算机科学与技术学院 导师：安虹&lt;/li&gt;&#xA;&lt;li&gt;2016年9月-2020年7月本科 中国科学技术大学 计算机科学与技术学院&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;研究项目&#34;&gt;研究项目&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;面向临床重大疾病诊疗的放射影像智能分析软件和系统（科大新医学）&lt;/li&gt;&#xA;&lt;li&gt;E级超级计算机上万亿参数多模态医疗视觉大模型研发&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;助教课程&#34;&gt;助教课程&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2021～2023 中国科学技术大学 计算机学院 计算机系统概论&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;获奖情况&#34;&gt;获奖情况&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2018 苏州育才奖学金&lt;/li&gt;&#xA;&lt;li&gt;2019 元庆奖学金&lt;/li&gt;&#xA;&lt;li&gt;2020 国际大学生超算竞赛（ISC-SCC）第一名&lt;/li&gt;&#xA;&lt;li&gt;2021年Intel全球AI影响力嘉年华Creator赛道最高奖、2021年世界声博会人工智能十大新锐团队&lt;/li&gt;&#xA;&lt;li&gt;2021年科大讯飞AI开发者大赛冠军 2020全国并行应用挑战赛金奖&lt;/li&gt;&#xA;&lt;li&gt;2022年世界声博会人工智能十大新锐团队&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title></title>
       <link>https://acsalab.github.io/acsa-web-2024/people/zhaoxuncheng/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://acsalab.github.io/acsa-web-2024/people/zhaoxuncheng/</guid>
-      <description>个人简介 赵训诚, 2020级硕士毕业生</description>
+      <description>&lt;h1 id=&#34;个人简介&#34;&gt;个人简介&lt;/h1&gt;&#xA;&lt;p&gt;赵训诚, 2020级硕士毕业生&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
       <link>https://acsalab.github.io/acsa-web-2024/people/zhaoyang/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://acsalab.github.io/acsa-web-2024/people/zhaoyang/</guid>
-      <description>个人简介 赵阳，2023级硕士生，ACSA 实验室 HPC 方向。在安虹老师指导下参与 数据流并行编程 方向的研究。&#xA;学术经历 2023.09 - 至今，中国科学技术大学计算机学院，硕士生，导师：安虹 2019.09 - 2023.06，大连理工大学计算机科学与技术学院，本科生 研究方向 数据流并行编程 研究方向 神威上并行编程模型的运行时系统 获奖情况 2023.08 “神威·国实杯”第七届国产CPU并行应用挑战赛 (CPC) 全国二等奖 </description>
+      <description>&lt;h1 id=&#34;个人简介&#34;&gt;个人简介&lt;/h1&gt;&#xA;&lt;p&gt;赵阳，2023级硕士生，ACSA 实验室 HPC 方向。在安虹老师指导下参与 数据流并行编程 方向的研究。&lt;/p&gt;&#xA;&lt;h1 id=&#34;学术经历&#34;&gt;学术经历&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2023.09 - 至今，中国科学技术大学计算机学院，硕士生，导师：安虹&lt;/li&gt;&#xA;&lt;li&gt;2019.09 - 2023.06，大连理工大学计算机科学与技术学院，本科生&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;研究方向&#34;&gt;研究方向&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;数据流并行编程&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;研究方向-1&#34;&gt;研究方向&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;神威上并行编程模型的运行时系统&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;获奖情况&#34;&gt;获奖情况&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2023.08 “神威·国实杯”第七届国产CPU并行应用挑战赛 (CPC) 全国二等奖&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title></title>
       <link>https://acsalab.github.io/acsa-web-2024/people/zhengzhong/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://acsalab.github.io/acsa-web-2024/people/zhengzhong/</guid>
-      <description>个人简介 郑重，2022级硕士生，ACSA实验室HPC方向。&#xA;研究方向 第一性原理计算软件的并行优化 和 SpGEMM算法 </description>
+      <description>&lt;h1 id=&#34;个人简介&#34;&gt;个人简介&lt;/h1&gt;&#xA;&lt;p&gt;郑重，2022级硕士生，ACSA实验室HPC方向。&lt;/p&gt;&#xA;&lt;h1 id=&#34;研究方向&#34;&gt;研究方向&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;第一性原理计算软件的并行优化 和 SpGEMM算法&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title></title>
       <link>https://acsalab.github.io/acsa-web-2024/people/zhouxin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://acsalab.github.io/acsa-web-2024/people/zhouxin/</guid>
-      <description>个人简介 周鑫，&#xA;职业经历 Intel -&amp;gt; 阿里虚拟化 -&amp;gt; 小红书</description>
+      <description>&lt;h1 id=&#34;个人简介&#34;&gt;个人简介&lt;/h1&gt;&#xA;&lt;p&gt;周鑫，&lt;/p&gt;&#xA;&lt;h1 id=&#34;职业经历&#34;&gt;职业经历&lt;/h1&gt;&#xA;&lt;p&gt;Intel -&amp;gt; 阿里虚拟化 -&amp;gt; 小红书&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
       <link>https://acsalab.github.io/acsa-web-2024/people/zhuxianyu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://acsalab.github.io/acsa-web-2024/people/zhuxianyu/</guid>
-      <description>个人简介 朱先语，2023级硕士生，ACSA实验室HPC方向。在安虹老师指导下参与 AI for Science方向研究。&#xA;学术经历 2023.09—至今，中国科学技术大学计算机学院，硕士生，导师：安虹 研究方向 AI for Science </description>
+      <description>&lt;h1 id=&#34;个人简介&#34;&gt;个人简介&lt;/h1&gt;&#xA;&lt;p&gt;朱先语，2023级硕士生，ACSA实验室HPC方向。在安虹老师指导下参与 AI for Science方向研究。&lt;/p&gt;&#xA;&lt;h1 id=&#34;学术经历&#34;&gt;学术经历&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2023.09—至今，中国科学技术大学计算机学院，硕士生，导师：安虹&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;研究方向&#34;&gt;研究方向&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;AI for Science&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title></title>
       <link>https://acsalab.github.io/acsa-web-2024/people/zhuziqi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://acsalab.github.io/acsa-web-2024/people/zhuziqi/</guid>
-      <description>个人简介 朱子琦，2021级硕士生，2023级博士生， ACSA实验室HPDA方向。导师：安虹教授&#xA;学术经历 2023.09 - 至今，中国科学技术大学大数据学院，博士生 2021.09 - 2023.09，中国科学技术大学计算机学院，硕士生 2018.07 - 2021.06，中国科学技术大学计算机学院，本科生 2017.09 - 2018.07，中国科学技术大学工程科学学院，本科生 研究方向 医学影像认知计算 大模型分布式训练框架 助教课程 2022，2023 中国科学技术大学 计算机学院 计算系统概论A 获奖情况 2021.10 Intel全球AI影响力嘉年华创造者赛道最高奖 2022.10 并行应用挑战赛(PAC2022)全国三等奖 </description>
+      <description>&lt;h1 id=&#34;个人简介&#34;&gt;个人简介&lt;/h1&gt;&#xA;&lt;p&gt;朱子琦，2021级硕士生，2023级博士生， ACSA实验室HPDA方向。导师：安虹教授&lt;/p&gt;&#xA;&lt;h1 id=&#34;学术经历&#34;&gt;学术经历&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2023.09 - 至今，中国科学技术大学大数据学院，博士生&lt;/li&gt;&#xA;&lt;li&gt;2021.09 - 2023.09，中国科学技术大学计算机学院，硕士生&lt;/li&gt;&#xA;&lt;li&gt;2018.07 - 2021.06，中国科学技术大学计算机学院，本科生&lt;/li&gt;&#xA;&lt;li&gt;2017.09 - 2018.07，中国科学技术大学工程科学学院，本科生&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;研究方向&#34;&gt;研究方向&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;医学影像认知计算&lt;/li&gt;&#xA;&lt;li&gt;大模型分布式训练框架&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;助教课程&#34;&gt;助教课程&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2022，2023 中国科学技术大学 计算机学院 计算系统概论A&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;获奖情况&#34;&gt;获奖情况&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2021.10 Intel全球AI影响力嘉年华创造者赛道最高奖&lt;/li&gt;&#xA;&lt;li&gt;2022.10 并行应用挑战赛(PAC2022)全国三等奖&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>
