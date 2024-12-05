@@ -646,6 +646,13 @@
       <description></description>
     </item>
     <item>
+      <title>Clisp: A Robust Interactive Segmentation Framework for Pathological Images</title>
+      <link>https://acsalab.github.io/acsa-web-2024/publications/2024/embc-hannanwang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://acsalab.github.io/acsa-web-2024/publications/2024/embc-hannanwang/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Contrast Learning Based Robust Framework for Weakly Supervised Medical Image Segmentation with Coarse Bounding Box Annotations</title>
       <link>https://acsalab.github.io/acsa-web-2024/publications/2023/miccai-cmmca/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -660,6 +667,13 @@
       <description></description>
     </item>
     <item>
+      <title>DB-SpGEMM: A Massively Distributed Block-Sparse Matrix-Matrix Multiplication for Linear-Scaling DFT Calculations</title>
+      <link>https://acsalab.github.io/acsa-web-2024/publications/2024/icpp-zhongzheng/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://acsalab.github.io/acsa-web-2024/publications/2024/icpp-zhongzheng/</guid>
+      <description>&lt;p&gt;Linear-scaling O(N) density functional theory (DFT) represents a significant advancement in the field of computational materials science, especially for simulations of large systems where traditional cubic-scaling methods become computationally prohibitive. The core operation in O(N) methods is sparse general matrix-matrix multiplication (SpGEMM), which is the major performance bottleneck. To enhance the computational efficiency of SpGEMM, it is crucial to consider the inherent sparse pattern of these matrices. Targeting block-sparse matrices with moderate block sizes and regular block shapes, we have developed a distributed block-sparse matrix-matrix multiplication (DB-SpGEMM) algorithm for large-scale DFT calculations. Through deep optimizations in distributed matrix storage, computational task decomposition, asynchronous task scheduling, and load balancing, we have implemented a linear-scaling method based on this algorithm within the discontinuous Galerkin density functional theory (DGDFT). On the new Sunway supercomputer, our approach achieves a 8 ∼ 10x speedup compared to the original version on monolayer phosphorene systems, and demonstrates superior scalability.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>DW DFT方向</title>
       <link>https://acsalab.github.io/acsa-web-2024/teams/hpc/dwdft/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -672,6 +686,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://acsalab.github.io/acsa-web-2024/publications/2023/sc/</guid>
       <description></description>
+    </item>
+    <item>
+      <title>Extending the limit of LR-TDDFT on two different approaches: Numerical algorithms and new Sunway heterogeneous supercomputer</title>
+      <link>https://acsalab.github.io/acsa-web-2024/publications/2024/parallelcomputing-qingcaijiang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://acsalab.github.io/acsa-web-2024/publications/2024/parallelcomputing-qingcaijiang/</guid>
+      <description>&lt;p&gt;First-principles time-dependent density functional theory (TDDFT) is a powerful tool to accurately describe the excited-state properties of molecules and solids in condensed matter physics, computational chemistry, and materials science. However, a perceived drawback in TDDFT calculations is its ultrahigh computational cost O(N^5~N^6) and large memory usage O(N^4) especially for plane-wave basis set, confining its applications to large systems containing thousands of atoms. Here, we present a massively parallel implementation of linear-response TDDFT (LR-TDDFT) and accelerate LR-TDDFT in two different aspects: (1) numerical algorithms on the X86 supercomputer and (2) optimizations on the heterogeneous architecture of the new Sunway supercomputer. Furthermore, we carefully design the parallel data and task distribution schemes to accommodate the physical nature of different computation steps. By utilizing these two different methods, our implementation can gain an overall speedup of 10x and 80x and efficiently scales to large systems up to 4096 and 2744 atoms within dozens of seconds.&lt;/p&gt;</description>
     </item>
     <item>
       <title>FcTC-UNet: Fine-grained Combination of Transformer and CNN for Thoracic Organs Segmentation</title>
@@ -695,11 +716,25 @@
       <description></description>
     </item>
     <item>
+      <title>Multi-level Load Balancing Strategies for Massively Parallel Smoothed Particle Hydrodynamics Simulation</title>
+      <link>https://acsalab.github.io/acsa-web-2024/publications/2024/icpp-yizhang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://acsalab.github.io/acsa-web-2024/publications/2024/icpp-yizhang/</guid>
+      <description>&lt;p&gt;In the field of computational fluid dynamics, Smoothed Particle Hydrodynamics (SPH) serves as a powerful tool for investigating complex fluid interactions and instabilities. For the practical SPH simulation of large-scale fluid phenomena such as tsunamis, volcanic eruptions, and planetary collisions, it typically requires billions of particles, as the numerical resolution increases proportionally with the number of particles. To efficiently conduct large-scale SPH simulations on modern supercomputers with massive many-core processors, we propose a novel SPH implementation leveraging multi-level parallelism and a corresponding three-level load balancing strategy. Our load balancing approach comprises: (1) a process-level domain decomposition algorithm based on an improved 1D partitioning exact algorithm; (2) an adaptive recursive cell subdivision method; (3) a fine-grained dynamic thread-level task scheduling strategy. Our experiment uses 1 billion particles to simulate converging Richtmyer–Meshkov instability and verifies the effect of load balancing on new Sunway supercomputer. As the shockwave converges on the central interface area, our load balancing strategy breaks the bottleneck constraints on the slowest node, increases the balance of computational loads between nodes from 30.01% to 91.48%, and achieves a 2.8 × improvement in computational performance. Finally, our implementation enables each CPU to handle 10 million particles and scale from 1 CPU to 100,000 CPUs (in total 39 million cores with 1 trillion particles) with a performance of 80.4% parallel efficiency.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>PIM存内计算方向</title>
       <link>https://acsalab.github.io/acsa-web-2024/teams/hpc/pim/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://acsalab.github.io/acsa-web-2024/teams/hpc/pim/</guid>
       <description>&lt;p&gt;欢迎来到PIM小组的主页&lt;/p&gt;&#xA;&lt;h1 id=&#34;目标与宗旨&#34;&gt;目标与宗旨&lt;/h1&gt;&#xA;&lt;h2 id=&#34;初衷&#34;&gt;初衷&lt;/h2&gt;&#xA;&lt;h3 id=&#34;l3&#34;&gt;L3&lt;/h3&gt;&#xA;&lt;h4 id=&#34;l4&#34;&gt;L4&lt;/h4&gt;&#xA;&lt;h5 id=&#34;l5&#34;&gt;L5&lt;/h5&gt;&#xA;&lt;h2 id=&#34;目标&#34;&gt;目标&lt;/h2&gt;&#xA;&lt;h1 id=&#34;实现路径&#34;&gt;实现路径&lt;/h1&gt;</description>
+    </item>
+    <item>
+      <title>Predictive Accuracy-Based Active Learning for Medical Image Segmentation</title>
+      <link>https://acsalab.github.io/acsa-web-2024/publications/2024/ijcai-shijun/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://acsalab.github.io/acsa-web-2024/publications/2024/ijcai-shijun/</guid>
+      <description>&lt;p&gt;Active learning is considered a viable solution to alleviate the contradiction between the high dependency of deep learning-based segmentation methods on annotated data and the expensive pixel-level annotation cost of medical images. However, most existing methods suffer from unreliable uncertainty assessment and the struggle to balance diversity and informativeness, leading to poor performance in segmentation tasks. In response, we propose an efficient Predictive Accuracy-based Active Learning (PAAL) method for medical image segmentation, first introducing predictive accuracy to define uncertainty. Specifically, PAAL mainly consists of an Accuracy Predictor (AP) and a Weighted Polling Strategy (WPS). The former is an attached learnable module that can accurately predict the segmentation accuracy of unlabeled samples relative to the target model with the predicted posterior probability. The latter provides an efficient hybrid querying scheme by combining predicted accuracy and feature representation, aiming to ensure the uncertainty and diversity of the acquired samples. Extensive experiment results on multiple datasets demonstrate the superiority of PAAL. PAAL achieves comparable accuracy to fully annotated data while reducing annotation costs by approximately 50% to 80%, showcasing significant potential in clinical applications. The code is available at &lt;a href=&#34;https://github.com/shijun18/PAAL-MedSeg&#34;&gt;https://github.com/shijun18/PAAL-MedSeg&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Quantifying Throughput of Basic Blocks on ARM Microarchitectures by Static Code Analyzers: A Case Study on Kunpeng 920</title>
