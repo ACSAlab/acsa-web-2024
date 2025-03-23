@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lab Services on ACSA Lab</title>
+    <link>https://acsalab.github.io/acsa-web-2024/services/</link>
+    <description>Recent content in Lab Services on ACSA Lab</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://acsalab.github.io/acsa-web-2024/services/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BHD Disease Diagnosis Assistant</title>
+      <link>https://acsalab.github.io/acsa-web-2024/services/bhd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://acsalab.github.io/acsa-web-2024/services/bhd/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>瀚海星云(VoN)·问海大模型</title>
+      <link>https://acsalab.github.io/acsa-web-2024/services/wenhai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://acsalab.github.io/acsa-web-2024/services/wenhai/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
