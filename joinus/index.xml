@@ -4,8 +4,11 @@
     <title>Join us Now! on ACSA Lab</title>
     <link>https://acsalab.github.io/acsa-web-2024/joinus/</link>
     <description>Recent content in Join us Now! on ACSA Lab</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://acsalab.github.io/acsa-web-2024/joinus/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://acsalab.github.io/acsa-web-2024/joinus/index.xml" rel="self" type="application/rss+xml" />
+    
+    
   </channel>
 </rss>
