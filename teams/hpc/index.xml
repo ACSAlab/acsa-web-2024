@@ -4,36 +4,50 @@
     <title>HPC方向 on ACSA Lab</title>
     <link>https://acsa.ustc.edu.cn/teams/hpc/</link>
     <description>Recent content in HPC方向 on ACSA Lab</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://acsa.ustc.edu.cn/teams/hpc/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://acsa.ustc.edu.cn/teams/hpc/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>DW DFT方向</title>
       <link>https://acsa.ustc.edu.cn/teams/hpc/dwdft/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
       <guid>https://acsa.ustc.edu.cn/teams/hpc/dwdft/</guid>
-      <description>&lt;p&gt;欢迎来到DFT小组的主页&lt;/p&gt;&#xA;&lt;p&gt;所属项目&lt;/p&gt;</description>
+      <description>欢迎来到DFT小组的主页
+所属项目</description>
     </item>
+    
     <item>
       <title>PIM存内计算方向</title>
       <link>https://acsa.ustc.edu.cn/teams/hpc/pim/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
       <guid>https://acsa.ustc.edu.cn/teams/hpc/pim/</guid>
-      <description>&lt;p&gt;欢迎来到PIM小组的主页&lt;/p&gt;&#xA;&lt;h1 id=&#34;目标与宗旨&#34;&gt;目标与宗旨&lt;/h1&gt;&#xA;&lt;h2 id=&#34;初衷&#34;&gt;初衷&lt;/h2&gt;&#xA;&lt;h3 id=&#34;l3&#34;&gt;L3&lt;/h3&gt;&#xA;&lt;h4 id=&#34;l4&#34;&gt;L4&lt;/h4&gt;&#xA;&lt;h5 id=&#34;l5&#34;&gt;L5&lt;/h5&gt;&#xA;&lt;h2 id=&#34;目标&#34;&gt;目标&lt;/h2&gt;&#xA;&lt;h1 id=&#34;实现路径&#34;&gt;实现路径&lt;/h1&gt;</description>
+      <description>欢迎来到PIM小组的主页
+目标与宗旨 初衷 L3 L4 L5 目标 实现路径 </description>
     </item>
+    
     <item>
       <title>数据流编程方向</title>
       <link>https://acsa.ustc.edu.cn/teams/hpc/dataflow/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
       <guid>https://acsa.ustc.edu.cn/teams/hpc/dataflow/</guid>
-      <description>&lt;p&gt;先导B课题立项 - 《适配国产异构系统的数据流编程和运行时系统框架》&lt;/p&gt;</description>
+      <description>先导B课题立项 - 《适配国产异构系统的数据流编程和运行时系统框架》</description>
     </item>
+    
     <item>
       <title>蔚来合作 - 自动驾驶芯片架构探索方向</title>
       <link>https://acsa.ustc.edu.cn/teams/hpc/autonomousdrivingchip/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
       <guid>https://acsa.ustc.edu.cn/teams/hpc/autonomousdrivingchip/</guid>
-      <description>&lt;p&gt;蔚来合作项目结题 -《自动驾驶芯片架构探索及算法部署方案》&lt;/p&gt;&#xA;&lt;p&gt;郝晓宇、袁福炎、张森&lt;/p&gt;</description>
+      <description>蔚来合作项目结题 -《自动驾驶芯片架构探索及算法部署方案》
+郝晓宇、袁福炎、张森</description>
     </item>
+    
   </channel>
 </rss>

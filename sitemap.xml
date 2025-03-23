@@ -1,303 +1,571 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
   <url>
     <loc>https://acsa.ustc.edu.cn/events/seminar/240909-newseminar/</loc>
     <lastmod>2024-09-09T15:00:00+08:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/</loc>
     <lastmod>2024-09-09T15:00:00+08:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/events/</loc>
     <lastmod>2024-09-09T15:00:00+08:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/events/party/240622-party/</loc>
     <lastmod>2024-06-22T18:00:00+08:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/events/seminar/240228-newseminar/</loc>
     <lastmod>2024-05-24T15:00:00+08:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/notice/</loc>
     <lastmod>2024-05-22T15:00:00+08:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/notice/240522-thesis/</loc>
     <lastmod>2024-05-22T15:00:00+08:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/news/</loc>
     <lastmod>2024-03-18T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/news/award/240318-shijun/</loc>
     <lastmod>2024-03-18T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/news/award/240611-gradulate/</loc>
     <lastmod>2024-03-18T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/events/seminar/240227-newsemester/</loc>
     <lastmod>2024-02-27T19:30:00+08:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/events/party/240130-party/</loc>
     <lastmod>2024-01-30T17:00:00+08:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/notice/240109-chinesenewyear/</loc>
     <lastmod>2024-01-30T15:00:00+08:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/events/seminar/240109-seminarwithweilai/</loc>
     <lastmod>2024-01-09T19:00:00+08:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/news/award/231227-highcontribution/</loc>
     <lastmod>2023-12-27T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/events/seminar/231226-seminarwithweilai/</loc>
     <lastmod>2023-12-26T19:00:00+08:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/events/seminar/231222-seminar/</loc>
     <lastmod>2023-12-22T19:30:00+08:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/news/education/231221_xiapeisu/</loc>
     <lastmod>2023-12-20T10:00:00+08:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/events/seminar/231215-seminar/</loc>
     <lastmod>2023-12-15T19:30:00+08:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/events/seminar/231124-seminar/</loc>
     <lastmod>2023-11-24T19:30:15+08:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/news/education/230530-asc/</loc>
     <lastmod>2023-05-30T09:09:15+08:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/people/anhong/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/people/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/news/hpc/221226-annualhpcapp/</loc>
     <lastmod>2022-12-26T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/people/hanwenting/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/news/hpc/211203-gordonbell/</loc>
     <lastmod>2021-12-26T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/news/ai/211109-intelfest/</loc>
     <lastmod>2021-11-09T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/news/hpc/210130-dgdft/</loc>
     <lastmod>2021-01-30T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/news/alumnus/200920-linhan/</loc>
     <lastmod>2020-09-20T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/people/text/</loc>
     <lastmod>1923-12-02T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/about/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/home/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/people/caoshiheng/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/people/caozhenwei/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/people/chengjiajun/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/people/chenjunshi/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/people/daiyue/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/people/dengjingheng/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/people/fangtao/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/people/fangxi/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/people/fujiawei/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/people/haoxiaoyu/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/people/huangyeqi/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/people/jiangqingcai/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/people/kanhongyu/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/people/liangweihao/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/people/lihanxi/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/people/lihaoqing/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/people/limingfan/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/people/lingkunxian/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/people/lingmin/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/people/linhan/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/people/liubo/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/people/liuqiang/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/people/liyida/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/people/liyuanhang/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/people/lufan/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/people/qiaoliang/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/people/shenpeiqi/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/people/shijun/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/people/songlongsheng/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/people/tangxulong/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/people/tanshaojie/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/people/tianyongshao/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/people/tubuxin/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/people/wangbingxun/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/people/wangchao/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/people/wanghannan/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/people/wangqifan/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/people/wangtiantong/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/people/wangzhaohui/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/people/wuruohan/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/people/xule/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/people/yangpengyu/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/people/yaowenjun/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/people/yeyanwei/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/people/yihuite/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/people/yuanfuyan/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/people/zengzhenhang/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/people/zhangpengfei/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/people/zhangsen/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/people/zhangyi/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/people/zhangziyu/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/people/zhaominfan/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/people/zhaoxuncheng/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/people/zhaoyang/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/people/zhengzhong/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/people/zhouxin/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/people/zhuxianyu/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/people/zhuziqi/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/publications/2022/sc22-million-atom/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/publications/2020/isbi/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/publications/2024/date-a3pim/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/publications/2022/icpp/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/publications/2022/sc22-aiquantum/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/publications/2020/hpcc/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/publications/2022/embc-autoseg/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/categories/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/publications/2024/embc-hannanwang/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/publications/2023/miccai-cmmca/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/publications/2021/bibm-darnet/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/publications/2024/icpp-zhongzheng/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/teams/hpc/dwdft/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/publications/2023/sc/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/publications/2024/parallelcomputing-qingcaijiang/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/publications/2022/embc-fctc/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/publications/2023/isbi-frnet/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/publications/2023/miccai-hdenseformer/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/teams/ai/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/tags/hpc/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/teams/hpc/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/joinus/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/publications/2024/icpp-yizhang/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/tags/pim/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/teams/hpc/pim/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/publications/2024/ijcai-shijun/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/publications/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/publications/2022/hpcc22-sca/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/publications/2021/ijpp/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/publications/2023/cmig-autoseg/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/publications/2021/embc/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/teams/ai/swimed/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/publications/2023/euro-par/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/teams/ai/swvon/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/tags/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/teams/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/teams/ai/tvm/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/publications/2023/thpc-sca/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/publications/2022/embc-whole/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/teams/ai/echocardiography/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/teams/ai/radiographic/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/teams/ai/digitalpathology/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/teams/hpc/dataflow/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://acsa.ustc.edu.cn/teams/hpc/autonomousdrivingchip/</loc>
   </url>
+  
 </urlset>

@@ -4,8 +4,11 @@
     <title>Join us Now! on ACSA Lab</title>
     <link>https://acsa.ustc.edu.cn/joinus/</link>
     <description>Recent content in Join us Now! on ACSA Lab</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://acsa.ustc.edu.cn/joinus/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://acsa.ustc.edu.cn/joinus/index.xml" rel="self" type="application/rss+xml" />
+    
+    
   </channel>
 </rss>

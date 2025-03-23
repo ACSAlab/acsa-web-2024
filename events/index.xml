@@ -4,79 +4,125 @@
     <title>Events on ACSA Lab</title>
     <link>https://acsa.ustc.edu.cn/events/</link>
     <description>Recent content in Events on ACSA Lab</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 09 Sep 2024 15:00:00 +0800</lastBuildDate>
-    <atom:link href="https://acsa.ustc.edu.cn/events/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://acsa.ustc.edu.cn/events/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>24秋 实验室组会及报告</title>
       <link>https://acsa.ustc.edu.cn/events/seminar/240909-newseminar/</link>
       <pubDate>Mon, 09 Sep 2024 15:00:00 +0800</pubDate>
+      
       <guid>https://acsa.ustc.edu.cn/events/seminar/240909-newseminar/</guid>
-      <description>&lt;h2 id=&#34;时间安排&#34;&gt;时间安排&lt;/h2&gt;&#xA;&lt;p&gt;大家好，本学期组会时间定为每周五晚七点半，从下周开始，请各位同学提前做好准备&lt;/p&gt;&#xA;&lt;p&gt;【腾讯文档】2024秋季学期ACSA大组会安排   &lt;a href=&#34;https://docs.qq.com/sheet/DSnVVUGhjcHpsRm96?tab=BB08J2&#34;&gt;https://docs.qq.com/sheet/DSnVVUGhjcHpsRm96?tab=BB08J2&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;组会ppt下载&#34;&gt;组会PPT下载&lt;/h2&gt;&#xA;&lt;p&gt;分享链接： &lt;a href=&#34;https://synology.acsalab.com:5001/sharing/wmLdOaz3F&#34;&gt;https://synology.acsalab.com:5001/sharing/wmLdOaz3F&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;保存位置在群晖&lt;code&gt;/slideshare/2024秋季学期组会&lt;/code&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;历次组会&#34;&gt;历次组会&lt;/h2&gt;&#xA;&lt;h3 id=&#34;9月27号-1930在a707&#34;&gt;9月27号 19:30在A707&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;张毅 ———— A shared compilation stack for distributed-memory parallelism in stencil DSLs&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;王超 ———— 稀疏LU分解的数值分解优化方法的发展及趋势调研&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h3 id=&#34;10月11号-1930在a707&#34;&gt;10月11号 19:30在A707&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;朱先语 —— xCCL: A Survey of Industry-Led Collective Communication Libraries for Deep Learning&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;李昊青 —— AI for Protein&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;刘波 —— 简析神威平台矩阵乘法库&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h3 id=&#34;10月18号-1930在a707&#34;&gt;10月18号 19:30在A707&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;涂布新 —— Some works about memory managements in PIM&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;田永劭 ——AI for 大气物理&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;方禧 ——大模型 RAG 基础：文档切分、信息检索、文本向量化及重排序&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h3 id=&#34;11月8号-1930在a707&#34;&gt;11月8号 19:30在A707&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;郑重—— DCU编程指南&lt;/p&gt;</description>
+      <description>时间安排 大家好，本学期组会时间定为每周五晚七点半，从下周开始，请各位同学提前做好准备
+【腾讯文档】2024秋季学期ACSA大组会安排 https://docs.qq.com/sheet/DSnVVUGhjcHpsRm96?tab=BB08J2
+组会PPT下载 分享链接： https://synology.acsalab.com:5001/sharing/wmLdOaz3F
+保存位置在群晖/slideshare/2024秋季学期组会
+历次组会 9月27号 19:30在A707   张毅 ———— A shared compilation stack for distributed-memory parallelism in stencil DSLs
+  王超 ———— 稀疏LU分解的数值分解优化方法的发展及趋势调研
+  10月11号 19:30在A707   朱先语 —— xCCL: A Survey of Industry-Led Collective Communication Libraries for Deep Learning
+  李昊青 —— AI for Protein
+  刘波 —— 简析神威平台矩阵乘法库
+  10月18号 19:30在A707   涂布新 —— Some works about memory managements in PIM</description>
     </item>
+    
     <item>
       <title>ACSA 2024 毕业聚餐</title>
       <link>https://acsa.ustc.edu.cn/events/party/240622-party/</link>
       <pubDate>Sat, 22 Jun 2024 18:00:00 +0800</pubDate>
+      
       <guid>https://acsa.ustc.edu.cn/events/party/240622-party/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/ACSAlab/acsa-web-data/main/images/party/240622_party.jpg&#34; alt=&#34;party_photo&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;照片资料&#34;&gt;照片资料&lt;/h2&gt;&#xA;&lt;p&gt;照片待上传中 &amp;hellip;&amp;hellip;&lt;/p&gt;</description>
+      <description>照片资料 照片待上传中 &amp;hellip;&amp;hellip;</description>
     </item>
+    
     <item>
       <title>24春 实验室组会及报告</title>
       <link>https://acsa.ustc.edu.cn/events/seminar/240228-newseminar/</link>
       <pubDate>Fri, 24 May 2024 15:00:00 +0800</pubDate>
+      
       <guid>https://acsa.ustc.edu.cn/events/seminar/240228-newseminar/</guid>
-      <description>&lt;h2 id=&#34;时间安排&#34;&gt;时间安排&lt;/h2&gt;&#xA;&lt;p&gt;大家好，本学期组会时间定为每周五晚七点半，从下周开始，请各位同学提前做好准备&lt;/p&gt;&#xA;&lt;p&gt;【腾讯文档】2024春季学期ACSA大组会安排   &lt;a href=&#34;https://docs.qq.com/sheet/DSlhFaHd4YWh1b1hO?tab=BB08J2&#34;&gt;https://docs.qq.com/sheet/DSlhFaHd4YWh1b1hO?tab=BB08J2&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;组会ppt下载&#34;&gt;组会PPT下载&lt;/h2&gt;&#xA;&lt;p&gt;分享链接： &lt;a href=&#34;https://synology.acsalab.com:5001/sharing/wmLdOaz3F&#34;&gt;https://synology.acsalab.com:5001/sharing/wmLdOaz3F&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;保存位置在群晖&lt;code&gt;/slideshare/2024春季学期组会&lt;/code&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;历次组会&#34;&gt;历次组会&lt;/h2&gt;&#xA;&lt;h3 id=&#34;3月8号-1930在a707&#34;&gt;3月8号 19:30在A707&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;戴悦 —— Great advances in text-to-video models: Sora and its technical background&lt;/li&gt;&#xA;&lt;li&gt;王超 —— Domain Specific Language :Taichi Language&lt;/li&gt;&#xA;&lt;li&gt;张毅 —— 3.5-D Blocking Optimization for Stencil Computations on Modern CPUs and GPUs&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;腾讯会议：&lt;code&gt;905-713-734&lt;/code&gt; 点击链接入会： &lt;a href=&#34;https://meeting.tencent.com/dm/hvkbMzVCdUPA&#34;&gt;https://meeting.tencent.com/dm/hvkbMzVCdUPA&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;3月15号-1930在a707&#34;&gt;3月15号 19:30在A707&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;宋龙盛 —— CGRA：High Efficiency Reconfigurable Accelerator&lt;/li&gt;&#xA;&lt;li&gt;朱先语 —— 神威超算深度学习算子性能建模&lt;/li&gt;&#xA;&lt;li&gt;李益达 —— 3D reconstruction with Nerf&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;腾讯会议：&lt;code&gt;497-200-521&lt;/code&gt; 点击链接入会： &lt;a href=&#34;https://meeting.tencent.com/dm/uTKn9CTS0S7A&#34;&gt;https://meeting.tencent.com/dm/uTKn9CTS0S7A&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;3月22号-1930在a707&#34;&gt;3月22号 19:30在A707&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;王朝晖 —— Surface Reconstruction from Point Clouds&lt;/li&gt;&#xA;&lt;li&gt;涂布新 —— NeuMMU: Architectural Support for Efcient Address Translations in Neural Processing Units&lt;/li&gt;&#xA;&lt;li&gt;王天同 —— A survey for 3D medical image segmentation&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;腾讯会议：&lt;code&gt;167-613-702&lt;/code&gt; 点击链接入会： &lt;a href=&#34;https://meeting.tencent.com/dm/fChnPa3ZNc0p&#34;&gt;https://meeting.tencent.com/dm/fChnPa3ZNc0p&lt;/a&gt;&lt;/p&gt;</description>
+      <description>时间安排 大家好，本学期组会时间定为每周五晚七点半，从下周开始，请各位同学提前做好准备
+【腾讯文档】2024春季学期ACSA大组会安排 https://docs.qq.com/sheet/DSlhFaHd4YWh1b1hO?tab=BB08J2
+组会PPT下载 分享链接： https://synology.acsalab.com:5001/sharing/wmLdOaz3F
+保存位置在群晖/slideshare/2024春季学期组会
+历次组会 3月8号 19:30在A707  戴悦 —— Great advances in text-to-video models: Sora and its technical background 王超 —— Domain Specific Language :Taichi Language 张毅 —— 3.5-D Blocking Optimization for Stencil Computations on Modern CPUs and GPUs  腾讯会议：905-713-734 点击链接入会： https://meeting.tencent.com/dm/hvkbMzVCdUPA
+3月15号 19:30在A707  宋龙盛 —— CGRA：High Efficiency Reconfigurable Accelerator 朱先语 —— 神威超算深度学习算子性能建模 李益达 —— 3D reconstruction with Nerf  腾讯会议：497-200-521 点击链接入会： https://meeting.tencent.com/dm/uTKn9CTS0S7A</description>
     </item>
+    
     <item>
       <title>新学期组会</title>
       <link>https://acsa.ustc.edu.cn/events/seminar/240227-newsemester/</link>
       <pubDate>Tue, 27 Feb 2024 19:30:00 +0800</pubDate>
+      
       <guid>https://acsa.ustc.edu.cn/events/seminar/240227-newsemester/</guid>
       <description></description>
     </item>
+    
     <item>
       <title>2023年终总结会</title>
       <link>https://acsa.ustc.edu.cn/events/party/240130-party/</link>
       <pubDate>Tue, 30 Jan 2024 17:00:00 +0800</pubDate>
+      
       <guid>https://acsa.ustc.edu.cn/events/party/240130-party/</guid>
-      <description>&lt;p&gt;好多还带了家属，单身狗羡慕了。&lt;/p&gt;&#xA;&lt;h2 id=&#34;照片资料&#34;&gt;照片资料&lt;/h2&gt;&#xA;&lt;p&gt;其余图片存放在 群晖 &lt;code&gt;/Entertainment/2023年会照片&lt;/code&gt;&lt;/p&gt;&#xA;&lt;p&gt;通过百度网盘分享的文件：ACSA2023…&lt;/p&gt;&#xA;&lt;p&gt;链接: &lt;a href=&#34;https://pan.baidu.com/s/1uJcEktVAksPPDmyf6dHLJQ&#34;&gt;https://pan.baidu.com/s/1uJcEktVAksPPDmyf6dHLJQ&lt;/a&gt; &lt;/p&gt;&#xA;&lt;p&gt;提取码:z2x2&lt;/p&gt;&#xA;&lt;p&gt;复制这段内容打开「百度网盘APP 即可获取」&lt;/p&gt;</description>
+      <description>好多还带了家属，单身狗羡慕了。
+照片资料 其余图片存放在 群晖 /Entertainment/2023年会照片
+通过百度网盘分享的文件：ACSA2023…
+链接: https://pan.baidu.com/s/1uJcEktVAksPPDmyf6dHLJQ 提取码:z2x2
+复制这段内容打开「百度网盘APP 即可获取」</description>
     </item>
+    
     <item>
       <title>顶会研讨会2(蔚来)</title>
       <link>https://acsa.ustc.edu.cn/events/seminar/240109-seminarwithweilai/</link>
       <pubDate>Tue, 09 Jan 2024 19:00:00 +0800</pubDate>
+      
       <guid>https://acsa.ustc.edu.cn/events/seminar/240109-seminarwithweilai/</guid>
-      <description>&lt;p&gt;大家好，今晚七点线上召开我们实验室和蔚来的讨论班，内容为顶会论文分享，请有兴趣的同学参加。会议在飞书上开，请提前安装会议软件。&#xA;会议 ID：417 225 752&#xA;会议链接：https://vc.feishu.cn/j/417225752&lt;/p&gt;&#xA;&lt;h2 id=&#34;谭邵杰-受限的地址翻译&#34;&gt;谭邵杰： 受限的地址翻译&lt;/h2&gt;&#xA;&lt;h2 id=&#34;赵阳beyond-static-parallel-loops-supporting-dynamic-task-parallelism-on-manycore-architectures-with-software-managed-scratchpad-memories&#34;&gt;赵阳：Beyond Static Parallel Loops: Supporting Dynamic Task Parallelism on Manycore Architectures with Software-Managed Scratchpad Memories&lt;/h2&gt;</description>
+      <description>大家好，今晚七点线上召开我们实验室和蔚来的讨论班，内容为顶会论文分享，请有兴趣的同学参加。会议在飞书上开，请提前安装会议软件。 会议 ID：417 225 752 会议链接：https://vc.feishu.cn/j/417225752
+谭邵杰： 受限的地址翻译 赵阳：Beyond Static Parallel Loops: Supporting Dynamic Task Parallelism on Manycore Architectures with Software-Managed Scratchpad Memories </description>
     </item>
+    
     <item>
       <title>顶会研讨会(蔚来)</title>
       <link>https://acsa.ustc.edu.cn/events/seminar/231226-seminarwithweilai/</link>
       <pubDate>Tue, 26 Dec 2023 19:00:00 +0800</pubDate>
+      
       <guid>https://acsa.ustc.edu.cn/events/seminar/231226-seminarwithweilai/</guid>
-      <description>&lt;p&gt;七点线上召开我们实验室和蔚来的讨论班，内容为顶会论文分享，请有兴趣的同学参加。&lt;/p&gt;&#xA;&lt;p&gt;个人的评价：主要是聚焦于顶会论文如何实现和落地，和其中的难点和可能性的讨论。如果没有AI模型架构的基础很难听懂和蔚来的讨论。&lt;/p&gt;&#xA;&lt;h2 id=&#34;郝晓宇-sparse-tensor-core&#34;&gt;郝晓宇： Sparse Tensor Core&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://pic.shaojiemike.top/shaojiemike/2023/12/2a61933507393481190abd347f5e05ad.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+      <description>七点线上召开我们实验室和蔚来的讨论班，内容为顶会论文分享，请有兴趣的同学参加。
+个人的评价：主要是聚焦于顶会论文如何实现和落地，和其中的难点和可能性的讨论。如果没有AI模型架构的基础很难听懂和蔚来的讨论。
+郝晓宇： Sparse Tensor Core </description>
     </item>
+    
     <item>
       <title>研讨会</title>
       <link>https://acsa.ustc.edu.cn/events/seminar/231222-seminar/</link>
       <pubDate>Fri, 22 Dec 2023 19:30:00 +0800</pubDate>
+      
       <guid>https://acsa.ustc.edu.cn/events/seminar/231222-seminar/</guid>
-      <description>&lt;p&gt;大家好，本周周五19:30讨论班在A707进行，报告内容如下:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;汪涵楠 —— 交互式分割：Local Refinement&lt;/li&gt;&#xA;&lt;li&gt;付佳伟 —— SDFG: Bridging Control-Centric and Data-Centric Optimization&lt;/li&gt;&#xA;&lt;li&gt;赵敏帆 —— visual in-context learning&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <description>大家好，本周周五19:30讨论班在A707进行，报告内容如下:
+ 汪涵楠 —— 交互式分割：Local Refinement 付佳伟 —— SDFG: Bridging Control-Centric and Data-Centric Optimization 赵敏帆 —— visual in-context learning  </description>
     </item>
+    
     <item>
       <title>研讨会</title>
       <link>https://acsa.ustc.edu.cn/events/seminar/231215-seminar/</link>
       <pubDate>Fri, 15 Dec 2023 19:30:00 +0800</pubDate>
+      
       <guid>https://acsa.ustc.edu.cn/events/seminar/231215-seminar/</guid>
-      <description>&lt;h1 id=&#34;why&#34;&gt;why&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;乔良 —— 张量分析模型初探：Roller&amp;amp;近期实验&lt;/li&gt;&#xA;&lt;li&gt;张森 —— Simulation-based Performance Evaluation of NoC-based Multicore Systems&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <description>why  乔良 —— 张量分析模型初探：Roller&amp;amp;近期实验 张森 —— Simulation-based Performance Evaluation of NoC-based Multicore Systems  </description>
     </item>
+    
     <item>
       <title>研讨会</title>
       <link>https://acsa.ustc.edu.cn/events/seminar/231124-seminar/</link>
       <pubDate>Fri, 24 Nov 2023 19:30:15 +0800</pubDate>
+      
       <guid>https://acsa.ustc.edu.cn/events/seminar/231124-seminar/</guid>
-      <description>&lt;h1 id=&#34;event-details&#34;&gt;Event Details:&lt;/h1&gt;&#xA;&lt;p&gt;谭邵杰&lt;/p&gt;&#xA;&lt;p&gt;朱子琦&lt;/p&gt;</description>
+      <description>Event Details: 谭邵杰
+朱子琦</description>
     </item>
+    
   </channel>
 </rss>
