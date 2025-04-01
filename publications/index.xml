@@ -29,6 +29,15 @@
     </item>
     
     <item>
+      <title>A review of deep learning-based medical image segmentation methods</title>
+      <link>https://acsalab.github.io/acsa-web-2024/publications/2025/zongshu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://acsalab.github.io/acsa-web-2024/publications/2025/zongshu/</guid>
+      <description>Medical image segmentation is a crucial component of clinical medical image analysis, aimed at accurately identifying and delineating anatomical structures or regions of interest, such as lesions, within medical images. This provides objective and quantitative support for decision-making in disease diagnosis, treatment planning, and postoperative evaluation. In recent years, the rapid growth of available annotated data has facilitated the swift development of deep learning-based medical image segmentation methods, which demonstrate superior accuracy and robustness compared to traditional segmentation techniques, thereby becoming the mainstream technology in the field.</description>
+    </item>
+    
+    <item>
       <title>A3PIM: An Automated, Analytic and Accurate Processing-in-Memory Offloader</title>
       <link>https://acsalab.github.io/acsa-web-2024/publications/2024/date-a3pim/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -71,6 +80,15 @@
       
       <guid>https://acsalab.github.io/acsa-web-2024/publications/2022/embc-autoseg/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Carver: Learning to Reconstruct Right Ventricle from Sparse Multi-View 2D Echocardiograms</title>
+      <link>https://acsalab.github.io/acsa-web-2024/publications/2025/icassp-carver/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://acsalab.github.io/acsa-web-2024/publications/2025/icassp-carver/</guid>
+      <description>Accurate 3D reconstruction of the right ventricle from multi-view echocardiograms is crucial for the quantitative diagnosis of cardiac diseases. However, existing methods often fail to deliver satisfactory results due to the structural complexity of the right ventricle and the sparsity of non-parallel ultrasound views. In this paper, we propose an efficient reconstruction method named Carver, which redefines 3D reconstruction of the right ventricle as a voxel-wise dense prediction task for the first time.</description>
     </item>
     
     <item>
@@ -164,12 +182,48 @@
     </item>
     
     <item>
+      <title>NDFT: Accelerating Density Functional Theory Calculations via Hardware/Software Co-Design on Near-Data Computing System</title>
+      <link>https://acsalab.github.io/acsa-web-2024/publications/2025/dac-ndft/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://acsalab.github.io/acsa-web-2024/publications/2025/dac-ndft/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NDPage: Efficient Address Translation for Near-Data Processing Architectures via Tailored Page Table</title>
+      <link>https://acsalab.github.io/acsa-web-2024/publications/2025/date25-ndpage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://acsalab.github.io/acsa-web-2024/publications/2025/date25-ndpage/</guid>
+      <description>Near-Data Processing (NDP) has been a promising architectural paradigm to address the memory wall problem for data-intensive applications. Practical implementation of NDP architectures calls for system support for better programmability, where having virtual memory (VM) is critical. Modern computing systems incorporate a 4-level page table design to support address translation in VM. However, simply adopting an existing 4-level page table in NDP systems causes significant address translation overhead because (1) NDP applications generate a lot of address translations, and (2) the limited L1 cache in NDP systems cannot cover the accesses to page table entries (PTEs).</description>
+    </item>
+    
+    <item>
       <title>Predictive Accuracy-Based Active Learning for Medical Image Segmentation</title>
       <link>https://acsalab.github.io/acsa-web-2024/publications/2024/ijcai-shijun/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://acsalab.github.io/acsa-web-2024/publications/2024/ijcai-shijun/</guid>
       <description>Active learning is considered a viable solution to alleviate the contradiction between the high dependency of deep learning-based segmentation methods on annotated data and the expensive pixel-level annotation cost of medical images. However, most existing methods suffer from unreliable uncertainty assessment and the struggle to balance diversity and informativeness, leading to poor performance in segmentation tasks. In response, we propose an efficient Predictive Accuracy-based Active Learning (PAAL) method for medical image segmentation, first introducing predictive accuracy to define uncertainty.</description>
+    </item>
+    
+    <item>
+      <title>PromptSeg: Learning to Segment Medical Image via Visual Prompts</title>
+      <link>https://acsalab.github.io/acsa-web-2024/publications/2025/icassp-promptseg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://acsalab.github.io/acsa-web-2024/publications/2025/icassp-promptseg/</guid>
+      <description>Deep learning has made remarkable medical image segmentation advancements, yet its generalization capability across tasks remains challenging. The variety of task objectives, disease-dependent labeling variations, and multi-center data contribute to the poor generalization capacity of task-specific models on unseen tasks, necessitating domain adaptation or fine-tuning. This typically involves data annotation and network retraining, limiting the application of deep learning in clinical practice. In this study, we propose PromptSeg, an innovative Transformer-based unified segmentation framework for general medical image segmentation tasks.</description>
+    </item>
+    
+    <item>
+      <title>Pruner: A Draft-then-Verify Exploration Mechanism to Accelerate Tensor Program Tuning</title>
+      <link>https://acsalab.github.io/acsa-web-2024/publications/2025/asplos-pruner/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://acsalab.github.io/acsa-web-2024/publications/2025/asplos-pruner/</guid>
+      <description>Tensor program tuning is essential for the efficient deployment of deep neural networks. Search-based approaches have demonstrated scalability and effectiveness in automatically finding high-performance programs for specific hardware. However, the search process is often inefficient, taking hours or even days to discover optimal programs due to the exploration mechanisms guided by an accurate but slow-learned cost model. Meanwhile, the learned cost model trained on one platform cannot seamlessly adapt online to another, which we call cross-platform online unawareness.</description>
     </item>
     
     <item>
