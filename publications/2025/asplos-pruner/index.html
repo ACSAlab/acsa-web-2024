@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    
+        <link rel="icon" href="https://acsa.ustc.edu.cn//images/acsa-favicon.png" type="image/png">
+        <link rel="shortcut icon" href="https://acsa.ustc.edu.cn//images/acsa-favicon.png" type="image/png">
+    
+    
+    
+    <link rel="stylesheet" type="text/css" href="https://acsa.ustc.edu.cn/css/bootstrap-icons.min.css">
+    <link rel="stylesheet" type="text/css" href="https://acsa.ustc.edu.cn/css/style1NavFooter.css">
+    <link rel="stylesheet" type="text/css" href="https://acsa.ustc.edu.cn/css/style2Home.css">
+    <link rel="stylesheet" type="text/css" href="https://acsa.ustc.edu.cn/css/style3People.css">
+    <link rel="stylesheet" type="text/css" href="https://acsa.ustc.edu.cn/css/style4Publications.css">
+    <link rel="stylesheet" type="text/css" href="https://acsa.ustc.edu.cn/css/style5News.css">
+    <link rel="stylesheet" type="text/css" href="https://acsa.ustc.edu.cn/css/style6Events.css">
+    <link rel="stylesheet" type="text/css" href="https://acsa.ustc.edu.cn/css/style7About.css">
+    <link rel="stylesheet" type="text/css" href="https://acsa.ustc.edu.cn/css/style8Admonition.css">
+    <link rel="stylesheet" type="text/css" href="https://acsa.ustc.edu.cn/css/style.min.css">
+    <link rel="stylesheet" type="text/css" href="https://acsa.ustc.edu.cn/css/APlayer.min.css">
+    
+	
+    
+	
+    
+    <title>ACSA Lab | Pruner: A Draft-then-Verify Exploration Mechanism to Accelerate Tensor Program Tuning</title>
+</head><body>
+<div class="other-white-navbar">
+	<div class="first-layer-navbar">
+		
+			
+				<a class="navbar-logo" href="/">
+					<img height="30px" src="https://acsa.ustc.edu.cn/images/acsa_light.png"
+						alt="ACSA Lab">
+				</a>
+			
+		
+
+		<a class="navbar-text">Information: </a>
+		
+			
+			<a class="navbar-text navbar-text-first normal-font"  href="https://docs.acsalab.com/"> Docs </a>
+			
+			<a class="navbar-text navbar-text-first normal-font"  href="https://hosts.acsalab.com/"> Hosts </a>
+			
+			<a class="navbar-text navbar-text-first normal-font"  href="https://monitor.acsalab.com/"> Monitor </a>
+			
+			<a class="navbar-text navbar-text-first normal-font"  href="http://wiki.acsalab.com/"> Wiki </a>
+			
+			<a class="navbar-text navbar-text-first normal-font"  href="https://acsa.ustc.edu.cn/ics/"> ICS </a>
+			
+		
+
+	</div>
+
+	
+	<div class="second-layer-navbar">
+		<button class="menu-button" aria-label="Toggle Menu">&#9776;</button>
+		<ul class="menu-list">
+			
+				
+				
+				
+					<a class="navbar-text" href="https://acsa.ustc.edu.cn/people">People</a>
+				
+			
+				
+				
+				
+					<a class="navbar-text" href="https://acsa.ustc.edu.cn/publications">Publications</a>
+				
+			
+				
+				
+				
+					<a class="navbar-text" href="https://acsa.ustc.edu.cn/news">News</a>
+				
+			
+				
+				
+				
+					<a class="navbar-text" href="https://acsa.ustc.edu.cn/events">Events</a>
+				
+			
+				
+				
+				
+					<a class="navbar-text" href="https://acsa.ustc.edu.cn/notice">Notice</a>
+				
+			
+				
+				
+				
+					<a class="navbar-text" href="https://acsa.ustc.edu.cn/services">Services</a>
+				
+			
+				
+				
+				
+					<a class="navbar-text" href="https://acsa.ustc.edu.cn/about">About</a>
+				
+			
+				
+				
+				
+					<a class="navbar-text" href="https://acsa.ustc.edu.cn/joinus">Join us</a>
+				
+			
+		</ul>
+		
+	</div>
+</div>
+<div id="content">
+
+<div class="topdown-main">
+		<div class="publications-column full4footer">			
+			
+			<h1 style="text-align:left; font-size: xx-large;color:black;">Pruner: A Draft-then-Verify Exploration Mechanism to Accelerate Tensor Program Tuning</h1>
+			
+	
+			
+			
+			
+
+		
+			<p class="start-time">
+				<img class="event-icon" src="https://acsa.ustc.edu.cn//images/calendar.png" alt="" height="20" width="20">
+				 UTC+8
+			</p>
+			
+			
+
+			
+			
+	
+
+			
+			<hr aria-hidden="true">
+
+			<p>Tensor program tuning is essential for the efficient deployment of deep neural networks. Search-based approaches have demonstrated scalability and effectiveness in automatically finding high-performance programs for specific hardware. However, the search process is often inefficient, taking hours or even days to discover optimal programs due to the exploration mechanisms guided by an accurate but slow-learned cost model. Meanwhile, the learned cost model trained on one platform cannot seamlessly adapt online to another, which we call cross-platform online unawareness. In this work, we propose Pruner and MoA-Pruner. Pruner is a &lsquo;&lsquo;Draft-then-Verify&rsquo;&rsquo; exploration mechanism that accelerates the schedule search process. Instead of applying the complex learned cost model to all explored candidates, Pruner drafts small-scale potential candidates by introducing a naive Symbol-based Analyzer (draft model), then identifies the best candidates by the learned cost model. MoA-Pruner introduces a Momentum online Adaptation strategy to address the cross-platform online unawareness.
+We incorporate Pruner into the TVM and conduct extensive experiments on three GPU-based platforms. Results show considerable speedup in schedule search time. In online tuning scenarios, Pruner and MoA-Pruner achieve an average speedup of 2.6 × and 4.82 × compared to Ansor. In offline tuning scenarios, Pruner achieves an average speedup of 4.75 × and 4.05× compared to TenSet and TLP, respectively. Furthermore, Pruner achieves an average speedup of 4.08 × compared to MetaSchedule on TensorCore.</p>
+
+		</div>
+</div>
+
+
+
+
+	
+
+
+        </div><div class="topdown-footer">
+
+
+<div class="footer-secondary">
+    <div class="footer-secondary-column">
+        <p class="footer-secondary-text">Copyright (c) 2023 - 2025 <a class="footer-secondary-url" href="https://github.com/Kirrito-k423">Shaojie Tan</a></p>
+        <p class="footer-secondary-text">Made with 
+            <a class="footer-secondary-url" href="https://gohugo.io/">hugo</a> and 
+            <a class="footer-secondary-url" href="https://github.com/Kirrito-k423/hugo-theme-topdown">topdown</a>
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+
+<script src="https://acsa.ustc.edu.cn//js/feather.min.js"></script>
+<script>
+  feather.replace()
+</script>
+
+
+<script type="text/javascript" src="https://acsa.ustc.edu.cn//js/jquery-3.7.1.min.js"></script>
+<script type="text/javascript" src="https://acsa.ustc.edu.cn//js/jump.js"></script>
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+    var menuButton = document.querySelector('.menu-button');
+    var menuList = document.querySelector('.menu-list');
+
+    menuButton.addEventListener('click', function () {
+        menuList.classList.toggle('active');
+    });
+});
+</script>
+
+<script>
+  $(document).ready(function () {
+      
+      $(".clickable").click(function () {
+          
+          $(this).next(".hidden").slideToggle();
+      });
+  });
+</script>
+
+</body>
+    <style>
+        body {
+          margin: 0;  
+        }
+    </style>
+</html>
