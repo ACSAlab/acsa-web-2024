@@ -418,7 +418,7 @@ CV https://blog.chivier.site/about/CV.pdf</description>
       <guid>https://acsa.ustc.edu.cn/people/jiangqingcai/</guid>
       <description>个人简介 姜庆彩， 2021级博士生，ACSA实验室HPC方向，主要研究方向为计算机体系结构、高性能计算和负载建模。
 邮箱: jqc@mail.ustc.edu.cn, jqc9707@gmail.com
-教育经历  2023年10月 - 现在 联合培养 苏黎世联邦理工学院 导师： Onur Mutlu 2019年9月 - 现在 硕博连读 中国科学技术大学 计算机科学与技术学院 导师：安虹 2015年9月 - 2019年7月本科 中国科学技术大学 计算机科学与技术学院 导师：安虹  工业界经历  2023年6月 - 2023年10月 研究实习生 华为2012实验室 基础软件创新实验室 导师：林晗 2018年10月 - 2019年3月 软件开发实习生 华为2012实验室 并行与分布式实验室 导师：于璠  研究方向  计算机体系结构（近存计算相关）， 并行计算（异构系统上大规模密度泛函计算软件的优化） 系统建模（在AArch64系统上改进静态代码分析工具）  教学工作 中国科学技术大学
+教育经历  2023年10月 - 2024年10月 联合培养 苏黎世联邦理工学院 导师： Onur Mutlu 2019年9月 - 现在 硕博连读 中国科学技术大学 计算机科学与技术学院 导师：安虹 2015年9月 - 2019年7月本科 中国科学技术大学 计算机科学与技术学院 导师：安虹  工业界经历  2023年6月 - 2023年10月 研究实习生 华为2012实验室 基础软件创新实验室 导师：林晗 2018年10月 - 2019年3月 软件开发实习生 华为2012实验室 并行与分布式实验室 导师：于璠  研究方向  计算机体系结构（近存计算相关）， 并行计算（异构系统上大规模密度泛函计算软件的优化） 系统建模（在AArch64系统上改进静态代码分析工具）  教学工作 中国科学技术大学
  助教 计算机系统概论A（CS1002A）2021年秋季学期 助教 程序设计II （011175）2020年春季学期 助教 计算机系统概论H（011704） 2019年秋季学期 助教 人工智能导论（011119）2019年春季学期  获奖情况  2019年第七届亚太地区RDMA编程挑战赛一等奖 2020年第八届亚太地区RDMA编程挑战赛一等奖 2020年第八届全国并行应用挑战赛 应用组一等奖 2020年ASML计算光刻及超算软件奖学金 2022年环球数码奖学金 2022年ACM Gordon Bell Prize提名    </description>
     </item>
     
@@ -1122,6 +1122,15 @@ Gu Liu, Hong An, Xiaoqiang Li, Wei Zhou, Xuechao Wei, Xulong Tang FlexBFS: A Par
       
       <guid>https://acsa.ustc.edu.cn/publications/2025/asplos-pruner/</guid>
       <description>Tensor program tuning is essential for the efficient deployment of deep neural networks. Search-based approaches have demonstrated scalability and effectiveness in automatically finding high-performance programs for specific hardware. However, the search process is often inefficient, taking hours or even days to discover optimal programs due to the exploration mechanisms guided by an accurate but slow-learned cost model. Meanwhile, the learned cost model trained on one platform cannot seamlessly adapt online to another, which we call cross-platform online unawareness.</description>
+    </item>
+    
+    <item>
+      <title>PWDFT-SW: Extending the Limit of Plane-Wave DFT Calculations to 16K Atoms on the New Sunway Supercomputer</title>
+      <link>https://acsa.ustc.edu.cn/publications/2024/tpds-pwdft-sw/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://acsa.ustc.edu.cn/publications/2024/tpds-pwdft-sw/</guid>
+      <description>First-principles density functional theory (DFT) with plane wave (PW) basis set is the most widely used method in quantum mechanical material simulations due to its advantages in accuracy and universality. However, a perceived drawback of PW-based DFT calculations is their substantial computational cost and memory usage, which currently limits their ability to simulate large-scale complex systems containing thousands of atoms. This situation is exacerbated in the new Sunway supercomputer, where each process is limited to a mere 16 GB of memory.</description>
     </item>
     
     <item>

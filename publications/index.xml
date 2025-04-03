@@ -227,6 +227,15 @@
     </item>
     
     <item>
+      <title>PWDFT-SW: Extending the Limit of Plane-Wave DFT Calculations to 16K Atoms on the New Sunway Supercomputer</title>
+      <link>https://acsa.ustc.edu.cn/publications/2024/tpds-pwdft-sw/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://acsa.ustc.edu.cn/publications/2024/tpds-pwdft-sw/</guid>
+      <description>First-principles density functional theory (DFT) with plane wave (PW) basis set is the most widely used method in quantum mechanical material simulations due to its advantages in accuracy and universality. However, a perceived drawback of PW-based DFT calculations is their substantial computational cost and memory usage, which currently limits their ability to simulate large-scale complex systems containing thousands of atoms. This situation is exacerbated in the new Sunway supercomputer, where each process is limited to a mere 16 GB of memory.</description>
+    </item>
+    
+    <item>
       <title>Quantifying Throughput of Basic Blocks on ARM Microarchitectures by Static Code Analyzers: A Case Study on Kunpeng 920</title>
       <link>https://acsa.ustc.edu.cn/publications/2022/hpcc22-sca/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
