@@ -128,6 +128,15 @@
     </item>
     
     <item>
+      <title>Deep learning promoted target volumes delineation of total marrow and total lymphoid irradiation for accelerated radiotherapy: A multi-institutional study</title>
+      <link>https://acsalab.github.io/acsa-web-2024/publications/2024/physicamedica-study/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://acsalab.github.io/acsa-web-2024/publications/2024/physicamedica-study/</guid>
+      <description>Background and purpose One of the current roadblocks to the widespread use of Total Marrow Irradiation (TMI) and Total Marrow and Lymphoid Irradiation (TMLI) is the challenging difficulties in tumor target contouring workflow. This study aims to develop a hybrid neural network model that promotes accurate, automatic, and rapid segmentation of multi-class clinical target volumes. Materials and methods Patients who underwent TMI and TMLI from January 2018 to May 2022 were included.</description>
+    </item>
+    
+    <item>
       <title>Establishing a Modeling System in 3-km Horizontal Resolution for Global Atmospheric Circulation triggered by Submarine Volcanic Eruptions with 400 Billion Smoothed Particle Hydrodynamics</title>
       <link>https://acsalab.github.io/acsa-web-2024/publications/2023/sc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -152,6 +161,15 @@
       
       <guid>https://acsalab.github.io/acsa-web-2024/publications/2022/embc-fctc/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Forecasting the eddying ocean with a deep neural network</title>
+      <link>https://acsalab.github.io/acsa-web-2024/publications/2025/nature-forecasting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://acsalab.github.io/acsa-web-2024/publications/2025/nature-forecasting/</guid>
+      <description>Mesoscale eddies with horizontal scales from tens to hundreds of kilometers are ubiquitous in the upper ocean, dominating the ocean variability from daily to weekly time scales. Their turbulent nature causes great scientific challenges and computational burdens in accurately forecasting the short-term evolution of the ocean states based on conventional physics-driven numerical models. Recently, artificial intelligence (AI)-based methods have achieved competitive forecast performance and greatly increased computational efficiency in weather forecasts, compared to numerical models.</description>
     </item>
     
     <item>
