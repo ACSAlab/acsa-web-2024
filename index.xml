@@ -970,6 +970,15 @@ Gu Liu, Hong An, Xiaoqiang Li, Wei Zhou, Xuechao Wei, Xulong Tang FlexBFS: A Par
     </item>
     
     <item>
+      <title>CIExplorer: Microarchitecture-Aware Exploration for Tightly Integrated Custom Instruction</title>
+      <link>https://acsa.ustc.edu.cn/publications/2025/ics-ciexplorer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://acsa.ustc.edu.cn/publications/2025/ics-ciexplorer/</guid>
+      <description>Extending existing architectures with customized instruction extensions is emerging to achieve high performance and energy efficiency for specific applications. Automated discovery of custom instructions (CIs) is well-studied nowadays, which requires exploring combinations of different types and quantities of operations, resulting in a vast search space. However, previous works typically use microarchitecture-agnostic cost models, leading to suboptimal CIs that may degrade performance. They leverage graph isomorphism to reduce area overhead, but few of them consider its potential to benefit performance-oriented exploration.</description>
+    </item>
+    
+    <item>
       <title>Clisp: A Robust Interactive Segmentation Framework for Pathological Images</title>
       <link>https://acsa.ustc.edu.cn/publications/2024/embc-hannanwang/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
