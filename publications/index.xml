@@ -290,6 +290,15 @@
     </item>
     
     <item>
+      <title>swMPAS-A: Scaling MPAS-A to 39 Million Heterogeneous Cores on the New Generation Sunway Supercomputer</title>
+      <link>https://acsa.ustc.edu.cn/publications/2022/tpds-swmpas-a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://acsa.ustc.edu.cn/publications/2022/tpds-swmpas-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>SWSPH: A Massively Parallel SPH Implementation for Hundred-Billion-Particle Simulation on New Sunway Supercomputer</title>
       <link>https://acsa.ustc.edu.cn/publications/2023/euro-par/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
