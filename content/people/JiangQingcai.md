@@ -7,8 +7,8 @@ img: https://qcjiang.github.io/picture/jqc.jpg # 头像链接
 year_enrollment: 2019       # 硕士入学年份，来计算硕士生几年级
 year_enrollment_PhD: 2021  # 博士入学年份，来计算博士生几年级
 year_graduation: 2025       # 毕业年份，来判断是不是校友
-employment: 上海华为          # 实验室毕业工作去向：e.g. 百度，MIT，中石化，公务员
-employment_short: 上海华为
+employment: 华为          # 实验室毕业工作去向：e.g. 百度，MIT，中石化，公务员
+employment_short: 华为
 
 # social media
 googlescholar_url: https://scholar.google.com/citations?user=OaiS4pMAAAAJ         # googlescholar

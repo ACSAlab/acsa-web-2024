@@ -7,8 +7,8 @@ img: ./images/people/ZhangZiyu.jpg # 头像链接
 year_enrollment: 2018       # 硕士入学年份，来计算硕士生几年级
 year_enrollment_PhD: 2020  # 博士入学年份，来计算博士生几年级
 year_graduation: 2025       # 毕业年份，来判断是不是校友
-employment: 深圳腾讯          # 实验室毕业工作去向：e.g. 百度，MIT，中石化，公务员
-employment_short: 深圳腾讯
+employment: 腾讯          # 实验室毕业工作去向：e.g. 百度，MIT，中石化，公务员
+employment_short: 腾讯
 
 # social media
 googlescholar_url:          # googlescholar
