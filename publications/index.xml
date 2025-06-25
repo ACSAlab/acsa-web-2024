@@ -29,15 +29,6 @@
     </item>
     
     <item>
-      <title>A review of deep learning-based medical image segmentation methods</title>
-      <link>https://acsalab.github.io/acsa-web-2024/publications/2025/zongshu/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://acsalab.github.io/acsa-web-2024/publications/2025/zongshu/</guid>
-      <description>Medical image segmentation is a crucial component of clinical medical image analysis, aimed at accurately identifying and delineating anatomical structures or regions of interest, such as lesions, within medical images. This provides objective and quantitative support for decision-making in disease diagnosis, treatment planning, and postoperative evaluation. In recent years, the rapid growth of available annotated data has facilitated the swift development of deep learning-based medical image segmentation methods, which demonstrate superior accuracy and robustness compared to traditional segmentation techniques, thereby becoming the mainstream technology in the field.</description>
-    </item>
-    
-    <item>
       <title>A3PIM: An Automated, Analytic and Accurate Processing-in-Memory Offloader</title>
       <link>https://acsalab.github.io/acsa-web-2024/publications/2024/date-a3pim/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -143,6 +134,15 @@
       
       <guid>https://acsalab.github.io/acsa-web-2024/publications/2024/physicamedica-study/</guid>
       <description>Background and purpose One of the current roadblocks to the widespread use of Total Marrow Irradiation (TMI) and Total Marrow and Lymphoid Irradiation (TMLI) is the challenging difficulties in tumor target contouring workflow. This study aims to develop a hybrid neural network model that promotes accurate, automatic, and rapid segmentation of multi-class clinical target volumes. Materials and methods Patients who underwent TMI and TMLI from January 2018 to May 2022 were included.</description>
+    </item>
+    
+    <item>
+      <title>Deep learning-based medical image segmentation methods</title>
+      <link>https://acsalab.github.io/acsa-web-2024/publications/2025/zongshu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://acsalab.github.io/acsa-web-2024/publications/2025/zongshu/</guid>
+      <description>Medical image segmentation is a crucial component of clinical medical image analysis, aiming to accurately identify and delineate anatomical structures or regions of interest, such as lesions, within medical images. This process provides objective and quantitative support for decision-making in disease diagnosis, treatment planning, and postoperative evaluation. In recent years, the rapid expansion of available annotated datasets has driven the swift development of deep learning-based medical image segmentation methods. These methods have demonstrated superior accuracy and robustness compared to traditional segmentation techniques, establishing themselves as the mainstream technology in the field.</description>
     </item>
     
     <item>
