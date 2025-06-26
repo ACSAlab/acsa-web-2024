@@ -200,6 +200,15 @@
     </item>
     
     <item>
+      <title>Im2col-Winograd: An Efficient and Flexible Fused-Winograd Convolution for NHWC Format on GPUs</title>
+      <link>https://acsalab.github.io/acsa-web-2024/publications/2024/icpp24-zhangzhiyi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://acsalab.github.io/acsa-web-2024/publications/2024/icpp24-zhangzhiyi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Multi-level Load Balancing Strategies for Massively Parallel Smoothed Particle Hydrodynamics Simulation</title>
       <link>https://acsalab.github.io/acsa-web-2024/publications/2024/icpp-yizhang/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -281,6 +290,15 @@
     </item>
     
     <item>
+      <title>Reduce Computational Complexity for Convolutional Layers by Skipping Zeros</title>
+      <link>https://acsalab.github.io/acsa-web-2024/publications/2023/hipc-zhangzhiyi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://acsalab.github.io/acsa-web-2024/publications/2023/hipc-zhangzhiyi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Rethinking Automatic Segmentation of Gross Target Volume from a Decoupling Perspective</title>
       <link>https://acsalab.github.io/acsa-web-2024/publications/2023/cmig-autoseg/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -331,6 +349,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://acsalab.github.io/acsa-web-2024/publications/2022/embc-whole/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WinRS: Accelerate Winograd Backward-Filter Convolution with Tiny Workspace</title>
+      <link>https://acsalab.github.io/acsa-web-2024/publications/2025/icpp25-zhangzhiyi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://acsalab.github.io/acsa-web-2024/publications/2025/icpp25-zhangzhiyi/</guid>
       <description></description>
     </item>
     
