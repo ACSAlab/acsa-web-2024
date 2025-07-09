@@ -46,12 +46,12 @@ hideOtherPubs: yes # yes to hide 参与论文，empty to show
 
 **代表性论著：**
 
-- Cao, Shiheng, Junmin Wu, Junshi Chen, Hong An, and Zhibin Yu. "AMALI: An Analytical Model for Accurately Modeling LLM Inference on Modern GPUs." In Proceedings of the 52nd Annual International Symposium on Computer Architecture, pp. 1495-1508. 2025.
-- Yu, Zhibin, Lieven Eeckhout, Nilanjan Goswami, Tao Li, Lizy K. John, Hai Jin, Chengzhong Xu, and Junmin Wu. "GPGPU-MiniBench: accelerating GPGPU micro-architecture simulation." IEEE Transactions on Computers 64, no. 11 (2015): 3153-3166.
+- Shiheng Cao, Junmin Wu, Junshi Chen, Hong An, and Zhibin Yu. "AMALI: An Analytical Model for Accurately Modeling LLM Inference on Modern GPUs." In Proceedings of the 52nd Annual International Symposium on Computer Architecture, pp. 1495-1508. 2025.
+- Zhibin Yu, Lieven Eeckhout, Nilanjan Goswami, Tao Li, Lizy K. John, Hai Jin, Chengzhong Xu, and Junmin Wu. "GPGPU-MiniBench: accelerating GPGPU micro-architecture simulation." IEEE Transactions on Computers 64, no. 11 (2015): 3153-3166.
 - 隋秀峰, 吴俊敏, 陈国良. ELF: 基于无用块消除和低重用块过滤的共享Cache管理策略. 计算机学报，Vol.34(1):143-153,2011/1.
 - Xiufeng Sui, Junmin Wu, Guoliang Chen, Yixuan Tang, Xiaodong Zhu, Augmenting Cache Partitioning with Thread-Aware Insertion/Promotion Policies to Manage Shared Caches. 2010 ACM International Conference on Computing Frontiers，CF2010，2010/6
 - Junmin Wu, Xiufeng Sui, Yixuan Tang, Xiaodong Zhu, Jing Wang, Guoliang Chen, Cache Management with Partitioning-Aware Eviction and Thread-Aware Insertion/Promotion Policy. 2010 International Symposium on Parallel and Distributed Processing with Applications，ISPA2010，2010/9
-- Wu Junmin，Song Zhenhua，A Real-Time Relaxed Garbage Collection in DSM，Chinese Journal of Electronics，Vol.16(1):7-12，Jan.2007
+- Junmin Wu，Zhenhua Song，A Real-Time Relaxed Garbage Collection in DSM，Chinese Journal of Electronics，Vol.16(1):7-12，Jan.2007
 - 吴俊敏，杨超，陈国良，存储模型仿真器的设计与实现，计算机研究与发展，vol.42(3):394-403,2005
 - 吴俊敏，陈国良，一种新的Java存储模型L-JMM，计算机研究与发展，vol.43(4):738-743,2006
 - 王文韬，吴俊敏，许胤龙，李黄海，鲍春健，一种分级可扩放全序组通信协议-RHGP. 计算机研究与发展，vol.43(10):1775-1781,2006
