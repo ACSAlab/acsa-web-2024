@@ -2,7 +2,7 @@
 # 后续与个人不符合的选项，请空缺
 cn_name: 石军
 cn_level:  博士后研究员     # 教授，研究员（博士生,硕士生不用填
-teacher_sort: 4    # 教师排序，学生可以忽略
+teacher_sort: 5    # 教师排序，学生可以忽略
 img: ./images/people/ShiJun1.jpg # 头像链接
 
 year_enrollment:        # 硕士入学年份，来计算硕士生几年级

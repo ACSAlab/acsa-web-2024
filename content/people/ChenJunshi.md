@@ -2,7 +2,7 @@
 # 后续与个人不符合的选项，请空缺
 cn_name: 陈俊仕
 cn_level: 特任副研究员   # 教授，研究员（博士生,硕士生不用填
-teacher_sort: 3    # 教师排序，学生可以忽略
+teacher_sort: 4    # 教师排序，学生可以忽略
 img: https://faculty.ustc.edu.cn/_resources/group1/M00/00/39/wKhJFGOZORiAeNt_AAFd_wXlSno238.png # 头像链接
 
 year_enrollment:        # 本科入学年份，来计算本科生几年级
