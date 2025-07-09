@@ -6,9 +6,9 @@ img: ./images/people/FangXi2.png # 头像链接
 
 year_enrollment: 2022       # 硕士入学年份，来计算硕士生几年级
 year_enrollment_PhD:   # 博士入学年份，来计算博士生几年级
-year_graduation:        # 毕业年份，来判断是不是校友
-employment_short:          # 实验室毕业工作去向：e.g. 百度，MIT，中石化，公务员
-employment:          # 实验室毕业工作去向：e.g. 百度，MIT，中石化，公务员
+year_graduation:  2025      # 毕业年份，来判断是不是校友
+employment_short: 浙江移动省公司         # 实验室毕业工作去向：e.g. 百度，MIT，中石化，公务员
+employment: 中国移动通信集团浙江有限公司         # 实验室毕业工作去向：e.g. 百度，MIT，中石化，公务员
 
 # social media
 googlescholar_url:          # googlescholar

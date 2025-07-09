@@ -6,9 +6,9 @@ img: ./images/people/LiYida.png # 头像链接
 
 year_enrollment: 2022       # 硕士入学年份，来计算硕士生几年级
 year_enrollment_PhD:   # 博士入学年份，来计算博士生几年级
-year_graduation:        # 毕业年份，来判断是不是校友
-employment_short:          # 实验室毕业工作去向：e.g. 百度，MIT，中石化，公务员
-employment:          # 实验室毕业工作去向：e.g. 百度，MIT，中石化，公务员
+year_graduation: 2025       # 毕业年份，来判断是不是校友
+employment_short: 南方电网         # 实验室毕业工作去向：e.g. 百度，MIT，中石化，公务员
+employment: 南方电网电子科技有限公司         # 实验室毕业工作去向：e.g. 百度，MIT，中石化，公务员
 
 # social media
 googlescholar_url:          # googlescholar
