@@ -245,6 +245,19 @@ https://mp.weixin.qq.com/s/kd4WGQBVLx6brOZXCu4Izw</description>
     </item>
     
     <item>
+      <title></title>
+      <link>https://acsalab.github.io/acsa-web-2024/people/wujunmin/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://acsalab.github.io/acsa-web-2024/people/wujunmin/</guid>
+      <description>个人简介
+吴俊敏，男，1973年生，博士，副教授。1994年本科毕业于中国科学技术大学计算机系，2005年于中国科学技术大学获计算机系统结构专业博士学位，自2000年以来任中国科学技术大学计算机系教员。承担了多项计算机系统结构方面的科研项目，包括2项国家863课题，1项国家自然科学基金课题，并与IBM、SONY、华为等企业有长期科研合作。目前在重点学术期刊和国际会议上发表论文60余篇，其中EI/SCI索引30余篇。合作出版著作2本，申请有关国家专利13项，授权3项。
+已结题科研项目情况：
+ 国家自然科学基金项目“大规模数据中心体系结构级仿真器加速技术研究”，负责人，课题编号61272132，2013-2016，经费80万； IBM公司，“基于PowerPC架构的高性能嵌入式多核系统虚拟化技术”，负责人，2012-2013，经费10万； SONY公司，“基于虚拟化技术的Ｉ／Ｏ空间集成技术”，负责人，2011-2012，经费45万； 华为公司，“CPU外围RAM故障检测与隔离技术研究”，负责人，2011-2012，经费10万； 国家863项目 基于多核平台的并行片上多处理器仿真技术研究，负责人，课题编号：2008AA01Z111，2008-2010，经费68万 国家863项目 红色神经元超高扩展高密度计算技术， 子课题负责人，承担红神计算机的仿真与评测任务，课题编号：2005AA104031，2006-2007，经费25万 国家973项目，无线传感网络应用示范系统，二级子课题负责人，课题编号：2006CB303006，2006-2010，经费25万 国家973预研项目，移动传感节点的环境监测仿真应用研究，子课题负责人，课题编号2007CB316505，2007-2008，经费15万 国家发改委CNGI项目，基于IPv6无线传感器网络的环境监测系统，子课题负责人， 2006-2007，经费25万 IBM公司 多核云计算平台上保证虚拟机服务质量的关键技术研究，负责人，2009-2010，经费8万 华为公司863子课题 虚拟机关键技术研究，负责人，2009-2010，经费35万 华为技术有限公司 高可用集群研究及其实现，负责人，2005-2006，经费30万 华为技术有限公司 高性能集群与网格技术研究，负责人，2004-2005，经费8万  代表性论著：
+ Cao, Shiheng, Junmin Wu, Junshi Chen, Hong An, and Zhibin Yu. &amp;ldquo;AMALI: An Analytical Model for Accurately Modeling LLM Inference on Modern GPUs.&amp;rdquo; In Proceedings of the 52nd Annual International Symposium on Computer Architecture, pp. 1495-1508. 2025. Yu, Zhibin, Lieven Eeckhout, Nilanjan Goswami, Tao Li, Lizy K.</description>
+    </item>
+    
+    <item>
       <title>An Hong&#39;s Team Wins CCF HPC Committee&#39;s 2022 Award for Best Application in China</title>
       <link>https://acsalab.github.io/acsa-web-2024/news/hpc/221226-annualhpcapp/</link>
       <pubDate>Mon, 26 Dec 2022 00:00:00 +0000</pubDate>
