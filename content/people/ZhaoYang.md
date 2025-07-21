@@ -2,7 +2,7 @@
 # 后续与个人不符合的选项，请空缺
 cn_name: 赵阳
 cn_level:           # 教授，研究员（博士生,硕士生不用填
-img: ./images/people/ZhaoYang.png # 头像链接
+img: ./images/people/ZhaoYang.jpg # 头像链接
 
 year_enrollment: 2023       # 硕士入学年份，来计算硕士生几年级
 year_enrollment_PhD:   # 博士入学年份，来计算博士生几年级
@@ -19,7 +19,7 @@ email:  aflyingsheep61@gmail.com     # 常用邮件
 
 # 个人简介
 
-赵阳，2023级硕士生，ACSA 实验室 HPC 方向。在安虹老师指导下参与 数据流并行编程 方向的研究。
+赵阳，2023级硕士生，ACSA 实验室 HPC 方向。在安虹老师指导下参与**GPU 上的稀疏算法优化**、**异构众核平台上的科学应用优化**以及**数据流并行编程**等方向的研究。
 
 # 学术经历
 
@@ -28,11 +28,9 @@ email:  aflyingsheep61@gmail.com     # 常用邮件
 
 # 研究方向
 
-* 数据流并行编程
-
-# 研究方向
-
-* 神威上并行编程模型的运行时系统
+* 高性能计算
+* 并行算法
+* 并行编程框架与运行时系统
 
 # 获奖情况
 
