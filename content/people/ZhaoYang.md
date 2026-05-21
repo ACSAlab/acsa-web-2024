@@ -12,14 +12,14 @@ employment:           # 实验室毕业工作去向：e.g. 百度，MIT，中石
 # social media
 googlescholar_url:          # googlescholar
 dblp_url:            # dblp
-homepage_url: https://aflyingsheep.github.io/         # 个人博客
+homepage_url: https://aflyingsheep.top/         # 个人博客
 github_url: https://github.com/aflyingsheep         # github主页
 email:  aflyingsheep61@gmail.com     # 常用邮件
 ---
 
 # 个人简介
 
-赵阳，2023级硕士生，ACSA 实验室 HPC 方向。在安虹老师指导下参与**GPU 上的稀疏算法优化**、**异构众核平台上的科学应用优化**以及**数据流并行编程**等方向的研究。
+赵阳，2023级硕士生，ACSA 实验室 HPC 方向。在安虹老师指导下参与**高效机器学习系统**、**异构平台（GPU, 神威）上的科学应用优化**以及**数据流并行编程**等方向的研究。
 
 # 学术经历
 
@@ -28,8 +28,8 @@ email:  aflyingsheep61@gmail.com     # 常用邮件
 
 # 研究方向
 
-* 高性能计算
-* 并行算法
+* Efficient Temporal Graph Neural Networks
+* Distributed Training for LLM
 * 并行编程框架与运行时系统
 
 # 获奖情况
