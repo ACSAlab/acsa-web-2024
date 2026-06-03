@@ -20,4 +20,4 @@ email:  haoxiaoyu@mail.ustc.edu.cn     # 常用邮件
 
 # 个人简介
 
-郝晓宇， 2021级博士生，ACSA实验室HCA方向
+郝晓宇， 2021级博士生。我目前正在寻找业界的工作，具体信息请参考我的[个人主页](https://charlieisacat.github.io/).
